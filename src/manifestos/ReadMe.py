@@ -17,26 +17,30 @@ class ReadMe:
         return lines
 
     def build(self):
-        date_str = TimeFormat.DATE.format(Time.now())
+        time_str = TimeFormat.TIME.format(Time.now())
         lines = (
             [
                 '# 2024 Sri Lankan Presidential Election Manifestos '
                 + '(manifestos_prespollsl2024)',
                 '',
                 'This repository contains the manifestos '
-                + f'I could find as of {date_str}. ',
-                '',
-                '📦 Where possible, images in the original source PDFs have been '
-                + 'compressed.',
-                '',
-                '⚠️ Word counts are approximate and may not be accurate, especially for '
-                + 'non-English text.',
+                + f'I could find as of **{time_str}**. ',
+
             ]
             + self.get_manifesto_lines()
             + [
                 '',
                 'Note: The English Version of Namal Rajapakse\'s Manifesto '
                 + 'is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).',
+                                '',
+        
+                '...',
+                                '',
+                '📦 Where possible, images in the original source PDFs have been '
+                + 'compressed.',
+                '',
+                '⚠️ Word counts are approximate and may not be accurate, especially for '
+                + 'non-English text.',
             ]
         )
 
