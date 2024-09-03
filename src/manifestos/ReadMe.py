@@ -8,13 +8,7 @@ log = Log('ReadMe')
 class ReadMe:
     PATH = 'README.md'
 
-    def get_manifesto_lines(self):
-        lines = []
-        for manifesto_list in Manifesto.list_by_party().values():
-            lines.extend(['', f'## {manifesto_list[0].party}', ''])
-            for manifesto in manifesto_list:
-                lines.append(manifesto.readme_line)
-        return lines
+
 
     def build(self):
         time_str = TimeFormat.TIME.format(Time.now())
@@ -26,7 +20,7 @@ class ReadMe:
                 'This repository contains the manifestos '
                 + f'I could find as of **{time_str}**. ',
             ]
-            + self.get_manifesto_lines()
+            + Manifesto.get_readme_lines()
             + [
                 '',
                 '📦 Where possible, images in the original source PDFs have been '

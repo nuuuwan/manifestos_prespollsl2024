@@ -234,12 +234,16 @@ class Manifesto:
                 for x in [
                     self.pdf_link,
                     self.source_link,
-                    self.wordcloud_link,
-                    self.summary_link,
                 ]
                 if x
             ]
         )
+    
+    @cached_property
+    def readme_wordcloud(self):
+        if not os.path.exists(self.wordcloud_path):
+            return None
+        return f'![{self.party} Wordcloud]({self.wordcloud_path_unix})'
 
     # Loaders
     @classmethod
@@ -261,3 +265,19 @@ class Manifesto:
                 idx[party_code] = []
             idx[party_code].append(manifesto)
         return idx
+
+
+    # Static README
+    @staticmethod
+    def get_readme_lines():
+        lines = []
+        for manifesto_list in Manifesto.list_by_party().values():
+            first_manifesto = manifesto_list[0]
+            lines.extend(['', f'## {first_manifesto.party}', ''])
+            if first_manifesto.readme_wordcloud:
+                lines.append(first_manifesto.readme_wordcloud)
+            if first_manifesto.summary_link:
+                lines.append(first_manifesto.summary_link)
+            for manifesto in manifesto_list:
+                lines.append(manifesto.readme_line)
+        return lines
