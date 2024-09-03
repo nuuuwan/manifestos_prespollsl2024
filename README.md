@@ -2,6 +2,10 @@
 
 This repository contains the manifestos of the candidates who contested the 2024 Sri Lankan Presidential Election.
 
+📦 Where possible, images in the original source PDFs have been compressed.
+
+⚠️ Word counts are approximate and may not be accurate, especially for non-English text.
+
 ## Ranil Wickremesinghe (Independent)
 
 * [English (62 Pages, Images Only, 30.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-en.pdf) - [Original Source](https://www.ranil2024.lk/manifesto)
