@@ -10,5 +10,5 @@ class Color:
     ]
 
     @staticmethod
-    def lk():
+    def lk(__**):
         return random.choice(Color.LK_COLOR_LIST)
