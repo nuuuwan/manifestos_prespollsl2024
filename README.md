@@ -1,6 +1,6 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:40:20**.
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:40:43**.
 
 I've **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
@@ -31,7 +31,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 ![npp-en Wordcloud](data/wordclouds/npp-en.png)
 
-
 ### Sajith Premadasa (Samagi Jana Balawegaya)
 
 [Summary](data/summary/sjb-en.md)
@@ -42,7 +41,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 ![sjb-en Wordcloud](data/wordclouds/sjb-en.png)
 
-
 ### Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
 [Summary](data/summary/slpp-en.md)
@@ -52,7 +50,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 * [தமிழ் (12 Pages, Images Only, 26.1MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/slpp-ta.pdf) · [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_TAMIL_PRESSQ.pdf)
 
 ![slpp-en Wordcloud](data/wordclouds/slpp-en.png)
-
 
 📦 Where possible, images in the original source PDFs have been compressed.
 
