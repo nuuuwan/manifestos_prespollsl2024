@@ -288,7 +288,6 @@ class Manifesto:
             for manifesto in manifesto_list:
                 lines.append(manifesto.readme_line)
 
-
             if first_manifesto.render_wordcloud_lines:
                 lines.extend(first_manifesto.render_wordcloud_lines)
         return lines
