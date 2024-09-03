@@ -27,6 +27,6 @@ This repository contains the manifestos of the candidates who contested the 2024
 ## Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
 * [සිංහල (50 Pages, 5.6MB)](data/pdf/slpp-si.pdf) - [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_SINHALA_PRESSQ.pdf)
-* [தமிழ் (12 Pages, 62.0MB)](data/pdf/slpp-ta.pdf) - [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_TAMIL_PRESSQ.pdf)
+* [தமிழ் (12 Pages, 26.1MB)](data/pdf/slpp-ta.pdf) - [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_TAMIL_PRESSQ.pdf)
 
-Note: The English Version of Namal Rajapakse's Manifesto is available as HTML at [this link](https://www.nr.lk/manifesto).
+Note: The English Version of Namal Rajapakse's Manifesto is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).
