@@ -4,6 +4,7 @@ This repository contains the manifestos of the candidates who contested the 2024
 
 ## Ranil Wickremesinghe (Independent)
 
+* [English (62 Pages, 30.9MB)](data/pdf-original/ind-rw-en.pdf) - [Original Source](https://www.ranil2024.lk/manifesto)
 * [සිංහල (62 Pages, 11.7MB)](data/pdf-original/ind-rw-si.pdf) - [Original Source](https://www.ranil2024.lk/si/manifesto)
 * [தமிழ் (62 Pages, 5.1MB)](data/pdf-original/ind-rw-ta.pdf) - [Original Source](https://www.ranil2024.lk/ta/manifesto)
 
