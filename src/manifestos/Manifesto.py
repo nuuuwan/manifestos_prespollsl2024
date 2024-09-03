@@ -86,7 +86,7 @@ class Manifesto:
     @cached_property
     def content(self):
         txt_file = File(self.txt_path)
-        if txt_file.exists():
+        if txt_file.exists:
             return txt_file.read()
         content = self.content_nocache
         txt_file.write(content)
