@@ -55,7 +55,7 @@ class Manifesto:
     def file_size(self):
         return os.path.getsize(self.file_path)
 
-    # PDF 
+    # PDF
     @cached_property
     def n_pages(self):
         from PyPDF2 import PdfFileReader
@@ -74,7 +74,7 @@ class Manifesto:
             for i in range(pdf.getNumPages()):
                 text += pdf.getPage(i).extract_text()
             return text
-        
+
     @cached_property
     def n_words(self):
         return len(self.content.split())
