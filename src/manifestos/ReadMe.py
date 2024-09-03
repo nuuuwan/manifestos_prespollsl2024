@@ -17,6 +17,15 @@ class ReadMe:
                 '',
                 'This repository contains the manifestos '
                 + f'I could find as of **{time_str}**.',
+                '',
+                'For manifestos with English text, '
+                +'I\'ve also generated summaries'
+                +' that include:',
+                '* Most important promises',
+                '* Most unrealistic promises',
+                '* Top 5 reasons to vote for party',
+                '* Top 5 reasons not to vote for party',
+                '',
             ]
             + Manifesto.get_readme_lines()
             + [
