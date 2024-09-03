@@ -1,4 +1,4 @@
-from utils import File, Log
+from utils import File, Log, Time, TimeFormat
 
 from manifestos.Manifesto import Manifesto
 
@@ -17,13 +17,14 @@ class ReadMe:
         return lines
 
     def build(self):
+        date_str = TimeFormat.DATE.format(Time.now())
         lines = (
             [
                 '# 2024 Sri Lankan Presidential Election Manifestos '
                 + '(manifestos_prespollsl2024)',
                 '',
                 'This repository contains the manifestos '
-                + 'I could find online thus far. ',
+                + f'I could find as of {date_str}. ',
                 '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
