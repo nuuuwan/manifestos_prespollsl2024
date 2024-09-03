@@ -27,3 +27,39 @@ Based on the manifesto, here are the 10 most impactful promises:
 10. **Social Protection and Welfare**: Implementing a universal social protection system, including financial grants for low-income families, support for the elderly and disabled, and comprehensive care for children, women, and vulnerable groups.
 
 These promises outline a vision for a transformed, just, and developed Sri Lanka under the proposed policies of the National People’s Power (NPP).
+
+## Most unrealistic promises
+
+Evaluating the realism of political promises requires considering factors such as economic feasibility, administrative capacity, social and political conditions, and historical precedents. Here are 10 promises from the manifesto that could be considered unrealistic, along with explanations:
+
+1. **Reclaiming Wealth from Corrupt Elite Ruling Groups**:
+   - **Why Unrealistic**: While combating corruption is essential, the idea of reclaiming significant amounts of wealth looted over decades is challenging. It requires extensive legal processes, international cooperation, and political will, which are difficult to coordinate. Historical examples show that such efforts often meet with limited success.
+
+2. **Universal Free and High-Quality Education with 6% of GDP Allocation**:
+   - **Why Unrealistic**: Allocating 6% of GDP to education is an ambitious target. Given Sri Lanka’s economic constraints and other pressing needs (such as healthcare and debt servicing), achieving this without significant economic growth or external aid seems unlikely.
+
+3. **A Circular Economy Transition Across All Sectors**:
+   - **Why Unrealistic**: The transition to a circular economy, especially in sectors like agriculture, energy, and construction, is a long-term goal requiring massive investment, technological innovation, and behavioral change across society. Achieving this within a single government term seems overly optimistic.
+
+4. **50% Women’s Representation in All Decision-Making Bodies**:
+   - **Why Unrealistic**: While increasing women’s representation is critical, reaching 50% in all decision-making bodies, from Parliament to local government, involves not only legislative changes but also shifts in societal attitudes, which typically take time and consistent effort to achieve.
+
+5. **Providing a Monthly Allowance of Rs. 10,000 to Low-Income Families and Persons with Disabilities**:
+   - **Why Unrealistic**: While this promise addresses a crucial need, funding such a large-scale welfare program without a significant increase in government revenue or cuts in other areas is difficult, especially given Sri Lanka’s current fiscal challenges.
+
+6. **Eradicating All Forms of Corruption**:
+   - **Why Unrealistic**: While reducing corruption is necessary, completely eradicating it is extremely challenging, given entrenched interests, systemic issues, and the complexity of governance. Even in countries with strong institutions, corruption persists at some level.
+
+7. **A Modernized Tourism Industry as an Attractive Global Destination**:
+   - **Why Unrealistic**: Transforming Sri Lanka into a leading global tourist destination requires overcoming significant challenges, such as infrastructure development, political stability, and competition from other established tourist hotspots. Achieving this within a short period is ambitious.
+
+8. **A Fully Digitized and Efficient Public Service**:
+   - **Why Unrealistic**: While digitization of public services is crucial, fully achieving this across all sectors of government requires substantial investment in technology, training, and change management, which is a lengthy and resource-intensive process.
+
+9. **A National Sports Commission Ensuring Standards and Equity in All Sports**:
+   - **Why Unrealistic**: Establishing a commission that ensures equity across all sports and rapidly improves Sri Lanka's international standing is challenging. It requires overcoming entrenched interests, ensuring widespread access to resources, and competing with nations that have far more developed sports infrastructures.
+
+10. **A New Constitution Uniting All Ethnic Groups into a Unified Sri Lankan Nation**:
+    - **Why Unrealistic**: While a new constitution is a powerful tool for national unity, the deep-seated ethnic tensions and political divisions in Sri Lanka make it extremely difficult to draft and pass a constitution that satisfies all parties. The process would require extensive negotiation, compromise, and likely face significant opposition.
+
+These promises, while noble in intention, face significant hurdles in terms of implementation, given Sri Lanka’s current socio-economic and political landscape. They require careful planning, substantial resources, and time beyond the tenure of a single government.
