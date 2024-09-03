@@ -167,16 +167,45 @@ class Manifesto:
 
     @cached_property
     def readme_line_label(self):
-        return f'{self.lang} ({self.n_pages} Pages, {self.n_words_str}, {self.file_size / 1_000_000:.1f}MB)'
+        return f'{self.lang} ('+', '.join([
+            f'{self.n_pages} Pages',
+            f'{self.n_words_str}',
+            f'{self.file_size / 1_000_000:.1f}MB'
+        ])+')'
 
     @cached_property
     def pdf_url(self):
         return f'{self.URL_BASE}/{self.file_name}'
+    
+    @cached_property
+    def pdf_link(self):
+        return f'[{self.readme_line_label}]({self.pdf_url})'
+
+    @cached_property
+    def source_link(self):
+        return f'[Original Source]({self.source})'
+
+    @cached_property
+    def raw_text_link(self):
+        if not os.path.exists(self.txt_path):
+            return None
+        return f'[Raw Text]({self.txt_path})'
+
+    @cached_property
+    def wordcloud_link(self):
+        if not os.path.exists(self.wordcloud_path):
+            return None
+        return f'[Wordcloud]({self.wordcloud_path})'
 
     @cached_property
     def readme_line(self):
         self.build_wordcloud()
-        return f'* [{self.readme_line_label}]({self.pdf_url}) - [Original Source]({self.source})'
+        return f'* ' + ' · '.join([x for x in [
+            self.pdf_link,
+            self.source_link,
+            self.raw_text_link,
+            self.wordcloud_link,
+        ] if x ])
 
     # Loaders
     @classmethod
