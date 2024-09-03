@@ -3,6 +3,7 @@ import os
 from dataclasses import dataclass
 from utils import JSONFile
 
+
 @dataclass
 class Manifesto:
     file_name: str
@@ -26,7 +27,7 @@ class Manifesto:
             'si': 'සිංහල',
             'ta': 'தமிழ்',
         }.get(self.lang_code, self.lang_code)
-    
+
     @cached_property
     def party_code(self):
         return '-'.join(self.id.split('-')[:-1])
@@ -40,22 +41,19 @@ class Manifesto:
             'sjb': 'Sajith Premadasa (Samagi Jana Balawegaya)',
             'mjp': 'Dilith Jayaweera (Sarvajana Balaya)',
         }.get(self.party_code, self.party_code)
-    
 
-
-
-    
     @cached_property
     def file_path(self):
         return os.path.join(self.DIR_PDF, self.file_name)
-    
-    @cached_property 
+
+    @cached_property
     def file_size(self):
         return os.path.getsize(self.file_path)
-    
+
     @cached_property
     def n_pages(self):
         from PyPDF2 import PdfFileReader
+
         with open(self.file_path, 'rb') as f:
             pdf = PdfFileReader(f)
             return pdf.getNumPages()
@@ -64,15 +62,16 @@ class Manifesto:
     @staticmethod
     def metadata_idx():
         return JSONFile(Manifesto.METADATA_PATH).read()
-    
-    @property 
+
+    @property
     def source(self):
         return self.metadata_idx()[self.id]['source']
 
     # README
-    @cached_property 
+    @cached_property
     def readme_line_label(self):
         return f'{self.lang} ({self.n_pages} Pages, {self.file_size / 1_000_000:.1f}MB)'
+
     @cached_property
     def readme_line(self):
         return f'* [{self.readme_line_label}]({self.DIR_PDF_UNIX}/{self.file_name}) - [Original Source]({self.source})'
