@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile, File, Log
+from utils import File, JSONFile, Log
 
 log = Log('Manifesto')
 
