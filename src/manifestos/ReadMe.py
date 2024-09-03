@@ -32,7 +32,7 @@ class ReadMe:
                 'Note: The English Version of Namal Rajapakse\'s Manifesto '
                 + 'is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).',
                 '',
-                '...',
+                '---',
                 '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
