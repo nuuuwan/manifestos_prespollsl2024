@@ -1,6 +1,7 @@
 import os
 from dataclasses import dataclass
 from functools import cached_property
+import re
 
 import matplotlib.pyplot as plt
 from utils import File, JSONFile, Log
@@ -9,6 +10,14 @@ from wordcloud import WordCloud
 from utils_future import Color
 
 log = Log('Manifesto')
+
+def clean(x):
+    x = '\n'.join([line.strip() for line in x.split('\n')])
+    while ' ' * 2 in x:
+        x = x.replace(' ' * 2, ' ')
+    while '\n' * 3 in x:
+        x = x.replace('\n' * 3, '\n' * 2)
+    return x
 
 
 @dataclass
@@ -80,6 +89,8 @@ class Manifesto:
             text = ''
             for i in range(pdf.getNumPages()):
                 text += pdf.getPage(i).extract_text()
+
+            text = clean(text)
             return text
 
     @cached_property

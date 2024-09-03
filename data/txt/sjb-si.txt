@@ -1,2993 +1,2982 @@
 2024
- wf.daia;= 
+wf.daia;=
 29
- jeksod
+jeksod
 f.!rj‡h iajdñka jykai" mQcH m%id§ W;=uks"
 ud ys;j;a Y%S ,xldjdiS mqrjeishks"
-wfma rfÜ foaYmd,k .uka uf.a ;SrKd;aul ixêia:dkhla u;=ù ;sfnk fï wjia:dfõ§ 
-wfma rg oekg uqyqKmd isák ÿ¾Nd.H ;;ajfhka uqodf.k rg wruqKla iys;j hym;a wdldrhg 
-fjkia lsÍu Wfoid iu.s ck n,fõ.fha  iy iu.s ck ikaOdkfha  ckdêm;s OQr wfmalYl ið;a 
+wfma rfÜ foaYmd,k .uka uf.a ;SrKd;aul ixêia:dkhla u;=ù ;sfnk fï wjia:dfõ§
+wfma rg oekg uqyqKmd isák ÿ¾Nd.H ;;ajfhka uqodf.k rg wruqKla iys;j hym;a wdldrhg
+fjkia lsÍu Wfoid iu.s ck n,fõ.fha iy iu.s ck ikaOdkfha ckdêm;s OQr wfmalYl ið;a
 fma%uodi jk uu fuu m%;sm;a;s m%ldYh Tn fj; f.!rjfhka bÈßm;a lrñ'
-iu.s ck ikaOdkh hkq kj foaYmd,k n,fõ.hla jk w;r iudc hqla;sh mokï lr.ksñka 
-iudc fj<|fmd, wd¾Ólhla Tiafia kj Y%S ,xldjla ks¾udKh lsÍfï bÈß o¾Ykhla wm i;=j 
-;sfí' ienE m%cd;ka;%jdohla hkq iEu  mqrjeishl=f.au y~ ksis f,i wefik mßÈ hqla;sh rchk 
-md,k l%uhls" rdcHhls' ta wkqj wmf.a wd¾Ól ie,eiau yqfola wd¾Ól j¾Okh ms,sn| ixLHd o;a; 
-flfrys muKla úYajdih ;nkakla fkdfõ' th iudcfha iEu wxYhlgu m%fhda.slj iy fN!;slj 
-,Õd lr.; yels fi!Nd.Hhla  w;am;a lr§u b,lal lr.;a jevigykls' wms" Y%S ,dxlsl iudcfha 
-lsisfjl= w;a fkdyefrk mßÈ iudkd;au;dj ms,sn| .eUqre lemùulska hqla;j ksoyia fjf<|fmd, 
-wd¾Ólhl Yla;sh Wlyd .ksñka kuHYS,s iy i¾j.%dyS wd¾Ólhla ks¾udKh lrkafkuq' 
-wmf.a bÈß o¾Ykfha ;j;a úfYaI wx. ,laIKhla jkafka ÿIKhg tfrysj igka je§uhs' 
+iu.s ck ikaOdkh hkq kj foaYmd,k n,fõ.hla jk w;r iudc hqla;sh mokï lr.ksñka
+iudc fj<|fmd, wd¾Ólhla Tiafia kj Y%S ,xldjla ks¾udKh lsÍfï bÈß o¾Ykhla wm i;=j
+;sfí' ienE m%cd;ka;%jdohla hkq iEu mqrjeishl=f.au y~ ksis f,i wefik mßÈ hqla;sh rchk
+md,k l%uhls" rdcHhls' ta wkqj wmf.a wd¾Ól ie,eiau yqfola wd¾Ól j¾Okh ms,sn| ixLHd o;a;
+flfrys muKla úYajdih ;nkakla fkdfõ' th iudcfha iEu wxYhlgu m%fhda.slj iy fN!;slj
+,Õd lr.; yels fi!Nd.Hhla w;am;a lr§u b,lal lr.;a jevigykls' wms" Y%S ,dxlsl iudcfha
+lsisfjl= w;a fkdyefrk mßÈ iudkd;au;dj ms,sn| .eUqre lemùulska hqla;j ksoyia fjf<|fmd,
+wd¾Ólhl Yla;sh Wlyd .ksñka kuHYS,s iy i¾j.%dyS wd¾Ólhla ks¾udKh lrkafkuq'
+wmf.a bÈß o¾Ykfha ;j;a úfYaI wx. ,laIKhla jkafka ÿIKhg tfrysj igka je§uhs'
 wmf.a mqrjeis ck;dj uxfld,a,lEug ,la lrñka rdcH ;ka;%h ms,sn| ;snQ úYajdih m¨
- 
-ÿ lrñka 
-wjidk jYfhka uq¿ rgu nxfldf,d;a lsÍug fya;= ù we;af;a §¾> ld,hla ;siafia rg ;=< 
-ms<sldjla fia Wvqÿjd we;s ÿIKhhs' wkd.;fha§ ìysjk iu.s ck ikaOdk rchla úiska w;HjYH 
-m%;sixialrK y÷kajd foñka rdcHfha iEu wxYhlu úksúoNdjh iy j.lSu ;yjqre lrñka ÿIKh 
+
+ÿ lrñka
+wjidk jYfhka uq¿ rgu nxfldf,d;a lsÍug fya;= ù we;af;a §¾> ld,hla ;siafia rg ;=<
+ms<sldjla fia Wvqÿjd we;s ÿIKhhs' wkd.;fha§ ìysjk iu.s ck ikaOdk rchla úiska w;HjYH
+m%;sixialrK y÷kajd foñka rdcHfha iEu wxYhlu úksúoNdjh iy j.lSu ;yjqre lrñka ÿIKh
 uq,skqmqgd oeóug lghq;= flfrkq we;'
-fi!Nd.Hh lrd wm hk .ufka§ wOHdmkh" fi!LHh yd ksjdi kxjd,Su i|yd wms úfYaI 
-wjOdkhla ,nd fokafkuq' oekg fndfyda .eg¿ j,g uqyqKmd we;s fi!LHh wxYh thska uqod f.k 
-fi!LHh wxYhg wh;a jD;a;sl yd ;dlaIK iïm;a wdrlaId lrñka Yla;su;a cd;shla ks¾udKh 
-lsßug fi!LHh wxYfha id¾:l;ajh by,skau ,nd .ekSug lghq;= fhdokafkuq' 
-Ydia;% oekqu iy ;dlaI‡l oekqu Y%S ,xldfõ ÈhqKqjg odhl jk whqßka o ;rÕldÍ f,dalhg 
-.e,fmk udkj iïm;a j¾Okh lsÍfï wruqK iys;jo wOHdmk wxYfhys ,d úYd, bÈß.dó 
+fi!Nd.Hh lrd wm hk .ufka§ wOHdmkh" fi!LHh yd ksjdi kxjd,Su i|yd wms úfYaI
+wjOdkhla ,nd fokafkuq' oekg fndfyda .eg¿ j,g uqyqKmd we;s fi!LHh wxYh thska uqod f.k
+fi!LHh wxYhg wh;a jD;a;sl yd ;dlaIK iïm;a wdrlaId lrñka Yla;su;a cd;shla ks¾udKh
+lsßug fi!LHh wxYfha id¾:l;ajh by,skau ,nd .ekSug lghq;= fhdokafkuq'
+Ydia;% oekqu iy ;dlaI‡l oekqu Y%S ,xldfõ ÈhqKqjg odhl jk whqßka o ;rÕldÍ f,dalhg
+.e,fmk udkj iïm;a j¾Okh lsÍfï wruqK iys;jo wOHdmk wxYfhys ,d úYd, bÈß.dó
 m%;sixialrKhla y÷kajd fokafkuq'
-ft;sydisl jYfhka .;a l< jqj o ;ks ;ks mqoa.,hka úiska ÈhqKq l< rgj,a ke;' ÈhqKq jQ 
-iEu rglau tfia ù we;af;a iduQysl W;aidyhka ;=<sks' iEu wxYhlu l=i,;dmq¾K" m<mqreÿ iy 
- 
-m%dfhda.sl .=Kh úysÿjk yd úúO lafIa;% j,g kdhl;ajh Èhyels foaYmd,k kdhl lKavdhula 
-iu.s ck ikaOdkh jgd wms talrdYS lrf.k we;af;a tneúks'ta ta lafIa;% j,g wod,j u;= ù 
-;sfnk wNsfhda. fuka u wjia:djka ms<sn|j fï msßi i;=j we;s .eUqre wjfndaOh fuu m%;sm;a;s 
-m%ldYkfha b,lal idOkh lr .ekSu i|yd uy;a msgqjy,la jkq we;' 
-iu.s ck ikaOdkh hkq ;j;a tla foaYmd,k mlaIhla fkdfõ' th  Y%S ,xldfõ ienE Yla;sh 
-y÷kdf.k hq.h úiska b,a,d isák fjkialï idOkh lsÍfï YlH;dfjka hq;= fï hq.fha ienE 
-ck;d n,fõ.hhs' fï ckdêm;sjrKfha ud Tfnka ck jrula b,a,d isákafka yqfola ud i|yd 
-fkdj" jvd Yla;su;a" idOdrK" iy fi!Nd.Hh iïmkak rgla f.dvke.Su i|yd Tn wm 
- 
-ieuf.au Yla;sh talrdYS lr .ekSfï ioald¾hhla jYfhks' wms iefjdu tlai;aj" tlais;aj tlaj 
-wmf.a wdor‡h ujqìu jk Y%S ,xldj fi!Nd.Hh udjf;a bÈßhgu mshuka lrùu i|yd lem ù 
+ft;sydisl jYfhka .;a l< jqj o ;ks ;ks mqoa.,hka úiska ÈhqKq l< rgj,a ke;' ÈhqKq jQ
+iEu rglau tfia ù we;af;a iduQysl W;aidyhka ;=<sks' iEu wxYhlu l=i,;dmq¾K" m<mqreÿ iy
+
+m%dfhda.sl .=Kh úysÿjk yd úúO lafIa;% j,g kdhl;ajh Èhyels foaYmd,k kdhl lKavdhula
+iu.s ck ikaOdkh jgd wms talrdYS lrf.k we;af;a tneúks'ta ta lafIa;% j,g wod,j u;= ù
+;sfnk wNsfhda. fuka u wjia:djka ms<sn|j fï msßi i;=j we;s .eUqre wjfndaOh fuu m%;sm;a;s
+m%ldYkfha b,lal idOkh lr .ekSu i|yd uy;a msgqjy,la jkq we;'
+iu.s ck ikaOdkh hkq ;j;a tla foaYmd,k mlaIhla fkdfõ' th Y%S ,xldfõ ienE Yla;sh
+y÷kdf.k hq.h úiska b,a,d isák fjkialï idOkh lsÍfï YlH;dfjka hq;= fï hq.fha ienE
+ck;d n,fõ.hhs' fï ckdêm;sjrKfha ud Tfnka ck jrula b,a,d isákafka yqfola ud i|yd
+fkdj" jvd Yla;su;a" idOdrK" iy fi!Nd.Hh iïmkak rgla f.dvke.Su i|yd Tn wm
+
+ieuf.au Yla;sh talrdYS lr .ekSfï ioald¾hhla jYfhks' wms iefjdu tlai;aj" tlais;aj tlaj
+wmf.a wdor‡h ujqìu jk Y%S ,xldj fi!Nd.Hh udjf;a bÈßhgu mshuka lrùu i|yd lem ù
 lghq;= lruq'
 ia;=;shs'
 fuhg úYajdiS"
- 
+
 ið;a fma%uodi
 kdhl - iu.s ck ikaOdkh
 iu.s ck n,fõ.h
 592
-" fldaÜfÜ mdr" Y%S chj¾Okmqr fldaÜfÜ 
+" fldaÜfÜ mdr" Y%S chj¾Okmqr fldaÜfÜ
 10100
-ÿrl;k - 
+ÿrl;k -
 0112870112
-úoHq;a ;emE, - 
+úoHq;a ;emE, -
 info@sajith.lk
- 
-fjí wvúh - 
+
+fjí wvúh -
 www.sajith.lk
- 
+
 Yla;su;a wd¾Ólhla f.dvkexùu
- 
+
 08
- 
+
 úksúoNdjh iy j.ùu
- 
+
 Kh w¾nqoh l<ukdlrKh iy cd;Hka;r uQ,H wruqo,
- 
+
 uQ,H iy úksuh wkqmd; m%;sm;a;sh
- 
+
 wdodhï j¾Okhla w;alr .ekSu
- 
+
 úhoï md,kh
- 
+
 wd¾Ól wNsjDoaêh W;af;ackh lsÍu
- 
-rdcH wxY l<ukdlrKh iy äðg,alrKh 
- 
+
+rdcH wxY l<ukdlrKh iy äðg,alrKh
+
 n,Yla;s iy Wmfhda.s;d m%;sixialrK
- 
-ksIamdok idOl fjf<|m< m%;sixialrKh  
- 
+
+ksIamdok idOl fjf<|m< m%;sixialrKh
+
 lDIsl¾uh yd mY= iïm;a ixj¾Okh
- 
+
 bvï" jdßud¾. iy c, l<uKdlrKh
- 
+
 m%jdykh - uydud¾." kdúl iy .=jk
- 
+
 ëjr yd c,c iïm;a
- 
+
 ixpdrl l¾udka;h
- 
+
 úoHd" ;dlaIK yd m¾fhaIK
- 
+
 l¾udka; wxYh
- 
+
 laIqø" l=vd yd uOH mßudK jHdmdr ^
 MSME
-& wxYh  
- 
-ue‡la yd iaj¾KdNrK wxYh 
- 
+& wxYh
+
+ue‡la yd iaj¾KdNrK wxYh
+
 bÈlsÍï wxYh
- 
+
 úÿ,s n,h iy n,Yla;sh
- 
+
 iEu mqrjeisfhl=u n,.ekaùu
- 
+
 18
- 
+
 wOHdmkh" jD;a;Sh mqyqKqj iy ;dreKHh
- 
+
 ldka;djka iy <uqka iún,.ekaùu
- 
+
 fi!LHh" fmdaIKh" foaYSh fjolu yd iudc iqNidOkh
- 
+
 iún,.ekaùu iy iuDoaêh f.dvkeÕSu
- 
+
 wdndO iys; ;eke;a;ka
- 
+
 wdÈjdis ck m%cdj
- 
+
 l%Svd
- 
-rdcH fiajh kxjd,Su 
- 
+
+rdcH fiajh kxjd,Su
+
 24
- 
+
 úis tlajk ishji i|yd äðg,a Y%S ,xldjla
- 
-ie,iqï iy ie,iqï l%shd;aul lsÍu  
- 
+
+ie,iqï iy ie,iqï l%shd;aul lsÍu
+
 rdcH fiajh
- 
+
 mdiafmdaÜ fmda<su wjika
- 
-Ôjk ;;a;ajh wdrlaId lsÍu 
- 
+
+Ôjk ;;a;ajh wdrlaId lsÍu
+
 27
- 
+
 wd.ñl yd ixialD;sl lghq;=
- 
+
 udOH
- 
+
 ksjdi yd fmdÿ myiqlï
- 
+
 úfoia.; Y%ñlhka iy fiajd kshqla;sh
- 
+
 jeú,s iy Šuff,hs ck m%cdjŸ
- 
+
 úY%dñl m%;s,dN iq/lSu
- 
+
 rKúre iqNidOkh
- 
+
 Yla;su;a iudc wdrlaIK cd,hla f.dvke.Su
- 
-rdcH wdrlaIdj 
- 
+
+rdcH wdrlaIdj
+
 32
-  
- 
+
 m%cd;ka;%jdoh yd ixys¢hdj Yla;su;a lsÍu
- 
+
 úfoaY in|;d iy f
-j 
+j
 f<| ikaOdk
- 
+
 cd;sl wdrlaIdj
- 
-kS;sh yd iduh  
- 
+
+kS;sh yd iduh
+
 ¥IK úfrdaë kS;s
- 
+
 u;a Wjÿr ue~,Su
- 
+
 ;srir mßirh
 fm<.eiau
 8
-Yla;su;a 
-wd¾Ólhla 
+Yla;su;a
+wd¾Ólhla
 f.dvkexùu
-iudc fjf<|m< wd¾Ól wdlD;shla yryd 
-j¾Okfha m%;s,dN ieug ,efnk njg 
-;yjqre lrñka idOdrK j¾Okhla we;s lsÍu 
-flfrys wjOdkh fhduq lrk w;r" wd¾Ólh 
-h:d ;;a;ajhg m;aùfï iy iuDoaêu;a 
-ixj¾Okhla lrd hk udjf;a§ úksúoNdjh;a" 
+iudc fjf<|m< wd¾Ól wdlD;shla yryd
+j¾Okfha m%;s,dN ieug ,efnk njg
+;yjqre lrñka idOdrK j¾Okhla we;s lsÍu
+flfrys wjOdkh fhduq lrk w;r" wd¾Ólh
+h:d ;;a;ajhg m;aùfï iy iuDoaêu;a
+ixj¾Okhla lrd hk udjf;a§ úksúoNdjh;a"
 ;sridrNdjh;a iy ish¨
- 
- mqrjeishkag 
+
+mqrjeishkag
 Yla;shla jkq we;s njg;a iy;sl lruq'
 9
-wêl Kh" ÿ¾j, m%;sm;a;s 
-;SrK iy ÿ¾j, md,kh 
-fya;=fjka we;s jQ W.% wd¾Ól w¾nqohg Y%S ,xldj 
-;ju;a uqyqKfoñka isà' uE;l§ .;a mshjr uÕska 
-WoaOuk fõ.h wvq lsÍug iy úfoaY ixÑ; 
-by< kexùug ;rula Wmldr jQ kuq;a" wd¾Ólh 
-iïmQ¾Kfhka m%lD;su;a ùu iy ÈhqKq wd¾Ólhla 
-njg m;aùu i|yd jk ud¾.h ;jÿrg;a b;d 
-wNsfhda.d;aul fõ' tfiau idudkH mqrjeishka ;ju;a 
-by< ñ, .Kka" by< nÿ iy n,dfmdfrd;a;= iqkaùu 
-fya;=fjka mSvdjg m;a ù we;' 
-iudc m%cd;ka;%jd§ foaYmd,k uQ,O¾u uÕska 
+wêl Kh" ÿ¾j, m%;sm;a;s
+;SrK iy ÿ¾j, md,kh
+fya;=fjka we;s jQ W.% wd¾Ól w¾nqohg Y%S ,xldj
+;ju;a uqyqKfoñka isà' uE;l§ .;a mshjr uÕska
+WoaOuk fõ.h wvq lsÍug iy úfoaY ixÑ;
+by< kexùug ;rula Wmldr jQ kuq;a" wd¾Ólh
+iïmQ¾Kfhka m%lD;su;a ùu iy ÈhqKq wd¾Ólhla
+njg m;aùu i|yd jk ud¾.h ;jÿrg;a b;d
+wNsfhda.d;aul fõ' tfiau idudkH mqrjeishka ;ju;a
+by< ñ, .Kka" by< nÿ iy n,dfmdfrd;a;= iqkaùu
+fya;=fjka mSvdjg m;a ù we;'
+iudc m%cd;ka;%jd§ foaYmd,k uQ,O¾u uÕska
 fufyhjkq ,nk iudc f
-j 
-f<|fmd< wd¾Ól 
-wdlD;shla wms wkq.ukh lrkafkuq' fuuÕska 
-idOdrK yd ish,a,ka we;=<;a lr.;a wd¾Ól 
+j
+f<|fmd< wd¾Ól
+wdlD;shla wms wkq.ukh lrkafkuq' fuuÕska
+idOdrK yd ish,a,ka we;=<;a lr.;a wd¾Ól
 j¾Okhla we;s lsÍu i|yd" f
-j 
-f<|fmd< Yla;Ska 
-Wmfhda.S lr.ksñka iudc hqla;sh yd ieug wdrlaIdj 
-iy;sl lrkafkuq' wmf.a wd¾Ól fhdackd ie,eiau 
+j
+f<|fmd< Yla;Ska
+Wmfhda.S lr.ksñka iudc hqla;sh yd ieug wdrlaIdj
+iy;sl lrkafkuq' wmf.a wd¾Ól fhdackd ie,eiau
 3'0 ^
 Blueprint 3.0
-& uÕska fuu wNsfhda. ch .ekSug" 
-Yla;su;a j¾Okhla ;=<ska wd¾Ólh h<s f.dv ke.Sug 
+& uÕska fuu wNsfhda. ch .ekSug"
+Yla;su;a j¾Okhla ;=<ska wd¾Ólh h<s f.dv ke.Sug
 iy ish¨
- 
- fokdg iuDoaêu;a wkd.;hla iqrlaIs; 
-lsÍug Wmdhud¾.sl ie,eiaula imhhs' ¥IKh ;=rka 
-lsÍu fuu ie,eiafï m%Odk fldgila jqjo" th 
-tlu úi÷u fkdjk nj wms oksuq' wd¾Ól wNsjDoaêh 
-iy ixj¾Okh i|yd yß; wd¾Ólhla yd mdßißl 
-;srirNdjhla m%j¾Okh lsÍu o wmf.a uQ,sl ixl,am 
+
+fokdg iuDoaêu;a wkd.;hla iqrlaIs;
+lsÍug Wmdhud¾.sl ie,eiaula imhhs' ¥IKh ;=rka
+lsÍu fuu ie,eiafï m%Odk fldgila jqjo" th
+tlu úi÷u fkdjk nj wms oksuq' wd¾Ól wNsjDoaêh
+iy ixj¾Okh i|yd yß; wd¾Ólhla yd mdßißl
+;srirNdjhla m%j¾Okh lsÍu o wmf.a uQ,sl ixl,am
 w;r m%uqL fõ'
-;srir j¾Okhla <Õd lr.ekSug wmg fohdldr 
-m%fõYhla wjYH  fõ' m<uqj" wms wd¾Ólh 
-m%;sixialrKh lr" th jvd;a ;r.ldÍ iy 
-f.da,Shj iïnkaO wd¾Ólhla  njg m;a l< hq;=h' 
-fuuÕska ck;dj w;r Okh ks¾udKh lrkq we;' 
-fojkqj" wjodkug ,laúh yels mqoa.,hka wdrlaId 
-lsÍu i|yd b,lal.; iykdOdr iys; Yla;su;a 
-iudc wdrlaIK cd,hla ;=<ska wd¾Ól hqla;sh iy 
-iudkd;au;dj iy;sl lrkq we;' ;jo" wd¾Ól m%.;sh 
-wmf.a mqrjeishkaf.a hymeje;au yd iuia; i;=g 
-iuÕ w;aje,a ne|f.k iudchla f.dvke.Su ;=<ska 
+;srir j¾Okhla <Õd lr.ekSug wmg fohdldr
+m%fõYhla wjYH fõ' m<uqj" wms wd¾Ólh
+m%;sixialrKh lr" th jvd;a ;r.ldÍ iy
+f.da,Shj iïnkaO wd¾Ólhla njg m;a l< hq;=h'
+fuuÕska ck;dj w;r Okh ks¾udKh lrkq we;'
+fojkqj" wjodkug ,laúh yels mqoa.,hka wdrlaId
+lsÍu i|yd b,lal.; iykdOdr iys; Yla;su;a
+iudc wdrlaIK cd,hla ;=<ska wd¾Ól hqla;sh iy
+iudkd;au;dj iy;sl lrkq we;' ;jo" wd¾Ól m%.;sh
+wmf.a mqrjeishkaf.a hymeje;au yd iuia; i;=g
+iuÕ w;aje,a ne|f.k iudchla f.dvke.Su ;=<ska
 o< cd;sl i;=g ^
 Gross National Happiness
-& by< 
+& by<
 kexùug wms wfmalaId lruq'
 úksúoNdjh iy j.ùu
-Yla;su;a ¥IK úfrdaë kS;s y÷kajd §u iy j;auka 
-kS;s rduqj l%shd;aul lsÍu uÕska hqla;sh bgq lsÍu 
-fõ.j;a lrkq we;' fidrlï lrk ,o j;alï h<s 
-,nd .ekSu iy rfÜ mßmd,k moaO;sfha me;sr mj;sk 
-¥IK uevmeje;aùu i|yd Yla;su;a jevigykla 
-m%Odk jYfhka wjYHj we;' ¥Is; mqoa.,hka hqla;sh 
-bÈßhg f.k tau i|yd foaYmd,k ueÈy;aùïj,ska  
-f;dr iajdëk uyck wNsfpdaol ld¾hd,hla msysgqùu 
-kS;s ixfYdaOkhla u.ska isÿ flfrkq we;' rdcH 
-m%iïmdokh úksúoNdjfhka hq;=j" ¥IKfhka f;drj 
-iy ld¾hlaIuj isÿ lrk njg iy;sl ùu i|yd 
+Yla;su;a ¥IK úfrdaë kS;s y÷kajd §u iy j;auka
+kS;s rduqj l%shd;aul lsÍu uÕska hqla;sh bgq lsÍu
+fõ.j;a lrkq we;' fidrlï lrk ,o j;alï h<s
+,nd .ekSu iy rfÜ mßmd,k moaO;sfha me;sr mj;sk
+¥IK uevmeje;aùu i|yd Yla;su;a jevigykla
+m%Odk jYfhka wjYHj we;' ¥Is; mqoa.,hka hqla;sh
+bÈßhg f.k tau i|yd foaYmd,k ueÈy;aùïj,ska
+f;dr iajdëk uyck wNsfpdaol ld¾hd,hla msysgqùu
+kS;s ixfYdaOkhla u.ska isÿ flfrkq we;' rdcH
+m%iïmdokh úksúoNdjfhka hq;=j" ¥IKfhka f;drj
+iy ld¾hlaIuj isÿ lrk njg iy;sl ùu i|yd
 uyck m%iïmdok mk;la iïu; lrkafkuq' ish¨
- 
-u 
-rcfha m%iïmdok äðg,a fõÈldjlg udre flfrkq 
+
+u
+rcfha m%iïmdok äðg,a fõÈldjlg udre flfrkq
 we;'
-mdßfNda.slhdg fyd|u .=Kd;aulNdjh iy ñ, ,nd 
-§u i|yd" ;rÕldÍ kS;shla jydu y÷kajd §u ;=<ska 
-taldêldÍ iy lsysmfofkl=f.a wdêm;H iys; yeisÍï 
+mdßfNda.slhdg fyd|u .=Kd;aulNdjh iy ñ, ,nd
+§u i|yd" ;rÕldÍ kS;shla jydu y÷kajd §u ;=<ska
+taldêldÍ iy lsysmfofkl=f.a wdêm;H iys; yeisÍï
 ksjerÈ flfrkq we;'
-rdcH uQ,H l<ukdlrKfha úksúoNdjh we;s 
-lrkafkuq' rcfha úhoï ie,iqu iy Kh 
-l<ukdlrK Wmdhud¾. fukau nÿ mßmd,kh 
-ms<sn|j o iïmQ¾K f;dr;=re uyck;djg ,ndfokq 
-we;' md¾,sfïka;= whjeh ld¾hd,fha Wmßu iydh 
+rdcH uQ,H l<ukdlrKfha úksúoNdjh we;s
+lrkafkuq' rcfha úhoï ie,iqu iy Kh
+l<ukdlrK Wmdhud¾. fukau nÿ mßmd,kh
+ms<sn|j o iïmQ¾K f;dr;=re uyck;djg ,ndfokq
+we;' md¾,sfïka;= whjeh ld¾hd,fha Wmßu iydh
 ,nd .ksñka" ñka bÈßhg rcfha ish¨
- 
-u nÿ iy úhoï 
-fhdackd ms<sn| úia;rd;aul úYaf,aIKhla iemfhkq 
+
+u nÿ iy úhoï
+fhdackd ms<sn| úia;rd;aul úYaf,aIKhla iemfhkq
 we;'
-Kh w¾nqoh l<ukdlrKh iy 
- 
+Kh w¾nqoh l<ukdlrKh iy
+
 cd;Hka;r uQ,H wruqo,
-cd;Hka;r uQ,H wruqo, iuÕ we;slr.;a .súiqu 
-m%ldr rdcH uQ,H úkh Yla;su;a lrñka wdodhu" 
-m%d:ñl .sKqfï fYaIh iy Kh wdY%s; b,lal 
-imqrd,Su i|yd ÿIalr kuq;a wjYH m%;sixialrK 
-lghq;= fkdlvjd isÿ lrkafkuq' flfia jqjo" 
-ÿ.S nfõ f¾Ldfjka my< uÜgfï mqoa.,hka fj; 
-wjYH iyk ,ndfok njg iy;sl lsÍfï j;auka 
-jevigykg ixfYdaOk bÈßm;a lrñka Y%S ,dxlslhka 
-i|yd wjYH Ôjk ;;a;ajh jeäÈhqKq lrkafkuq' 
-úfoaYSh Kh ysñhkag wfmalaIs; o< foaYSh ksIamdok 
-j¾Okhg jvd jeä m%;s,dN ,nd .ekSug zwdmiq ,nd 
-.ekSfïz j.ka;s iys; úi÷ulg tlÕ jk wjia:djl" 
-foaYSh Kh m%;sjHqy.; lsÍfï nr ord isák fiajl 
-w¾:idOl wruqo,g o ziudk ie<lSuz ,nd fok njg 
+cd;Hka;r uQ,H wruqo, iuÕ we;slr.;a .súiqu
+m%ldr rdcH uQ,H úkh Yla;su;a lrñka wdodhu"
+m%d:ñl .sKqfï fYaIh iy Kh wdY%s; b,lal
+imqrd,Su i|yd ÿIalr kuq;a wjYH m%;sixialrK
+lghq;= fkdlvjd isÿ lrkafkuq' flfia jqjo"
+ÿ.S nfõ f¾Ldfjka my< uÜgfï mqoa.,hka fj;
+wjYH iyk ,ndfok njg iy;sl lsÍfï j;auka
+jevigykg ixfYdaOk bÈßm;a lrñka Y%S ,dxlslhka
+i|yd wjYH Ôjk ;;a;ajh jeäÈhqKq lrkafkuq'
+úfoaYSh Kh ysñhkag wfmalaIs; o< foaYSh ksIamdok
+j¾Okhg jvd jeä m%;s,dN ,nd .ekSug zwdmiq ,nd
+.ekSfïz j.ka;s iys; úi÷ulg tlÕ jk wjia:djl"
+foaYSh Kh m%;sjHqy.; lsÍfï nr ord isák fiajl
+w¾:idOl wruqo,g o ziudk ie<lSuz ,nd fok njg
 wms wjOdrKh lrkafkuq'
 uQ,H iy úksuh wkqmd; m%;sm;a;sh
-kj mk; uÕska m%;smdok i,id we;s mßÈ Y%S ,xld 
+kj mk; uÕska m%;smdok i,id we;s mßÈ Y%S ,xld
 uy nexl=fõ ^
 CBSL
-& iajdêm;Hhg .re lrk kuq;a 
-ish WoaOuk b,lalh imqrd,Su i|yd jQ  j.ùug 
-hg;a lrkafkuq' ;jo" cd;Hka;r jYfhka ;rÕldÍ 
-úfoaY úksuh wkqmd;slhla iy wvq yd ia:djr fmd,S 
+& iajdêm;Hhg .re lrk kuq;a
+ish WoaOuk b,lalh imqrd,Su i|yd jQ j.ùug
+hg;a lrkafkuq' ;jo" cd;Hka;r jYfhka ;rÕldÍ
+úfoaY úksuh wkqmd;slhla iy wvq yd ia:djr fmd,S
 wkqmd; iy;sl lsÍug iydh ,nd fokafkuq'
 wdodhï j¾Okhla w;alr .ekSu
-rdcH wdodhu by< kexùu i|yd mj;akd tlu 
-úi÷u nÿ by< kexùu muKla fkdfõ' wdodhu 
-j¾Okh lsÍu" úhoï iy ¥IK wju lsÍu i|yd 
-äðg,a ;dlaIKh y÷kajd §u wmf.a uQ,sl lghq;a;la 
-fõ' tfiau jD;a;slhkag úfoaY /lshd fj; fhduq 
-ùug n, lrk widOdrK nÿ jHqyhka ixfYdaOkh 
+rdcH wdodhu by< kexùu i|yd mj;akd tlu
+úi÷u nÿ by< kexùu muKla fkdfõ' wdodhu
+j¾Okh lsÍu" úhoï iy ¥IK wju lsÍu i|yd
+äðg,a ;dlaIKh y÷kajd §u wmf.a uQ,sl lghq;a;la
+fõ' tfiau jD;a;slhkag úfoaY /lshd fj; fhduq
+ùug n, lrk widOdrK nÿ jHqyhka ixfYdaOkh
 lrkafkuq'
-iuia; wdodhï b,lalj,g ndOdjla fkdjk mßÈ 
+iuia; wdodhï b,lalj,g ndOdjla fkdjk mßÈ
 uOHu mdka;slhkaf.a wêl Ôjk nr ieye,a¨
- 
- lsÍu 
-b,lal lr.;a wm fhdackd lrk  ixfYdaê; nÿ 
+
+lsÍu
+b,lal lr.;a wm fhdackd lrk ixfYdaê; nÿ
 jHqyfha we;eï úfYaI wjia:d my; mßÈ fõ'
 10
- 
-mqoa., wdodhï noao( 
-udislj re' 100"000 nÿ ksoyia 
-ldKavfhka wk;=rej mqoa., wdodhï noao 1]l 
-w.hlska wdrïN ù udislj ñ,shk Nd.hl muK 
-wdodhula olajd 24] lg iSud jkq we;' bkslaì;s" 
-jvd by< wdodhï ,nkakka i|yd j;auka 
+
+mqoa., wdodhï noao(
+udislj re' 100"000 nÿ ksoyia
+ldKavfhka wk;=rej mqoa., wdodhï noao 1]l
+w.hlska wdrïN ù udislj ñ,shk Nd.hl muK
+wdodhula olajd 24] lg iSud jkq we;' bkslaì;s"
+jvd by< wdodhï ,nkakka i|yd j;auka
 wkqmd;hka wod< flfrkq we;'
- 
-wdh;ksl wdodhï noao( 
-wmkhk u; ,dN i|yd 
-oekg mj;sk 30] wkqmd;h 6] olajd wvq lsÍug 
-iy nyqcd;sl iud.ï i|yd 15]  mokï Ldok 
+
+wdh;ksl wdodhï noao(
+wmkhk u; ,dN i|yd
+oekg mj;sk 30] wkqmd;h 6] olajd wvq lsÍug
+iy nyqcd;sl iud.ï i|yd 15] mokï Ldok
 yd ,dN ú;ekalrK ^
-Base Erosion and Profit 
+Base Erosion and Profit
 Shiftin
-g& wju úl,am noaola y÷kajd §ug woyia 
+g& wju úl,am noaola y÷kajd §ug woyia
 lruq'
- 
-tl;= l< w.h u; noao( 
-nÿ oe, mq¿,a lrkq 
-ms‡i fmdÿ äðg,a há;, myiqlï yryd nÿ 
-tl;= lsÍu jeäÈhqKq jQ miq tl;= l< w.h u; 
-noao 15] olajd wvq lsÍug wfmalaId lrkafkuq' 
-w;HjYH wdydrj,g wu;rj mdßfNda.sl øjH 
-f,i y÷kd.;a we;eï whs;u tl;= l< w.h u; 
-noafoka ksoyia lrkq we;' 
- 
-is.rÜ iy uOHidr i|yd ksIamdok noao iy 
-leisfkda i|yd jk noao" nÿ wju lsÍu i|yd jk 
-wruqo,a iemhSug Ndú;d lrkq we;' 
- 
-fcHIaG mqrjeis b;sß lsÍï i|yd iy;sl l< 
- 
+
+tl;= l< w.h u; noao(
+nÿ oe, mq¿,a lrkq
+ms‡i fmdÿ äðg,a há;, myiqlï yryd nÿ
+tl;= lsÍu jeäÈhqKq jQ miq tl;= l< w.h u;
+noao 15] olajd wvq lsÍug wfmalaId lrkafkuq'
+w;HjYH wdydrj,g wu;rj mdßfNda.sl øjH
+f,i y÷kd.;a we;eï whs;u tl;= l< w.h u;
+noafoka ksoyia lrkq we;'
+
+is.rÜ iy uOHidr i|yd ksIamdok noao iy
+leisfkda i|yd jk noao" nÿ wju lsÍu i|yd jk
+wruqo,a iemhSug Ndú;d lrkq we;'
+
+fcHIaG mqrjeis b;sß lsÍï i|yd iy;sl l<
+
 15] la olajd jQ fmd,S wkqmd;hla ,nd fokq we;'
 úhoï md,kh
-cd;Hka;r uQ,H wruqof,a jevigyk uÕska wdodhï 
-jeälr .ekSu flfrys wjOdkh fhduq lr we;;a 
-tu.ska rcfha úhoï md,khg m%udKj;a f,i 
-wjOdkh fhduq lr fkdue;' tneúka kdia;sldr rdcH 
-úhoï iy ¥IKh md,kh lsÍu wmf.a wd¾Ól oelafï 
-wruqK fõ' rdcH jHjidhhka m%;sixialrKh lsÍu 
-o fuhg we;=<;a h' tfia b;sß lrk wruqo,a úm;g 
-m;a ck;dj i|yd iudc wdrlaIK cd,hla l%shd;aul 
-lsÍug iy wOHdmk yd fi!LH wxY Yla;su;a lsÍu 
+cd;Hka;r uQ,H wruqof,a jevigyk uÕska wdodhï
+jeälr .ekSu flfrys wjOdkh fhduq lr we;;a
+tu.ska rcfha úhoï md,khg m%udKj;a f,i
+wjOdkh fhduq lr fkdue;' tneúka kdia;sldr rdcH
+úhoï iy ¥IKh md,kh lsÍu wmf.a wd¾Ól oelafï
+wruqK fõ' rdcH jHjidhhka m%;sixialrKh lsÍu
+o fuhg we;=<;a h' tfia b;sß lrk wruqo,a úm;g
+m;a ck;dj i|yd iudc wdrlaIK cd,hla l%shd;aul
+lsÍug iy wOHdmk yd fi!LH wxY Yla;su;a lsÍu
 fjkqfjka fhdod .efka'
-rdcH úhoï md,kh lsÍu iy uyck úYajdih 
-by< kexùu i|yd rcfha úhoï md,kh lrñka 
-rcfha úhoïj, úksúoNdjh iy j.ùu Yla;su;a 
-lsÍug o;a; mokï.; ie,iqïlrK l%ufõo Ndú;d 
+rdcH úhoï md,kh lsÍu iy uyck úYajdih
+by< kexùu i|yd rcfha úhoï md,kh lrñka
+rcfha úhoïj, úksúoNdjh iy j.ùu Yla;su;a
+lsÍug o;a; mokï.; ie,iqïlrK l%ufõo Ndú;d
 lrkafkuq'
 wd¾Ól wNsjDoaêh W;af;ackh lsÍu
-wd¾Ól j¾Okfha m%Odk Odjlhd f,i uyd mßudK 
-iy iq¿ mßudK mqoa.,sl jHjidhka iuÕska tlaj 
-f.da,Sh jYfhka iïnkaê; iudc fjf<|m< 
+wd¾Ól j¾Okfha m%Odk Odjlhd f,i uyd mßudK
+iy iq¿ mßudK mqoa.,sl jHjidhka iuÕska tlaj
+f.da,Sh jYfhka iïnkaê; iudc fjf<|m<
 wd¾Ólhla n
-jg Y%S ,xldj mßj¾;kh lsÍug wm 
-rch lemù isákq we;' fuu mßj¾;kh i|yd m%Odk 
-l%shdud¾. folla wjYH fõ'  ta fj<| ,snr,alrKh 
-iy úfoaY iDcq wdfhdack yryd f.da,Sh wd¾Ól 
-tald.%;dj jeä ÈhqKq lsÍu iy ksIamdok iy Y%u 
-fj,|fmd, we;=¿j foaYSh fjf<|m< ksoyia lsÍu 
-jYfhks' M,odhS fjf<|m< ix{d iy;sl lsÍu u.ska 
-cd;sl ixj¾Okh i|yd mqoa.,sl wxYfha iïmQ¾K 
+jg Y%S ,xldj mßj¾;kh lsÍug wm
+rch lemù isákq we;' fuu mßj¾;kh i|yd m%Odk
+l%shdud¾. folla wjYH fõ' ta fj<| ,snr,alrKh
+iy úfoaY iDcq wdfhdack yryd f.da,Sh wd¾Ól
+tald.%;dj jeä ÈhqKq lsÍu iy ksIamdok iy Y%u
+fj,|fmd, we;=¿j foaYSh fjf<|m< ksoyia lsÍu
+jYfhks' M,odhS fjf<|m< ix{d iy;sl lsÍu u.ska
+cd;sl ixj¾Okh i|yd mqoa.,sl wxYfha iïmQ¾K
 iyNd.S;ajh i|yd bv i,ikq we;'
- 
+
 lDIsld¾ñl m%;sixialrK
-lDIsld¾ñl wxYhkays úúO lafIa;%j, mek ke.S we;s 
-wNsfhda. úi£ug lemjkafkuq' mer‡ kS;s kùlrKh 
-l< hq;=j mj;S' lDIsl¾u fjf<|m< myiqlïlrKh 
-o" jdß iy jeõ m%;sixialrKh o" uQ,H yd rlaIK 
+lDIsld¾ñl wxYhkays úúO lafIa;%j, mek ke.S we;s
+wNsfhda. úi£ug lemjkafkuq' mer‡ kS;s kùlrKh
+l< hq;=j mj;S' lDIsl¾u fjf<|m< myiqlïlrKh
+o" jdß iy jeõ m%;sixialrKh o" uQ,H yd rlaIK
 myiqlï o ,nd Èh hq;=j we;'
-mqoa.,slj tla tla f.dú uy;d iïnkaOfhka .;a 
-l," ksIamdokh lrkq ,nkafka ljr fNda.hlao" 
-fldmuKo iy ljodo hkak ms<sn| f;dr;=re ,nd 
-.ekSfï isg uQ,H fhojqï iy j.d pl% l<ukdlrKh 
-olajd úysfok iuia; w.h oduh jeäÈhqKq l< hq;=j 
-mj;S' bkslaì;s .nvdlrKh" iemhqï fiajdjkays 
-isg wf,úh olajd isÿ flfrk miq wiajkq  
+mqoa.,slj tla tla f.dú uy;d iïnkaOfhka .;a
+l," ksIamdokh lrkq ,nkafka ljr fNda.hlao"
+fldmuKo iy ljodo hkak ms<sn| f;dr;=re ,nd
+.ekSfï isg uQ,H fhojqï iy j.d pl% l<ukdlrKh
+olajd úysfok iuia; w.h oduh jeäÈhqKq l< hq;=j
+mj;S' bkslaì;s .nvdlrKh" iemhqï fiajdjkays
+isg wf,úh olajd isÿ flfrk miq wiajkq
 l<uKdlrKhg wod< m%Yak úi¢h hq;=j mj;S'
-.%dóh È<sÿ nj wju lsÍu" M,odhS;dj by< kexùu 
-iy .%dóh wxYfha j¾Okh by< kexùu i|yd 
-fõ.j;a" iqyqre ;dlaIKh u; mokï jQ lDIsld¾ñl 
-kùlrK jevigykla l%shd;aul lrkafkuq' fuhg - 
-ù" t<j¿ iy jeú,s fNda. j.dfõ isg úls„u olajd" 
+.%dóh È<sÿ nj wju lsÍu" M,odhS;dj by< kexùu
+iy .%dóh wxYfha j¾Okh by< kexùu i|yd
+fõ.j;a" iqyqre ;dlaIKh u; mokï jQ lDIsld¾ñl
+kùlrK jevigykla l%shd;aul lrkafkuq' fuhg -
+ù" t<j¿ iy jeú,s fNda. j.dfõ isg úls„u olajd"
 wdrlaIs; lDIsl¾uh" c, tiejqï jdß lghq;= ^
 L
-ift 
+ift
 I
 rrigation
 &" c, ì÷ biqï jdß lghq;= ^
 D
-rip 
+rip
 I
 rrigation
-& 
-iy we;eï úg lD;%su nqoaê-iyfhda.S yhsfv%dfmdksla 
-f.dú;ek jeks kfjda;amdok we;=<;a fõ' äðg,a 
+&
+iy we;eï úg lD;%su nqoaê-iyfhda.S yhsfv%dfmdksla
+f.dú;ek jeks kfjda;amdok we;=<;a fõ' äðg,a
 fmdÿ há;, myiqlï ^
 DPI
-& Èh;a lsÍu;a iuÕ 
-fuu W;aidyh m%dfhda.slj l%shd;aul  lsÍug yels 
+& Èh;a lsÍu;a iuÕ
+fuu W;aidyh m%dfhda.slj l%shd;aul lsÍug yels
 ;;a;ajhla ks¾udKh jkq we;'
-iy,a ñ, my; fy<Su iy tu ñf,ys mj;ajd .ekSu 
-i|yd ŠYla;sŸ iy,a fuda,a ysñ §m jHdma; iuqmldr 
-jevigyk kej; y÷kajd fokafkuq' 40]la  muK 
-jk miq wiajkq ydksh wju lsÍu i|yd foaY.=‡l 
-md,kh hgf;a l%shd;aul lDIsld¾ñl ksIamdok .nvd 
-cd,hla jk Šm%NdIajrŸ jevigyk  läkñka rg mqrd 
-ia:dms; lrkafkuq' fuh o wdydr ñ, wvq lsÍu i|yd 
+iy,a ñ, my; fy<Su iy tu ñf,ys mj;ajd .ekSu
+i|yd ŠYla;sŸ iy,a fuda,a ysñ §m jHdma; iuqmldr
+jevigyk kej; y÷kajd fokafkuq' 40]la muK
+jk miq wiajkq ydksh wju lsÍu i|yd foaY.=‡l
+md,kh hgf;a l%shd;aul lDIsld¾ñl ksIamdok .nvd
+cd,hla jk Šm%NdIajrŸ jevigyk läkñka rg mqrd
+ia:dms; lrkafkuq' fuh o wdydr ñ, wvq lsÍu i|yd
 odhl jkq we;'
- 
-l¾udka; ixj¾Okh( f.da,Sh w.h oduhg 
+
+l¾udka; ixj¾Okh( f.da,Sh w.h oduhg
 iïnkaO ùu
-fï olajd m%fhdackhg f.k fkdue;s mqyqKq l< yels 
-Y%u n,ldh iy wmf.a Wmdhud¾.sl msysàu Wmfhda.S 
-lr .ksñka fldgia jYfhka jQ ixrpl ksIamdokh 
-lsÍfuka wdrïN jk f.da,Sh ksIamdok w.h odu 
+fï olajd m%fhdackhg f.k fkdue;s mqyqKq l< yels
+Y%u n,ldh iy wmf.a Wmdhud¾.sl msysàu Wmfhda.S
+lr .ksñka fldgia jYfhka jQ ixrpl ksIamdokh
+lsÍfuka wdrïN jk f.da,Sh ksIamdok w.h odu
 ^
 Global ManufacturingValue Chains
-& fj; 
- 
-Y%S ,xldj iïnkaO flfrkq we;' fuys§" ñksrka 
-we;=¿ 
-;SrKd;aul jeo.;alulska hq;a øjHj, 
-mßj¾;khka Ndú;d lrñka f.da,Sh bf,lafg%dksl 
-iy úÿ,s NdKav ksIamdokh fukau úÿ,s jdyk 
+& fj;
+
+Y%S ,xldj iïnkaO flfrkq we;' fuys§" ñksrka
+we;=¿
+;SrKd;aul jeo.;alulska hq;a øjHj,
+mßj¾;khka Ndú;d lrñka f.da,Sh bf,lafg%dksl
+iy úÿ,s NdKav ksIamdokh fukau úÿ,s jdyk
 11
-Wmdx. ksIamdokhka iuÕ o taldnoaO ùug ie,iqï 
+Wmdx. ksIamdokhka iuÕ o taldnoaO ùug ie,iqï
 lrkafkuq' weÕ¨
- 
-ï lafIa;%fha id¾:l;ajh ;jÿrg;a 
+
+ï lafIa;%fha id¾:l;ajh ;jÿrg;a
 bÈßhg f.k hdug o wm rch lemfjkq we;'
- 
-w.h ks¾udKfha m%Odk idOlhla jk 
-fiajdjka 
-fiajd wxYh ixj¾Ok ie,eiafï m%Odk ixrplhls' 
-úoHq;a jd‡clrKh iy f;dr;=re ;dlaIK fiajdjka 
-yd Y%S ,xldj iemhqï fiajd uOHia:dkhla njg 
-mßj¾;kh lsÍfuys ,d wmf.a wjOdkh fhduqjkq 
+
+w.h ks¾udKfha m%Odk idOlhla jk
+fiajdjka
+fiajd wxYh ixj¾Ok ie,eiafï m%Odk ixrplhls'
+úoHq;a jd‡clrKh iy f;dr;=re ;dlaIK fiajdjka
+yd Y%S ,xldj iemhqï fiajd uOHia:dkhla njg
+mßj¾;kh lsÍfuys ,d wmf.a wjOdkh fhduqjkq
 we;'
- 
-laIqø" l=vd yd uOH mßudK l¾udka; 
+
+laIqø" l=vd yd uOH mßudK l¾udka;
 ^
 MSMEs
 & iy kj jHdmdr mßir moaO;sh
-laIqø" l=vd yd uOH mßudK jHdmdr iy wdrïNl 
-jHdmdr wd¾Ól j¾Okhg odhl jk úYd, wdh;k 
-fukau iuia; w.h tl;= lsÍïj,ska wvlg iy 
+laIqø" l=vd yd uOH mßudK jHdmdr iy wdrïNl
+jHdmdr wd¾Ól j¾Okhg odhl jk úYd, wdh;k
+fukau iuia; w.h tl;= lsÍïj,ska wvlg iy
 iuia; /lshd f
-j 
-f<|mf<a wvlg muK odhl fõ' 
-laIqø" l=vd yd uOH mßudK l¾udka; È.= l,la 
-fkdi<ld yer mej;s w;r úfYaIfhka jix.;h 
-iy bka miqj t<eô wd¾Ól ì|jeàu fya;=fjka 
-j¾;udkfha w¾nqohg ,laj we;' Y%S ,xldfõ 
-wfmalaIs; by< j¾Okh i|yd m%Odk odhlfhl= 
-njg m;ajkq ms‡i laIqø" l=vd yd uOH mßudK 
-jHjidhlhka iún, .ekaùug äðg,a m%fõYkh" 
- 
-m%d.aOkh iy mqyqKq jevigyka ,nd§u isÿ lrkq we;' 
- 
+j
+f<|mf<a wvlg muK odhl fõ'
+laIqø" l=vd yd uOH mßudK l¾udka; È.= l,la
+fkdi<ld yer mej;s w;r úfYaIfhka jix.;h
+iy bka miqj t<eô wd¾Ól ì|jeàu fya;=fjka
+j¾;udkfha w¾nqohg ,laj we;' Y%S ,xldfõ
+wfmalaIs; by< j¾Okh i|yd m%Odk odhlfhl=
+njg m;ajkq ms‡i laIqø" l=vd yd uOH mßudK
+jHjidhlhka iún, .ekaùug äðg,a m%fõYkh"
+
+m%d.aOkh iy mqyqKq jevigyka ,nd§u isÿ lrkq we;'
+
 jrdh k.rh
-uQ,H ;dlaIKh" ffcj ;dlaIKh iy kefkda 
-;dlaIKh o we;=<;a ;dlaI‡l fiajd i|yd wdishdfõ 
-l,dmSh uOHia:dkh njg jrdh k.rh m;a lsÍug 
+uQ,H ;dlaIKh" ffcj ;dlaIKh iy kefkda
+;dlaIKh o we;=<;a ;dlaI‡l fiajd i|yd wdishdfõ
+l,dmSh uOHia:dkh njg jrdh k.rh m;a lsÍug
 wjYH kS;s ixfYdaOk f.k tkafkuq'
-rdcH wxY l<ukdlrKh iy 
-äðg,alrKh 
-fi!LH" wOHdmkh iy iudc fiajd ld¾hlaIu iy 
-idOdrK f,i fmdÿfõ wd¾Ól ixj¾Okh iy isú,a 
+rdcH wxY l<ukdlrKh iy
+äðg,alrKh
+fi!LH" wOHdmkh iy iudc fiajd ld¾hlaIu iy
+idOdrK f,i fmdÿfõ wd¾Ól ixj¾Okh iy isú,a
 wdrl
-a 
-Idj i|yd b;d jeo.;a fõ' fuu fiajdjka 
-iemhSfï j.lSu Y%S ,xldfõ rdcH wxYh i;=fõ' 
+a
+Idj i|yd b;d jeo.;a fõ' fuu fiajdjka
+iemhSfï j.lSu Y%S ,xldfõ rdcH wxYh i;=fõ'
 tfy;a th úúO iudka;r fiajdjka w;r we;s .eg¨
- 
-" 
-ksis f,i l<ukdlrKh fkdjQ udkj iïm; iy 
-wvq jegqma fya;=fldg f.k mSvdjg m;aj we;'  rdcH 
+
+"
+ksis f,i l<ukdlrKh fkdjQ udkj iïm; iy
+wvq jegqma fya;=fldg f.k mSvdjg m;aj we;' rdcH
 m%iïmdokfha isg fiajd iemhSu olajd ish¨
- 
- wxYhkays 
-l%shd;aul ÿIKh iy j.ùfï .eg¿ úi£ug oYl 
-.Kkdjl m%;sixialrK wfmdfydi;a ù we;' 
-M,odhS;dj by< kexùu i|yd m%Odk ld¾h idOk 
-o¾Yl y÷kajd §u iy äðg,alrKh yryd rdcH 
-fiajh m%;sixialrKh lsÍug ie,iqï lrkafkuq' 
-¥IKh wju lrk w;ru l<ukdlrKh" úksúoNdjh 
-iy ld¾hlaIu;dj jeäÈhqKq lsÍu fuuÕska isÿjkq 
+
+wxYhkays
+l%shd;aul ÿIKh iy j.ùfï .eg¿ úi£ug oYl
+.Kkdjl m%;sixialrK wfmdfydi;a ù we;'
+M,odhS;dj by< kexùu i|yd m%Odk ld¾h idOk
+o¾Yl y÷kajd §u iy äðg,alrKh yryd rdcH
+fiajh m%;sixialrKh lsÍug ie,iqï lrkafkuq'
+¥IKh wju lrk w;ru l<ukdlrKh" úksúoNdjh
+iy ld¾hlaIu;dj jeäÈhqKq lsÍu fuuÕska isÿjkq
 we;'
-rch i;= jHdmdr ms<sn| uõ iud.ula ia:dmkh lsÍu 
-rch i;= jHdmdr  m%;sixialrKfhys m%Odk fldgila 
-fõ' fuu rch i;= jHdmdr ms<sn| uõ iud.u úiska 
-isx.mamQrefõ ;ufila udÈ,shg iudk jHqyhla 
-hgf;a rch i;= jHdmdr ysñldß;ajh l<ukdlrKh 
-i|yd jQ uOH.; iy l%fudamdhsl rduqjla iïmdokh 
-lrkq we;' cd;sl wdrlaIl wNs,dYhka cd;Hka;r 
-;r.ldÍ;ajh iy ld¾hlaIu;dj o iuÕska ;=,kh 
-lrñka" úúO md¾Yajlrejkaf.a nyqúO wruqKq u; 
-mokïj tla tla rch i;= jHdmdrh wdY%s;j rch 
-úiska mj;ajd .kq ,nk fldgia ysñldÍ;aj m%;sY;h 
+rch i;= jHdmdr ms<sn| uõ iud.ula ia:dmkh lsÍu
+rch i;= jHdmdr m%;sixialrKfhys m%Odk fldgila
+fõ' fuu rch i;= jHdmdr ms<sn| uõ iud.u úiska
+isx.mamQrefõ ;ufila udÈ,shg iudk jHqyhla
+hgf;a rch i;= jHdmdr ysñldß;ajh l<ukdlrKh
+i|yd jQ uOH.; iy l%fudamdhsl rduqjla iïmdokh
+lrkq we;' cd;sl wdrlaIl wNs,dYhka cd;Hka;r
+;r.ldÍ;ajh iy ld¾hlaIu;dj o iuÕska ;=,kh
+lrñka" úúO md¾Yajlrejkaf.a nyqúO wruqKq u;
+mokïj tla tla rch i;= jHdmdrh wdY%s;j rch
+úiska mj;ajd .kq ,nk fldgia ysñldÍ;aj m%;sY;h
 ;SrKh flfrkq we;'
- 
-rdcH wxYfha ld¾hlaIu;dj j¾Okh lrkq 
-ms‡i äðg,a fi!LH fmdÿ há;, myiqlula 
+
+rdcH wxYfha ld¾hlaIu;dj j¾Okh lrkq
+ms‡i äðg,a fi!LH fmdÿ há;, myiqlula
 f.dvke.Su
 T!IO m%iïmdokfha isg ish¨
- 
- fi!LH fiajdjka 
-olajd wê;dlaI‡l úi÷ï iuÕska fi!LH wxYh 
-mßj¾;khlg ,la flfrkq we;' .=Kd;aulNdjh 
-iy ld¾hlaIu;dj jeä j¾Okh lrkq ms‡i f,dj 
-ÈhqKq;u iy fõ.j;au .s,ka r: fiajdjla jYfhka 
-we.hSug ,la jQ 1990 iqj ießh .s,ka r: fiajh i|yd 
-äðg,a ;dlaIKh Ndú; lsÍfuka W.;a mdvï wfkl=;a 
-fi!LH fiajdjka fj; o wdo¾Y fldg .kq we;' 
+
+fi!LH fiajdjka
+olajd wê;dlaI‡l úi÷ï iuÕska fi!LH wxYh
+mßj¾;khlg ,la flfrkq we;' .=Kd;aulNdjh
+iy ld¾hlaIu;dj jeä j¾Okh lrkq ms‡i f,dj
+ÈhqKq;u iy fõ.j;au .s,ka r: fiajdjla jYfhka
+we.hSug ,la jQ 1990 iqj ießh .s,ka r: fiajh i|yd
+äðg,a ;dlaIKh Ndú; lsÍfuka W.;a mdvï wfkl=;a
+fi!LH fiajdjka fj; o wdo¾Y fldg .kq we;'
 n,Yla;s iy Wmfhda.s;d m%;sixialrK
 úÿ,sn, i
-y n,Yla;s lafIa;%hkays wmf.a m%fõYh 
-;=< mqoa.,sl wNsu;h wju lrk úksúo fmfkk" 
-iajhxl%Sh moaO;s l%shdjg kexùu flfrys wjOdkh 
-fhduq lrkq we;s w;r" mqoa., wNsu;d¾: m%ldr 
-yeisrùu i|yd wjldY i,ik ysveia jid ouñka  
+y n,Yla;s lafIa;%hkays wmf.a m%fõYh
+;=< mqoa.,sl wNsu;h wju lrk úksúo fmfkk"
+iajhxl%Sh moaO;s l%shdjg kexùu flfrys wjOdkh
+fhduq lrkq we;s w;r" mqoa., wNsu;d¾: m%ldr
+yeisrùu i|yd wjldY i,ik ysveia jid ouñka
 fkdle|jQ fhdackd ^
-Unsolicited 
+Unsolicited
 P
 roposal
-& flfrys 
-fhduq ùu i|yd zã,alrejkaZ fj; mj;akd Èß.ekaùï 
+& flfrys
+fhduq ùu i|yd zã,alrejkaZ fj; mj;akd Èß.ekaùï
 bj;a flfrkq we;'
-ckkh yd fnodyeÍu wdY%s; ;rÕldÍ;ajhla 
-ks¾udKh lsÍu wjYH jk w;r" taldêldÍ n,h iy 
+ckkh yd fnodyeÍu wdY%s; ;rÕldÍ;ajhla
+ks¾udKh lsÍu wjYH jk w;r" taldêldÍ n,h iy
 wld¾hlaIu;dj fya;=fldg
-  
-f.k biau;=jk wêl 
-n,Yla;s msßjefhys nr mdßfNda.slhd iy l¾udka;h 
-úiska oeßh hq;= fkdfõ' msßjeh ms<sìUq lrkakdjQ úÿ,s 
-.dia;= l%uhg iydh olajk kuqÿ fuu msßjefhka 
-úÿ,sh ñ,§ .ekSfï .súiqï ;=< isÿjk ¥IKhka iy 
+
+f.k biau;=jk wêl
+n,Yla;s msßjefhys nr mdßfNda.slhd iy l¾udka;h
+úiska oeßh hq;= fkdfõ' msßjeh ms<sìUq lrkakdjQ úÿ,s
+.dia;= l%uhg iydh olajk kuqÿ fuu msßjefhka
+úÿ,sh ñ,§ .ekSfï .súiqï ;=< isÿjk ¥IKhka iy
 wld¾hlaIu;djfha nr bj;a úh hq;=h'
-kj úÿ,sn, mk;ska fhdað; jHqyh kej; ;lafiare 
-fldg m%;sixialrK l%shdj,sfha ld¾hlaIu;dj iy 
-msßjeh M,odhl;ajh kxjd,kq jia ixfYdaOk ks¾foaY 
-lrkafkuq' wmf.a m%uqL;djka ;=<g idOdrK úÿ,s 
-fjf<|m<la ia:dmkh lsÍu" mdßfNda.sl hym; 
-wdrlaId lsÍu" j.ùu jeä lsÍu yd l¾udka;h 
- 
+kj úÿ,sn, mk;ska fhdað; jHqyh kej; ;lafiare
+fldg m%;sixialrK l%shdj,sfha ld¾hlaIu;dj iy
+msßjeh M,odhl;ajh kxjd,kq jia ixfYdaOk ks¾foaY
+lrkafkuq' wmf.a m%uqL;djka ;=<g idOdrK úÿ,s
+fjf<|m<la ia:dmkh lsÍu" mdßfNda.sl hym;
+wdrlaId lsÍu" j.ùu jeä lsÍu yd l¾udka;h
+
 ks¾-foaYmd,kSlrKh o we;=<;a fõ'
-Y%S ,xldj l,dmSh mqk¾ckkSh n,Yla;s  
-u¾uia:dkhla njg m;a lsÍu b,lal fldgf.k" 
- 
-2030 jkúg mqk¾ckkSh n,Yla;s ckkfhka 
- 
-70]l  b,lalh imqrd .ekSu muKla fkdj tu iSudj 
+Y%S ,xldj l,dmSh mqk¾ckkSh n,Yla;s
+u¾uia:dkhla njg m;a lsÍu b,lal fldgf.k"
+
+2030 jkúg mqk¾ckkSh n,Yla;s ckkfhka
+
+70]l b,lalh imqrd .ekSu muKla fkdj tu iSudj
 blaujd hdu o wmf.a bÈß oelau fõ'
 12
-ksIamdok idOl fjf<|m< 
-m%;sixialrKh  
-Y%S ,xldfõ jHdmdr myiq lsÍug iy foaYSh yd úfoaYSh 
-wdfhdack m%j¾Okh lsÍug bvï" Y%u iy m%d.aOk 
+ksIamdok idOl fjf<|m<
+m%;sixialrKh
+Y%S ,xldfõ jHdmdr myiq lsÍug iy foaYSh yd úfoaYSh
+wdfhdack m%j¾Okh lsÍug bvï" Y%u iy m%d.aOk
 f
-j 
-f<|m<j,a u; mkjd we;s iSud ,sys,a lsÍu uÕska  
+j
+f<|m<j,a u; mkjd we;s iSud ,sys,a lsÍu uÕska
 ksIamdok idOl f
-j 
-f<|m< m%;sixialrK l%shd;aul 
+j
+f<|m< m%;sixialrK l%shd;aul
 lrkafkuq'
-bvï M,odhS;dj jeäÈhqKq lsÍu iy bvï 
-whs;sjdislï iqrlaIs; lsÍu wruqKq lr.;a cd;sl 
-bvï m%;sixialrK jevigykla l%shd;aul lsÍug 
-wfma rch lemù isà' oekg l%shd;aul jk Šìï iúhŸ 
-jevigyk iïmQ¾K lrñka äðg,a bvï f,aLkhla 
+bvï M,odhS;dj jeäÈhqKq lsÍu iy bvï
+whs;sjdislï iqrlaIs; lsÍu wruqKq lr.;a cd;sl
+bvï m%;sixialrK jevigykla l%shd;aul lsÍug
+wfma rch lemù isà' oekg l%shd;aul jk Šìï iúhŸ
+jevigyk iïmQ¾K lrñka äðg,a bvï f,aLkhla
 iE§u m%uqL ld¾hhla jkq we;'
-udkj m%d.aOk ixj¾Okfha jeo.;alu y÷kd 
-.ksñka" wOHdmk m%;sM, jeäÈhqKq lsÍu" /lshdj,g 
-wod< l=i,;d ixj¾Okh lsÍu iy kfjda;amdokh 
-m%j¾Okh lsÍu wruqKq lr.;a m%;sm;a;s i|yd 
-m%uqL;ajh ,nd fokafkuq' ;rÕldÍ Y%u n,ldhla 
-f.dvke.Su i|yd wOHdmkfha .=Kd;aulNdjh iy 
-m%fõYh jeäÈhqKq lsÍu ;SrKd;aul fõ' Y%S ,xldfõ 
-Y%u n,ldhg wkd.; /lshd i|yd wjYH l=i,;d 
-we;s njg j.n,d .ekSu Wfoid jQ jevigyka 
+udkj m%d.aOk ixj¾Okfha jeo.;alu y÷kd
+.ksñka" wOHdmk m%;sM, jeäÈhqKq lsÍu" /lshdj,g
+wod< l=i,;d ixj¾Okh lsÍu iy kfjda;amdokh
+m%j¾Okh lsÍu wruqKq lr.;a m%;sm;a;s i|yd
+m%uqL;ajh ,nd fokafkuq' ;rÕldÍ Y%u n,ldhla
+f.dvke.Su i|yd wOHdmkfha .=Kd;aulNdjh iy
+m%fõYh jeäÈhqKq lsÍu ;SrKd;aul fõ' Y%S ,xldfõ
+Y%u n,ldhg wkd.; /lshd i|yd wjYH l=i,;d
+we;s njg j.n,d .ekSu Wfoid jQ jevigyka
 l%shd;aul flfrkq we;'
-m%d.aOkh .,d tau j¾Okh lrñka foaYSh m%d.aOk 
+m%d.aOkh .,d tau j¾Okh lrñka foaYSh m%d.aOk
 f
-j 
-f<|m< Yla;su;a lsÍug läkï m%;sixialrK 
-l%shd;aul lrkafkuq' wd¾Ól j¾Okh W;af;ackh 
-lrñka oekg l%shd;aul wdfhdaclhka yg iydh 
+j
+f<|m< Yla;su;a lsÍug läkï m%;sixialrK
+l%shd;aul lrkafkuq' wd¾Ól j¾Okh W;af;ackh
+lrñka oekg l%shd;aul wdfhdaclhka yg iydh
 ,ndfokq ms‡i iDcq úfoaY wdfhdack ^
 FDI
-& jeä 
+& jeä
 lsÍug m%Odk kS;s m%;sixialrKh flfrkq we;'
 lDIsl¾uh yd mY= iïm;a ixj¾Okh
- 
-mj;sk f.dú Kh lmd yeÍu u.ska f.dùkaf.a 
+
+mj;sk f.dú Kh lmd yeÍu u.ska f.dùkaf.a
 Kh nr ieye,a¨
- 
- lsÍu i|yd mshjr .kq ,efí' 
-óg wu;rj" f.dùkag ;u f.dú;eka lghq;= 
-i|yd iydh ùug w;HjYH Kh myiqlï fj; 
+
+lsÍu i|yd mshjr .kq ,efí'
+óg wu;rj" f.dùkag ;u f.dú;eka lghq;=
+i|yd iydh ùug w;HjYH Kh myiqlï fj;
 m%fõYh we;s nj wms iy;sl lrkafkuq'
- 
-wms fmdfydr lsf,da.%Eï 50l u,a,la remsh,a 
-5"000 lg ,nd fokafkuq' fuh wmf.a f.dùkag 
-wLKavj ,nd.; yels njg iy;sl lrkafkuq' 
- 
-f.dùka iQrdlEfuka wdrlaId lrñka Tjqkaf.a 
-Ôjfkdamdh iqrlaIs; lsÍu i|yd ù ksIamdokh 
-i|yd by<u iy;sl ñ,la ,efnk njg wms 
+
+wms fmdfydr lsf,da.%Eï 50l u,a,la remsh,a
+5"000 lg ,nd fokafkuq' fuh wmf.a f.dùkag
+wLKavj ,nd.; yels njg iy;sl lrkafkuq'
+
+f.dùka iQrdlEfuka wdrlaId lrñka Tjqkaf.a
+Ôjfkdamdh iqrlaIs; lsÍu i|yd ù ksIamdokh
+i|yd by<u iy;sl ñ,la ,efnk njg wms
 iy;sl lrkafkuq'
- 
-lDIs j.djka i|yd wjYH wêl wiajekak ,nd 
-fok îc" frdamK øjH" m<sfndaOkdYl" fuj,ï 
-iy ;dlaIKh hk ish,a, idOdrK ñ,lg 
-wLKavj iemhSu wms iy;sl lrkafkuq' îc 
-iqrlaIKh o tys m%Odk fldgila jkq we;' 
- 
+
+lDIs j.djka i|yd wjYH wêl wiajekak ,nd
+fok îc" frdamK øjH" m<sfndaOkdYl" fuj,ï
+iy ;dlaIKh hk ish,a, idOdrK ñ,lg
+wLKavj iemhSu wms iy;sl lrkafkuq' îc
+iqrlaIKh o tys m%Odk fldgila jkq we;'
+
 Šf.dú {dk fiajdŸ lDIs f;dr;=re f
-j 
-f<|m< 
-l%ufõoh ia:dmkh fldg lDIs ksIamdok i|yd 
-idOdrK ñ,la ,nd.ekSfï wjia:dj f.dúhdg 
-,ndfokq ,efí' fuu fjf<|m< l%ufõoh Tiafia 
-lDIs ksIamdok wf,ú lsÍu i|yd foia-úfoia 
-.eKqïlrejka iïnkaO lr Tjqka iuÕ bÈß 
+j
+f<|m<
+l%ufõoh ia:dmkh fldg lDIs ksIamdok i|yd
+idOdrK ñ,la ,nd.ekSfï wjia:dj f.dúhdg
+,ndfokq ,efí' fuu fjf<|m< l%ufõoh Tiafia
+lDIs ksIamdok wf,ú lsÍu i|yd foia-úfoia
+.eKqïlrejka iïnkaO lr Tjqka iuÕ bÈß
 fjf<| .súiqï ^
 Forward Sales Contract
-& we;s 
+& we;s
 lsÍfï yelshdj m%j¾Okh lrkq ,efí'
- 
-lDIsld¾ñl m%foaYj, cx.u yd wka;¾cd, 
-myiqlï jeäÈhqKq lsÍu u.ska äðg,a moaO;s 
-Ndú;d lr f.dùkag ;dlaI‡l Wmfoia 
-,nd§u yd furg yd úfoaYj, lDIs ksIamdok 
-.eKqïlrejka yd iïnkaO;d we;s lsÍu isÿ lrhs' 
- 
-wdydr iqrlaIs;;dj iy;sl lrkq ms‡i rcfha 
+
+lDIsld¾ñl m%foaYj, cx.u yd wka;¾cd,
+myiqlï jeäÈhqKq lsÍu u.ska äðg,a moaO;s
+Ndú;d lr f.dùkag ;dlaI‡l Wmfoia
+,nd§u yd furg yd úfoaYj, lDIs ksIamdok
+.eKqïlrejka yd iïnkaO;d we;s lsÍu isÿ lrhs'
+
+wdydr iqrlaIs;;dj iy;sl lrkq ms‡i rcfha
 lDIsl¾uh yd iïnkaO ish¨
- 
- wdh;khka 
+
+wdh;khka
 kùlrKh lrkq we;'
- 
-w.h tla lsÍu" fNda. úúOdx.SlrKh" kùk lDIs 
-fhojqï y÷kajd §u iy fjf<|m< mq¿,a lsÍu 
-u.ska lDIsl¾uh iy i;aj md,kh jeäÈhqKq 
-lsÍu' lDIsld¾ñl wmkhkhka i|yd nÿ 
+
+w.h tla lsÍu" fNda. úúOdx.SlrKh" kùk lDIs
+fhojqï y÷kajd §u iy fjf<|m< mq¿,a lsÍu
+u.ska lDIsl¾uh iy i;aj md,kh jeäÈhqKq
+lsÍu' lDIsld¾ñl wmkhkhka i|yd nÿ
 Èß.ekaùï o ,ndfokq we;'
- 
-lDIsld¾ñl yd jd‡c fNda. jHdma;sh i|yd 
+
+lDIsld¾ñl yd jd‡c fNda. jHdma;sh i|yd
 wjYH Šbvï mßyrK ie,iqïŸ ilia lsÍu'
- 
-lDIsld¾ñl bvïj, M,odhS;dj j¾Okh lsÍug 
-bjy,a jk mßÈ bvïj, Ndú;h iSud lrkakd jQ 
-h,amek.sh kS;s ixfYdaOkh lsÍu i|yd m%uqL;dj 
-fokq we;' 
- 
-úúO m%Yak ksid j.d fkdlr w;ayer oud we;s 
-mdrïmßl bvï yd l=Uqre kej; j.d lsÍu i|yd 
+
+lDIsld¾ñl bvïj, M,odhS;dj j¾Okh lsÍug
+bjy,a jk mßÈ bvïj, Ndú;h iSud lrkakd jQ
+h,amek.sh kS;s ixfYdaOkh lsÍu i|yd m%uqL;dj
+fokq we;'
+
+úúO m%Yak ksid j.d fkdlr w;ayer oud we;s
+mdrïmßl bvï yd l=Uqre kej; j.d lsÍu i|yd
 f.dùkag wjYH myiqlï i,ikq we;'
- 
-jk i;=ka fya;=fjka  ydkshg m;ajk j.djka iy 
-fNda. ksIamdok ksid mSvdjg m;a f.dùka i|yd 
-rlaIK l%uhla wm y÷kajd fokq we;' 
- 
-f.dúhdg ia:djr ñ,la ,nd§u i|yd Tjqkaf.a 
-ksIamdok .nvd lsÍu fjkqfjka f;;ukh 
-iy WIaK;ajh md,kh lsÍfï myiqlï iys; 
-Šm%NdIajrŸ YS;d.dr yd wfkl=;a myiqlï" Èjhsk 
-mqrd f;dard .;a ia:dkj, msysgqùu' 
- 
-lsß" ì;a;r yd uia ksIamdok by< oeóu yd ñ, 
-md,kh i|yd f.dúm<j,a kùk ;dlaIKh wkqj 
-jeäÈhqKq lsÍu i|yd wjYH ;dlaI‡l iydh yd 
-wdOdr  ,nd§u'  ;jo" ysÕhlska f;drj iemhqu 
-iy;sl lsÍu;a" iy;sl ñ, yryd w;HjYH wdydr 
-whs;u ksIamdokh Èßu;a lsÍu;a isÿflfrkq we;' 
- 
-ìxÿ c, iïmdokh" wdrlaIs; .Dy ;=< fnda. 
-j.dj" yß;d.dr"  fv%dak ;dlaIKh" lD;%su nqoaê 
-;dlaIKh jeks kùk l%u lDIsl¾udka;hg 
-y÷kajd§u i|yd nÿ Èß.ekaùï iy wkqn, 
+
+jk i;=ka fya;=fjka ydkshg m;ajk j.djka iy
+fNda. ksIamdok ksid mSvdjg m;a f.dùka i|yd
+rlaIK l%uhla wm y÷kajd fokq we;'
+
+f.dúhdg ia:djr ñ,la ,nd§u i|yd Tjqkaf.a
+ksIamdok .nvd lsÍu fjkqfjka f;;ukh
+iy WIaK;ajh md,kh lsÍfï myiqlï iys;
+Šm%NdIajrŸ YS;d.dr yd wfkl=;a myiqlï" Èjhsk
+mqrd f;dard .;a ia:dkj, msysgqùu'
+
+lsß" ì;a;r yd uia ksIamdok by< oeóu yd ñ,
+md,kh i|yd f.dúm<j,a kùk ;dlaIKh wkqj
+jeäÈhqKq lsÍu i|yd wjYH ;dlaI‡l iydh yd
+wdOdr ,nd§u' ;jo" ysÕhlska f;drj iemhqu
+iy;sl lsÍu;a" iy;sl ñ, yryd w;HjYH wdydr
+whs;u ksIamdokh Èßu;a lsÍu;a isÿflfrkq we;'
+
+ìxÿ c, iïmdokh" wdrlaIs; .Dy ;=< fnda.
+j.dj" yß;d.dr" fv%dak ;dlaIKh" lD;%su nqoaê
+;dlaIKh jeks kùk l%u lDIsl¾udka;hg
+y÷kajd§u i|yd nÿ Èß.ekaùï iy wkqn,
 ,nd§u'
 13
- 
-oeßh yels Kh myiqlï m%fõY;d iys;j iq¿ 
-yd uOHu mßudK lDIs jHjidhlhska Èß.ekaùu 
+
+oeßh yels Kh myiqlï m%fõY;d iys;j iq¿
+yd uOHu mßudK lDIs jHjidhlhska Èß.ekaùu
 i|yd l%ufõohla ieliSu'
- 
-f;a" rn¾" fmd,a" Wla" l=re÷ iy wfkl=;a 
-wmkhk lDIs fNda.hka m%j¾Okh lsÍu i|yd 
-wjYH rdcH wkq.%yh wLKavj ,nd§u' 
- 
-ù f.dúhd iQrdlñka mdßfNda.slhdg wêl ñ,lg 
-iy,a úl=Kk uyd mßudK ù fuda,a ud*shdj 
-md,kh fldg iq¿ yd uOHu mßudK iy,a fuda,a 
-ysñhka iu. ŠYla;s iy,aŸ jevigyk kej; 
-l%shd;aul lrkq  we;'  
- 
-wms Y%S ,xldfõ l=vd f;a j;= ysñhka uqyqK 
+
+f;a" rn¾" fmd,a" Wla" l=re÷ iy wfkl=;a
+wmkhk lDIs fNda.hka m%j¾Okh lsÍu i|yd
+wjYH rdcH wkq.%yh wLKavj ,nd§u'
+
+ù f.dúhd iQrdlñka mdßfNda.slhdg wêl ñ,lg
+iy,a úl=Kk uyd mßudK ù fuda,a ud*shdj
+md,kh fldg iq¿ yd uOHu mßudK iy,a fuda,a
+ysñhka iu. ŠYla;s iy,aŸ jevigyk kej;
+l%shd;aul lrkq we;'
+
+wms Y%S ,xldfõ l=vd f;a j;= ysñhka uqyqK
 fok wNsfhda. ms<s.ksuq' Tjqkaf.a j;auka .eg¨
- 
- 
-úi£u" Tjqkaf.a M,odhS;dj jeä ÈhqKq lsÍu iy 
-Tjqkaf.a §¾>ld,Sk iuDoaêh iy;sl lsÍu i|yd 
-b,lal.; m%;sm;a;s l%shd;aul lsÍug wms lemù 
+
+úi£u" Tjqkaf.a M,odhS;dj jeä ÈhqKq lsÍu iy
+Tjqkaf.a §¾>ld,Sk iuDoaêh iy;sl lsÍu i|yd
+b,lal.; m%;sm;a;s l%shd;aul lsÍug wms lemù
 isáuq'
- 
-l=re÷ iy .ïñßia o we;=<;a l=¿nvq i|yd jQ 
-cd;Hka;r wmkhk fjf<|m< mq¿,a lsÍug 
-mshjr .kq we;s w;r" w.h tla l< ksIamdok 
-y÷kajd foñka ksIamdokhkays m%ñ;sh iy 
-.=Kd;aulNdjh o iy;sl lrkq ms‡i wjYH 
-;dlaIKh ,nd§u ms‡i l%shdud¾. .kq we;' 
-j.djka jHdma; lrñka m¾fhaIK" ;dlaIKh iy 
-l<ukdlrKh i|yd kùk ;dlaIKh y÷kajd 
+
+l=re÷ iy .ïñßia o we;=<;a l=¿nvq i|yd jQ
+cd;Hka;r wmkhk fjf<|m< mq¿,a lsÍug
+mshjr .kq we;s w;r" w.h tla l< ksIamdok
+y÷kajd foñka ksIamdokhkays m%ñ;sh iy
+.=Kd;aulNdjh o iy;sl lrkq ms‡i wjYH
+;dlaIKh ,nd§u ms‡i l%shdud¾. .kq we;'
+j.djka jHdma; lrñka m¾fhaIK" ;dlaIKh iy
+l<ukdlrKh i|yd kùk ;dlaIKh y÷kajd
 fokq we;'
 bvï" jdßud¾. iy c, l<uKdlrKh
- 
-bvï Wmfhdackh m%Yia;lrKh lrñka 
-fjf<|m< fufyhqï lghq;= úêu;a lrkq 
-ms‡i rch úiska úia;S¾K cd;sl bvï 
-nexl=jla ia:dmkh lrkq we;' bvï hkq 
-wd¾Ól ixj¾Okfha yd fjf<|m< .;slhkays 
+
+bvï Wmfhdackh m%Yia;lrKh lrñka
+fjf<|m< fufyhqï lghq;= úêu;a lrkq
+ms‡i rch úiska úia;S¾K cd;sl bvï
+nexl=jla ia:dmkh lrkq we;' bvï hkq
+wd¾Ól ixj¾Okfha yd fjf<|m< .;slhkays
 ;SrKd;aul idOlhla jkafka hk lreK ms<s.
-ksñka" fuu uQ,drïNh u.ska bvï f;dr;=re 
-uOH.;lrKh lrñka" ld¾hlaIu bvï fjka 
-lsÍulg wjYH myiqlï i,iñka" ;srir 
+ksñka" fuu uQ,drïNh u.ska bvï f;dr;=re
+uOH.;lrKh lrñka" ld¾hlaIu bvï fjka
+lsÍulg wjYH myiqlï i,iñka" ;srir
 ixj¾Okhg iydh ,ndfokq we;'
- 
-rcfha bvïj, mÈxÑj isák bvï wjirm;a,dNSka 
-fj; jir 5la we;=<; iskaklalr Tmamq ,nd§ug 
+
+rcfha bvïj, mÈxÑj isák bvï wjirm;a,dNSka
+fj; jir 5la we;=<; iskaklalr Tmamq ,nd§ug
 mshjr .kq we;'
- 
-c, uQ,dY%hka iy c, fmdaIl m%foaY wdrlaId 
-lsÍu i|yd wjYH kS;s moaO;sh Yla;su;a lrkq 
-,efí' 
- 
-rch úiska rg wNHka;rfha mj;sk c,dYhkays 
-Odß;dj Wmßu uÜgulska mj;ajdf.k hEu i|yd 
-wjYH lrk wdfhdackhka isÿ lrkq we;' wjYH 
+
+c, uQ,dY%hka iy c, fmdaIl m%foaY wdrlaId
+lsÍu i|yd wjYH kS;s moaO;sh Yla;su;a lrkq
+,efí'
+
+rch úiska rg wNHka;rfha mj;sk c,dYhkays
+Odß;dj Wmßu uÜgulska mj;ajdf.k hEu i|yd
+wjYH lrk wdfhdackhka isÿ lrkq we;' wjYH
 c, b,a¨
- 
+
 u idlaId;a lr .ekSu i|yd ish¨
- 
-u 
-l=vd" uOHu iy m%Odk jdßud¾. fhdackd l%u 
-m%;sixialrKh lr kv;a;= lsÍu iy;sl lrkq 
+
+u
+l=vd" uOHu iy m%Odk jdßud¾. fhdackd l%u
+m%;sixialrKh lr kv;a;= lsÍu iy;sl lrkq
 we;'
 m%jdykh - uydud¾." kdúl iy .=jk
- 
-mßir ys;ldó" kQ;k niar:" ÿïßh úoHq;alrKh" 
+
+mßir ys;ldó" kQ;k niar:" ÿïßh úoHq;alrKh"
 ieye,a¨
- 
- ÿïßh moaO;sh iy iqyqre ;dlaIKfhka 
+
+ÿïßh moaO;sh iy iqyqre ;dlaIKfhka
 n,.ekajqk
- IntelligentTransport Systems 
+IntelligentTransport Systems
 ^
 ITS
-& 
-iu. nyqúO fmdÿ m%jdyk moaO;shla f.dvke.Su' 
- 
-uOHu wêfõ.S ud¾.fha jev lghq;= blaukska 
-ksu lsÍug j.n,d .kq we;' ly;=vqj isg 
-me,auvq,a, olajd rejkamqr wêfõ.S ud¾.fha 
-bÈlsÍï lghq;= wmf.a m%Odk m%jdyk cd,fha 
-uQ,sl wx.hla f,i i<lk neúka" tys bÈlsßï 
-lghq;= wÈhr mokñka iïmQ¾K flfrkq we;' 
-.%dóh ud¾. m%;sixialrKh i|yd m%uqL;djh ,nd 
-fokq we;' 
- 
-j¾;udk rch úiska k;r lrk ,o le,‡je,s 
-ÿïßh ud¾.h we;=¿ ÿïßh kùlrK jHdmD;s 
-läkï flfrkq we;' 
- 
-nyq ux;Sre ksoyia  m%jdyk ^
-Multi-Lane Free 
+&
+iu. nyqúO fmdÿ m%jdyk moaO;shla f.dvke.Su'
+
+uOHu wêfõ.S ud¾.fha jev lghq;= blaukska
+ksu lsÍug j.n,d .kq we;' ly;=vqj isg
+me,auvq,a, olajd rejkamqr wêfõ.S ud¾.fha
+bÈlsÍï lghq;= wmf.a m%Odk m%jdyk cd,fha
+uQ,sl wx.hla f,i i<lk neúka" tys bÈlsßï
+lghq;= wÈhr mokñka iïmQ¾K flfrkq we;'
+.%dóh ud¾. m%;sixialrKh i|yd m%uqL;djh ,nd
+fokq we;'
+
+j¾;udk rch úiska k;r lrk ,o le,‡je,s
+ÿïßh ud¾.h we;=¿ ÿïßh kùlrK jHdmD;s
+läkï flfrkq we;'
+
+nyq ux;Sre ksoyia m%jdyk ^
+Multi-Lane Free
 Flow - MLFF
-& moaO;shla y÷kajd §fuka wêfõ.S 
+& moaO;shla y÷kajd §fuka wêfõ.S
 ud¾.j, ld¾hlaIu;dj jeä ÈhqKq lsÍu'
- 
-ld¾hlaIu;dj jeä ÈhqKq lsÍu iy 
- 
+
+ld¾hlaIu;dj jeä ÈhqKq lsÍu iy
+
 ;r.ldÍ;ajh m%j¾Okh lsÍu i|yd"
- 
-Y%S ,xld .ukd.uk uKav,h 
+
+Y%S ,xld .ukd.uk uKav,h
 (SLTB
-& fjkqfjka 
-b,lal.; jevigykla Èh;a flfrkq we;' 
-tuÕska fm!oa.,sl wxYfha m%jdyk fiajd iuÕ 
-;rÕldÍj fiajd iemhSfï yelshdj ,Õd lr .kq 
-we;' 
- 
-ixpdrl l¾udka;hg úYd, iyhla jk lgqkdhl 
-cd;Hka;r .=jka f;dgqfmdf<a fojk m¾hka;h 
-läkñka ksu lsÍug m%uqL;dj §u iy rg ;=< 
-mj;sk foaYSh .=jka f;dgqm<j,a isú,a .=jka 
+& fjkqfjka
+b,lal.; jevigykla Èh;a flfrkq we;'
+tuÕska fm!oa.,sl wxYfha m%jdyk fiajd iuÕ
+;rÕldÍj fiajd iemhSfï yelshdj ,Õd lr .kq
+we;'
+
+ixpdrl l¾udka;hg úYd, iyhla jk lgqkdhl
+cd;Hka;r .=jka f;dgqfmdf<a fojk m¾hka;h
+läkñka ksu lsÍug m%uqL;dj §u iy rg ;=<
+mj;sk foaYSh .=jka f;dgqm<j,a isú,a .=jka
 f;dgqm<j,a njg mßj¾;kh lsÍu'
- 
-Y%S ,xldfõ wkkH Wmdhud¾.sl msysàu 
-ie<ls,a,g .ksñka" jrdhka ixj¾Okh lsÍu 
-i|yd iyNd.s;ajh ,ndfok f,i fm!oa.,sl 
+
+Y%S ,xldfõ wkkH Wmdhud¾.sl msysàu
+ie<ls,a,g .ksñka" jrdhka ixj¾Okh lsÍu
+i|yd iyNd.s;ajh ,ndfok f,i fm!oa.,sl
 wxYhg wdrdOkd lrkafkuq'
 ëjr yd c,c iïm;a
 kS, wd¾Ól ^
 Blue economy
-&  uQ,O¾u u; mokïj
- 
-Y%S ,xld uqyqÿ iSudj ;=< c,c iïm;a Wmßu 
-Wmfhdackh isÿ lrñka rdcH - fm!oa.,sl wxY 
+& uQ,O¾u u; mokïj
+
+Y%S ,xld uqyqÿ iSudj ;=< c,c iïm;a Wmßu
+Wmfhdackh isÿ lrñka rdcH - fm!oa.,sl wxY
 yjq,aldß;ajhka ^
 PPP
-& yryd ;srir wd¾Ól lghq;= 
+& yryd ;srir wd¾Ól lghq;=
 m%j¾Okh lrkafkuq'
- 
-ëjr m%cdjf.a wd¾Ól Yla;sh kexùu Wfoid rdcH 
-yd fm!oa.,sl nexl= ud¾.fhka jHjidhlhskag 
-wvq fmd<S Kh fhdackd l%uhla we;s lsÍu yd 
-Tjqkaf.a jHjidhl;aj yelshdjka j¾Okh ms‡i 
-úfYaI jevms<sfj,la l%shd;aul  lrkq we;'
- 
+
+ëjr m%cdjf.a wd¾Ól Yla;sh kexùu Wfoid rdcH
+yd fm!oa.,sl nexl= ud¾.fhka jHjidhlhskag
+wvq fmd<S Kh fhdackd l%uhla we;s lsÍu yd
+Tjqkaf.a jHjidhl;aj yelshdjka j¾Okh ms‡i
+úfYaI jevms<sfj,la l%shd;aul lrkq we;'
+
 lD;%su nqoaêh ^
 AI
 & yd
- Internet ofThings (IoT)
- 
+Internet ofThings (IoT)
+
 14
-jeks ;dlaIKhka Ndú;h ;=<ska .eUqre uqyqfoa 
-u;aiH wiajekak mqfrdal:k jevms<sfj< ÈhqKq 
-lsÍu yd tu f;dr;=re ëjr ck;dj fj; 
-tie‡ka ikaksfõokh i|yd wjYH ir, l%u 
-ieliSu isÿ lrkq we;' 
- 
-ëjr ixpdrl l¾udka;h jeä ÈhqKq lsÍu i|yd 
-wjYH mshjr .ekSu yd ta uÕska ëjr m%cdjf.a 
-wd¾Ól Yla;Ska jeä ÈhqKq lsÍug úl,am wdodhï 
-ud¾. we;s lrhs' ëjr mjq,aj, ldka;djka úl,am 
-jHjidhl;ajhka i|yd fhduq lsÍu fjkqfjka 
-mqyqKq lsÍu iy Èß .ekaùu isÿ lrkq we;' 
- 
-Èjhsk mqrd u;aiH iïm;a fnod yeÍu úêu;a 
-lsÍu ;=<ska" Èjhsfka ´kEu m%foaYhl Ôj;a 
-jkakkag w¿;a ud¿ ,nd .ekSfï yelshdj we;s 
+jeks ;dlaIKhka Ndú;h ;=<ska .eUqre uqyqfoa
+u;aiH wiajekak mqfrdal:k jevms<sfj< ÈhqKq
+lsÍu yd tu f;dr;=re ëjr ck;dj fj;
+tie‡ka ikaksfõokh i|yd wjYH ir, l%u
+ieliSu isÿ lrkq we;'
+
+ëjr ixpdrl l¾udka;h jeä ÈhqKq lsÍu i|yd
+wjYH mshjr .ekSu yd ta uÕska ëjr m%cdjf.a
+wd¾Ól Yla;Ska jeä ÈhqKq lsÍug úl,am wdodhï
+ud¾. we;s lrhs' ëjr mjq,aj, ldka;djka úl,am
+jHjidhl;ajhka i|yd fhduq lsÍu fjkqfjka
+mqyqKq lsÍu iy Èß .ekaùu isÿ lrkq we;'
+
+Èjhsk mqrd u;aiH iïm;a fnod yeÍu úêu;a
+lsÍu ;=<ska" Èjhsfka ´kEu m%foaYhl Ôj;a
+jkakkag w¿;a ud¿ ,nd .ekSfï yelshdj we;s
 lsÍu'
- 
-rg wNHka;rfha mj;akd c, ud¾.hkays 
-m%fhdackhg fkd.;a úNj;djka  wjfndaO 
-lr.ksñka" cd;sl ëjr l¾udka;fha m%Odk 
-ixrplhla f,i ñßÈh ëjr l¾udka;h kÕd 
+
+rg wNHka;rfha mj;akd c, ud¾.hkays
+m%fhdackhg fkd.;a úNj;djka wjfndaO
+lr.ksñka" cd;sl ëjr l¾udka;fha m%Odk
+ixrplhla f,i ñßÈh ëjr l¾udka;h kÕd
 isgqùug rch úiska woyia lrkq ,nhs'
- 
-ir, kS;s fr.=,dis iy b,lal.; wf,úlrK 
-l%fudamdhhka o we;=<;a j¾Okh lrk ,o iydh 
-Wmdhud¾. yryd úis;=re u;aiH l¾udka;h iy 
-tys wmkhkhka i|yd wjYH myiqlï i,ikq 
+
+ir, kS;s fr.=,dis iy b,lal.; wf,úlrK
+l%fudamdhhka o we;=<;a j¾Okh lrk ,o iydh
+Wmdhud¾. yryd úis;=re u;aiH l¾udka;h iy
+tys wmkhkhka i|yd wjYH myiqlï i,ikq
 we;'
- 
-úfoaYSh wkjir ëjr hd;%d uÕska isÿ flfrk 
-kS;s úfrdaë l%shdjka rdcH;dka;%slj úi£u yd 
-tajd ksÍlaIKh ms‡i ikaksfõok yd ;dlaI‡l 
+
+úfoaYSh wkjir ëjr hd;%d uÕska isÿ flfrk
+kS;s úfrdaë l%shdjka rdcH;dka;%slj úi£u yd
+tajd ksÍlaIKh ms‡i ikaksfõok yd ;dlaI‡l
 myiqlï jeä ÈhqKq lsÍu isÿ lrkq we;'
- 
-ëjr jrdh iy kex.=rï f;dgqm<j,a jeäÈhqKq 
-lsÍu i|yd wjYH wdfhdack ,nd §ug m%uqL;dj 
-,nd  fokq we;' 
+
+ëjr jrdh iy kex.=rï f;dgqm<j,a jeäÈhqKq
+lsÍu i|yd wjYH wdfhdack ,nd §ug m%uqL;dj
+,nd fokq we;'
 ixpdrl l¾udka;h
- 
+
 iu.s ck n,fõ.h úiska ilia lr we;s
- 
-ŠY%S ,xldj i|yd jQ ixpdrl m%;sm;a;sh( ;srir yd 
-ish,a,ka wka;¾.; j¾Okhla i|yd jQ ie,eiaula 
+
+ŠY%S ,xldj i|yd jQ ixpdrl m%;sm;a;sh( ;srir yd
+ish,a,ka wka;¾.; j¾Okhla i|yd jQ ie,eiaula
 ^
-Tourism Policy for Sri Lanka(A Blueprint for 
+Tourism Policy for Sri Lanka(A Blueprint for
 Sustainable and Inclusive Growth
-&Ÿ m%;sm;a;sfha 
-i|yka iúia;rd;aul ks¾foaY l%shd;aul lrñka 
-Y%S ,xldfõ ixpdrl lafIa;%h rfÜ m%uqL;u úfoaY 
-úksuh bmhSfï ud¾.h njg m;a lsÍu i|yd 
-mshjr .ekSu rcfha m%uqL j.lSula f,i i,lkq 
+&Ÿ m%;sm;a;sfha
+i|yka iúia;rd;aul ks¾foaY l%shd;aul lrñka
+Y%S ,xldfõ ixpdrl lafIa;%h rfÜ m%uqL;u úfoaY
+úksuh bmhSfï ud¾.h njg m;a lsÍu i|yd
+mshjr .ekSu rcfha m%uqL j.lSula f,i i,lkq
 we;'
- 
+
 j¾;udk rch úiska w;aika lr we;s" ¥Is; Š
-VFS 
-ùid .súiquŸ wj,x.= lrk w;r úfoaYSh 
-ixpdrlhka i|yd myiqfjka wvq uqo,lg 
-ùid ,nd .ekSu i|yd wjYH kùk moaO;shla 
-f.dvk.kq ,efí' tfiau" Y%S ,xldfõ isÿ 
-jQ úYd,;u ¥IKhka w;r m%uqL jk tu 
-.KqfoKqjg  j.lsjhq;a;ka kS;sh bÈßhg f.k 
-hkq we;'   
- 
-rgj,a 100 l mqrjeishkag meñ„ug fmr ,nd.; 
-hq;=jk ùid n,m;%hla wjYH fkdjk mßÈ 
-udihl ld,hla olajd Y%S ,xldjg meñ„ug 
-yels jk mßÈ ùid rys;j Èjhskg we;=¿ùfï 
+VFS
+ùid .súiquŸ wj,x.= lrk w;r úfoaYSh
+ixpdrlhka i|yd myiqfjka wvq uqo,lg
+ùid ,nd .ekSu i|yd wjYH kùk moaO;shla
+f.dvk.kq ,efí' tfiau" Y%S ,xldfõ isÿ
+jQ úYd,;u ¥IKhka w;r m%uqL jk tu
+.KqfoKqjg j.lsjhq;a;ka kS;sh bÈßhg f.k
+hkq we;'
+
+rgj,a 100 l mqrjeishkag meñ„ug fmr ,nd.;
+hq;=jk ùid n,m;%hla wjYH fkdjk mßÈ
+udihl ld,hla olajd Y%S ,xldjg meñ„ug
+yels jk mßÈ ùid rys;j Èjhskg we;=¿ùfï
 jevigykla rch úiska l%shd;aul lrkq we;'
- 
-úfoaYhkays Ôj;ajk Y%S ,dxlsl iïNjhla we;s 
-mqoa.,hskag rgg myiqfjka msúiSug myiqlï 
-ie,iSu i|yd úfoaY.; Y%S ,dxlsl mqrjeishkaf.a 
+
+úfoaYhkays Ôj;ajk Y%S ,dxlsl iïNjhla we;s
+mqoa.,hskag rgg myiqfjka msúiSug myiqlï
+ie,iSu i|yd úfoaY.; Y%S ,dxlsl mqrjeishkaf.a
 jevigyk ^
-Overseas Citizens of Sri Lanka 
+Overseas Citizens of Sri Lanka
 Programme
-& l%shd;aul lsÍu läkï fldg Tjqkag 
-Y%S ,xldfõ fkajdislhka jYfhka lghq;= lsÍu 
+& l%shd;aul lsÍu läkï fldg Tjqkag
+Y%S ,xldfõ fkajdislhka jYfhka lghq;= lsÍu
 myiq lrkafkuq'
- 
-fld<U k.rh ol=Kq wdishdfõ w,xldru 
-iy wdfhdaclhkag ys;lr w.kqjr njg m;a 
-lrñka" jir mqrd ixpdrlhka wdl¾IKh lr 
-.ekSug kdhl;ajh imhkq we;' fuu kd.ßl 
-mqk¾Ôjkh" ixpdrl fjf<|m< úúOdx.SlrKh 
-iuÕ iu.dój" k.rh l,dmSh jHdmdßl yd 
-úfkdao flakaøia:dkhla f,i ia:dk.; lrñka" 
-jir mqrd ixpdrl l¾udka;fha j¾Okhg 
+
+fld<U k.rh ol=Kq wdishdfõ w,xldru
+iy wdfhdaclhkag ys;lr w.kqjr njg m;a
+lrñka" jir mqrd ixpdrlhka wdl¾IKh lr
+.ekSug kdhl;ajh imhkq we;' fuu kd.ßl
+mqk¾Ôjkh" ixpdrl fjf<|m< úúOdx.SlrKh
+iuÕ iu.dój" k.rh l,dmSh jHdmdßl yd
+úfkdao flakaøia:dkhla f,i ia:dk.; lrñka"
+jir mqrd ixpdrl l¾udka;fha j¾Okhg
 W;af;ack imhkq we;'
- 
-mßir ys;ldó ixl,amj,g uQ,sl;ajh ,nd 
-foñka  m%dfoaYSh ixpdrl jHdmdrh kej; n, 
-.kajk w;ru iajNdúl jdiia:dk wdrlaId 
-lrkakdjQ ;srir ms<sfj;a iy;sl lrñka Èúhka 
-keröu úfYaI fldg.;a m%uqL fmf<a jkÔù 
-.ukdka;hla f,i o Y%S ,xldj ixpdrl lafIa;%h 
+
+mßir ys;ldó ixl,amj,g uQ,sl;ajh ,nd
+foñka m%dfoaYSh ixpdrl jHdmdrh kej; n,
+.kajk w;ru iajNdúl jdiia:dk wdrlaId
+lrkakdjQ ;srir ms<sfj;a iy;sl lrñka Èúhka
+keröu úfYaI fldg.;a m%uqL fmf<a jkÔù
+.ukdka;hla f,i o Y%S ,xldj ixpdrl lafIa;%h
 ;=, m%j¾Okh lrkq we;'
- 
-NdId m%ùK;djh iy jD;a;Sh ksmqK;d ixj¾Okh 
+
+NdId m%ùK;djh iy jD;a;Sh ksmqK;d ixj¾Okh
 flfrys o wjOdkh fhduq lrjñka rdcH-
-fm!oa.,sl wxY yjq,aldß;ajh yryd úêu;a yd 
-wúêu;a hk fowxYfhau ixpdrl l¾udka;h 
+fm!oa.,sl wxY yjq,aldß;ajh yryd úêu;a yd
+wúêu;a hk fowxYfhau ixpdrl l¾udka;h
 i|yd úia;S¾K mqyqKq jevigyka l%shd;aul lrhs'
 úoHd" ;dlaIK yd m¾fhaIK
- 
-lD;%su nqoaêh 
+
+lD;%su nqoaêh
 (Artificial Intelligence)
- Y%S ,xldj 
-;=< m%j¾Okh lsÍu i|yd m¾fhaIK iy 
+Y%S ,xldj
+;=< m%j¾Okh lsÍu i|yd m¾fhaIK iy
 ixj¾Ok ^
 Research &
- 
+
 Development
-& iy úIh 
-ud,d ixj¾Okh  Wfoid Y%S ,xldfõ rdcH iy 
-rdcH fkdjk úYaj úoHd,j,g" 
-w 
-hÿï fldg ,nd 
-.; yels mßÈ" rch úiska jirlg remsh,a ì,shk 
-05l jákdlñka hq;a ŠrdcH m¾fhaIK wruqo,Ÿ 
+& iy úIh
+ud,d ixj¾Okh Wfoid Y%S ,xldfõ rdcH iy
+rdcH fkdjk úYaj úoHd,j,g"
+w
+hÿï fldg ,nd
+.; yels mßÈ" rch úiska jirlg remsh,a ì,shk
+05l jákdlñka hq;a ŠrdcH m¾fhaIK wruqo,Ÿ
 msysgqjkq we;'
- 
-jd‡cuh jYfhka jeo.;a m¾fhaIKhkays 
-kshef<k úYajúoHd, yd bka neyer ;reK 
-m¾fhaIK lKavdhïj,g iyfhda.h ,nd §u 
-i|yd jHdmdr m¾fhaIK myiqlï i,ik 
+
+jd‡cuh jYfhka jeo.;a m¾fhaIKhkays
+kshef<k úYajúoHd, yd bka neyer ;reK
+m¾fhaIK lKavdhïj,g iyfhda.h ,nd §u
+i|yd jHdmdr m¾fhaIK myiqlï i,ik
 15
 uOHia:dkhla ^
 Business
-$ 
+$
 Research Incubator
-& 
-fydaud.u ;dlaIK k.rh wdY%s;j ks¾udKh 
-flfrkq we;'  
- 
-ÈhqKq rgj, isÿjkakdla fia" úYajúoHd, YsIHhska 
-;ukaf.a Wmdê wjYH;djka fjkqfjka lrk 
-m¾fhaIK w;=ßka fyd|u m¾fhaIK f;dardf.k 
-tajd rfÜ wd¾Ólhg jeo.;a jk jHdmD;s fia 
+&
+fydaud.u ;dlaIK k.rh wdY%s;j ks¾udKh
+flfrkq we;'
+
+ÈhqKq rgj, isÿjkakdla fia" úYajúoHd, YsIHhska
+;ukaf.a Wmdê wjYH;djka fjkqfjka lrk
+m¾fhaIK w;=ßka fyd|u m¾fhaIK f;dardf.k
+tajd rfÜ wd¾Ólhg jeo.;a jk jHdmD;s fia
 l%shd;aul lsÍfï yelshdj i<ld nef,kq we;'
- 
-wms kùk;u ;dlaIKfhka hq;a f;dr;=re 
-;dlaIK WoHdk 25la ia:dms; lsÍug wfmalaId 
+
+wms kùk;u ;dlaIKfhka hq;a f;dr;=re
+;dlaIK WoHdk 25la ia:dms; lsÍug wfmalaId
 lrkafkuq'
 l¾udka; wxYh
- 
-ñ,a,Ej" ñ,a,ksh iy ìx.sßh wmkhk ieliqï 
+
+ñ,a,Ej" ñ,a,ksh iy ìx.sßh wmkhk ieliqï
 l,dmj, lghq;= läkï lr" Y%S ,xldfõ ish¨
- 
-u 
-Èia;%slalj, Wmdh ud¾.slj msysá kùk;u 
+
+u
+Èia;%slalj, Wmdh ud¾.slj msysá kùk;u
 ;dlaIKfhka hq
-;a kj ld¾ñl l,dm 25 la 
-ia:dms; lrkq we;' iunr m%dfoaYSh ixj¾Okh 
-iy;sl lrñka iy Èjhsk mqrd /lshd wjia:d 
-ks¾udKh lsÍu ñka wruqKq flf¾' fuu iEu 
-l,dmhlgu ksIamdok l¾udka; Yd,djla 
-läkïka wdrïN lrkq we;' l¾udka; l%ufhka 
-m%dfoaYSh f,alï fldÜGdi 341 la olajd jHdma; 
+;a kj ld¾ñl l,dm 25 la
+ia:dms; lrkq we;' iunr m%dfoaYSh ixj¾Okh
+iy;sl lrñka iy Èjhsk mqrd /lshd wjia:d
+ks¾udKh lsÍu ñka wruqKq flf¾' fuu iEu
+l,dmhlgu ksIamdok l¾udka; Yd,djla
+läkïka wdrïN lrkq we;' l¾udka; l%ufhka
+m%dfoaYSh f,alï fldÜGdi 341 la olajd jHdma;
 jkq we;'
- 
-Y%S ,xldfõ iajdNdúl iïm;a iy ;dlaI‡l 
-olaI;d m%fhdackhg .ksñka ;sridr ;dlaIKfha 
-kdhl;ajh i|yd Èjhsk mqrd zyß; ;dlaIK 
+
+Y%S ,xldfõ iajdNdúl iïm;a iy ;dlaI‡l
+olaI;d m%fhdackhg .ksñka ;sridr ;dlaIKfha
+kdhl;ajh i|yd Èjhsk mqrd zyß; ;dlaIK
 kfjda;amdok uOHia:dk ^
-Green TechInnovation 
+Green TechInnovation
 Hub
-&z cd,hla ks¾udKh lsÍu' fuu uq,msÍu 
-u.ska úfoaY wdfhdack wdl¾IKh lr .ksñka 
-by< ksmqK;d iys; /lshd ks¾udKh lrk 
-w;ru f.da,Sh fj<|fmd< i|yd mßir ys;ldó 
-úi÷ïj, mqfrda.dñfhl= f,i Y%S ,xldj ia:dk.; 
-lrkq we;' 
- 
-Šñ,shkhl kj jHjidhŸ wdrïNhka ;yjqre 
-lsÍu i|yd z18¬ kj jHjidh jHdmD;shz l%shd;aul 
-lrkq we;' fuu jHdmD;shg ;reK jHjidhlhska 
-fukau úfYaIfhka kj WmdêOdÍka o we;=<;a 
-jkq we;s w;r Tjqkg jHdmdr wdrïNl Kh" 
-WmfoaYkh iy w;HdjYH u.fmkaùu iuÕska 
-iún, .ekafjkq we;' 
- 
-kj l¾udka; ,shdmÈxÑ lsÍu i|yd ir, 
-lrk ,o znyqld¾h fiajd ia:dkz ^
-One-Stop 
-Shop
-& uOHia:dkhla ia:dms; lsÍu yd tu.ska 
-jHjidhlhskag wjYH ish¨
- 
- rcfha wkque;Ska tl 
-ia:dkhlska ,nd .ksñka ld¾hlaIuj ;u jHdmdr 
-,shdmÈxÑ lsÍug yelshdj ,nd§u' fuu uq,msÍu 
-u.ska mßmd,kuh ndOl ie,lsh hq;= f,i wju 
-lrkq we;s w;r" kS;s Í;s ,sys,a lr Y%S ,xldfõ 
-kj jHjidhka wdrïN lsÍfï l%shdj,sh fõ.j;a 
+&z cd,hla ks¾udKh lsÍu' fuu uq,msÍu
+u.ska úfoaY wdfhdack wdl¾IKh lr .ksñka
+by< ksmqK;d iys; /lshd ks¾udKh lrk
+w;ru f.da,Sh fj<|fmd< i|yd mßir ys;ldó
+úi÷ïj, mqfrda.dñfhl= f,i Y%S ,xldj ia:dk.;
 lrkq we;'
- 
-mrïmrd.; ksIamdok oekqu Tjqkaf.a ixialD;sl 
-Wreufha fldgila f,i wdrlaId lrk Y%S 
-,xldfõ .Dy" .%dóh iy iïm%odhsl l¾udka; 
-iqúfYaIS wxYhka  f,i ms<s.efka' fuu 
-l¾udka;j,g f;dard.;a fj<|m, ;=< ÈhqKq ùug 
-bv i,iñka" jeäÈhqKq l< myiqlï" fj<|m, 
-ia:dk.; lsÍfï úfYaI{;dj" msßjeh M,odhS 
-ksIamdok Wmdhud¾." weiqreï jeäÈhqKq lsÍï iy 
-m%d.aOkh w;am;a lr .ekSu i|yd uQ,H wdOdr 
+
+Šñ,shkhl kj jHjidhŸ wdrïNhka ;yjqre
+lsÍu i|yd z18¬ kj jHjidh jHdmD;shz l%shd;aul
+lrkq we;' fuu jHdmD;shg ;reK jHjidhlhska
+fukau úfYaIfhka kj WmdêOdÍka o we;=<;a
+jkq we;s w;r Tjqkg jHdmdr wdrïNl Kh"
+WmfoaYkh iy w;HdjYH u.fmkaùu iuÕska
+iún, .ekafjkq we;'
+
+kj l¾udka; ,shdmÈxÑ lsÍu i|yd ir,
+lrk ,o znyqld¾h fiajd ia:dkz ^
+One-Stop
+Shop
+& uOHia:dkhla ia:dms; lsÍu yd tu.ska
+jHjidhlhskag wjYH ish¨
+
+rcfha wkque;Ska tl
+ia:dkhlska ,nd .ksñka ld¾hlaIuj ;u jHdmdr
+,shdmÈxÑ lsÍug yelshdj ,nd§u' fuu uq,msÍu
+u.ska mßmd,kuh ndOl ie,lsh hq;= f,i wju
+lrkq we;s w;r" kS;s Í;s ,sys,a lr Y%S ,xldfõ
+kj jHjidhka wdrïN lsÍfï l%shdj,sh fõ.j;a
+lrkq we;'
+
+mrïmrd.; ksIamdok oekqu Tjqkaf.a ixialD;sl
+Wreufha fldgila f,i wdrlaId lrk Y%S
+,xldfõ .Dy" .%dóh iy iïm%odhsl l¾udka;
+iqúfYaIS wxYhka f,i ms<s.efka' fuu
+l¾udka;j,g f;dard.;a fj<|m, ;=< ÈhqKq ùug
+bv i,iñka" jeäÈhqKq l< myiqlï" fj<|m,
+ia:dk.; lsÍfï úfYaI{;dj" msßjeh M,odhS
+ksIamdok Wmdhud¾." weiqreï jeäÈhqKq lsÍï iy
+m%d.aOkh w;am;a lr .ekSu i|yd uQ,H wdOdr
 ,nd§u jeks b,lal.; iyh ,nd fokafkuq'
- 
+
 iuqmldr uq¨
- 
-ukskau ks¾-foaYmd,kSlrKh 
-flfrkq we;s w;r kS;s m%;sixialrK u.ska 
-iuqmldr nexl= Yla;su;a lr iuQmldr b;sß lsÍï 
-wdrlaId lrkq we;' fuu m%;sixialrK fukau 
+
+ukskau ks¾-foaYmd,kSlrKh
+flfrkq we;s w;r kS;s m%;sixialrK u.ska
+iuqmldr nexl= Yla;su;a lr iuQmldr b;sß lsÍï
+wdrlaId lrkq we;' fuu m%;sixialrK fukau
 odhl úY%du jegqma fhdackd l%u iy ;dl
-a 
-I‡l 
-kùlrKh ;=<ska Y%S ,xldfõ iuqmldr lafIa;%h 
-mqk¾Ôjkh lrkafkuq' fuu l%shdud¾. uÕska 
-ìï uÜgfï ;sridr wd¾Ól j¾Okhla we;s lsÍu 
-yryd fufyhqï ld¾hlaIu;dj by< kexùu" 
-jHdmdr wdlD;s úúOdx.SlrKh lsÍu iy iuqmldr 
-iy Tjqkaf.a m%cdjka i|yd wfkHdakH m%;s,dN 
+a
+I‡l
+kùlrKh ;=<ska Y%S ,xldfõ iuqmldr lafIa;%h
+mqk¾Ôjkh lrkafkuq' fuu l%shdud¾. uÕska
+ìï uÜgfï ;sridr wd¾Ól j¾Okhla we;s lsÍu
+yryd fufyhqï ld¾hlaIu;dj by< kexùu"
+jHdmdr wdlD;s úúOdx.SlrKh lsÍu iy iuqmldr
+iy Tjqkaf.a m%cdjka i|yd wfkHdakH m%;s,dN
 ks¾udKh lsÍu wruqKq flf¾'
- 
-wd¾Ólh mqrd kfjda;amdok" fj<| ikakdu" 
-nqoaêuh foam< whs;sjdislï iy fufyhqï 
-ld¾hlaIu;dj jvd;a fyd¢ka wdrlaId lsÍu 
-iy m%j¾Okh lsÍu i|yd mq¿,a wdh;ksl 
-m%;sixialrK isÿ lsÍu iy kS;s hdj;ald,Sk lsÍu 
+
+wd¾Ólh mqrd kfjda;amdok" fj<| ikakdu"
+nqoaêuh foam< whs;sjdislï iy fufyhqï
+ld¾hlaIu;dj jvd;a fyd¢ka wdrlaId lsÍu
+iy m%j¾Okh lsÍu i|yd mq¿,a wdh;ksl
+m%;sixialrK isÿ lsÍu iy kS;s hdj;ald,Sk lsÍu
 isÿ lrkq we;'
- 
+
 wms wmf.a wd¾Ólhg weÕ¨
- 
-ï lafIa;%h úiska 
-isÿ lrk ,o w.kd odhl;ajh w.h lruq' ta 
-wkqj" fiajlhska iy l¾udka;h hk foflysu 
-hymeje;au iqrlaIs; lsÍu wruqKq lr.;a úfYaI 
-m%{ma;shla ilia fldg l%shd;aul lrkafkuq' 
-fuu m%{ma;sh" f.da,Sh ksIamdok jákdlï odufha 
-Odjl n,hla f,i mqyqKq Y%ufha jeo.;alu 
-wjOdrKh lrkq we;' fuh ie,ls,a,g .ksñka" 
+
+ï lafIa;%h úiska
+isÿ lrk ,o w.kd odhl;ajh w.h lruq' ta
+wkqj" fiajlhska iy l¾udka;h hk foflysu
+hymeje;au iqrlaIs; lsÍu wruqKq lr.;a úfYaI
+m%{ma;shla ilia fldg l%shd;aul lrkafkuq'
+fuu m%{ma;sh" f.da,Sh ksIamdok jákdlï odufha
+Odjl n,hla f,i mqyqKq Y%ufha jeo.;alu
+wjOdrKh lrkq we;' fuh ie,ls,a,g .ksñka"
 ish¨
- 
- md¾Yjlrejkaf.a iyfhda.fhka weÕ¨
- 
-ï 
-lafIa;%fha fiajlhkag rlaIK iy <ud iq/l=ï 
+
+md¾Yjlrejkaf.a iyfhda.fhka weÕ¨
+
+ï
+lafIa;%fha fiajlhkag rlaIK iy <ud iq/l=ï
 myiqlï ,nd §ug o ueÈy;ajkafkuq'
 laIqø" l=vd yd uOH mßudK jHdmdr
- 
+
 (MSME)
- 
+
 wxYh
- 
- 
- 
-laIqø" l=vd yd uOH mßudK jHdmdr wxYh 
-uqyqK md isák ;SrKd;aul ;;a;ajh jgyd .;a 
-m<uq foaYmd,k mlaIh iu.s ck n,fõ.hhs' 
-md¾,sfïka;=j ;=< fukau bka msg;§ o" fuu 
-wxYfha j;auka ;;a;ajh ms<sn| fkdlvjd y~ 
-ke.=fjuq' ;jo" laIqø" l=vd yd uOH mßudK 
-jHjidh wxYfha ksfhdað;hka yd wdishdkq 
-ixj¾Ok nexl=j 
+
+laIqø" l=vd yd uOH mßudK jHdmdr wxYh
+uqyqK md isák ;SrKd;aul ;;a;ajh jgyd .;a
+m<uq foaYmd,k mlaIh iu.s ck n,fõ.hhs'
+md¾,sfïka;=j ;=< fukau bka msg;§ o" fuu
+wxYfha j;auka ;;a;ajh ms<sn| fkdlvjd y~
+ke.=fjuq' ;jo" laIqø" l=vd yd uOH mßudK
+jHjidh wxYfha ksfhdað;hka yd wdishdkq
+ixj¾Ok nexl=j
 (ADB
 &" f,dal nexl=j ^
 WB
-&" 
-hqfrdamd ix.uh 
+&"
+hqfrdamd ix.uh
 (EU
-& iy cd;Hka;r uQ,H 
+& iy cd;Hka;r uQ,H
 wruqo, ^
 IMF
-& jeks m%Odk cd;Hka;r uQ,H 
+& jeks m%Odk cd;Hka;r uQ,H
 wdh;k w;r
- /iaùï mj;ajñka Tjqka fj; iydh 
+/iaùï mj;ajñka Tjqka fj; iydh
 yd .eg¨
- 
- i|yd úi÷ï ,nd§fï YlH;djhka 
+
+i|yd úi÷ï ,nd§fï YlH;djhka
 16
 úuid n,kq ms‡i myiqlï i,ikafkuq'
- 
-iu.s ck n,fõ.h md¾Yajfhka t,a, jQ mSvkhg 
-m%;spdÍj" laIqø" l=vd yd uOH mßudK jHdmdr 
-wxYhg hï iykhla i,iñka rch úiska 2024 
-foieïn¾ ui 15 jk Èk olajd mrdfÜ kS;sh 
-n, .ekaùu w;aysgqjk ,È' wkd.; rchla 
-hgf;a fuu w;aysgjqï ld,h ie<lsh hq;= ld, 
-mßÉfþohlska §¾> lrkafkuq' fuhg wu;rj" 
+
+iu.s ck n,fõ.h md¾Yajfhka t,a, jQ mSvkhg
+m%;spdÍj" laIqø" l=vd yd uOH mßudK jHdmdr
+wxYhg hï iykhla i,iñka rch úiska 2024
+foieïn¾ ui 15 jk Èk olajd mrdfÜ kS;sh
+n, .ekaùu w;aysgqjk ,È' wkd.; rchla
+hgf;a fuu w;aysgjqï ld,h ie<lsh hq;= ld,
+mßÉfþohlska §¾> lrkafkuq' fuhg wu;rj"
 ish¨
- 
- rdcH yd jd‡c nexl=j, úfYaIs; laIqø" l=vd 
-yd uOH mßudK Kh fomd¾;fïka;= ia:dmkh 
-lsÍu wksjd¾h lrkafkuq' fuu fomd¾;fïka;= 
-úiska tlska tl i<ld ne,Sfï mokñka Tjqkaf.a 
-Kh ;;a;ajhka úYaf,aIKh lrkq we;' uy 
-nexl=fõ uÕ fmkaùï yryd" laIqø" l=vd yd 
-uOH mßudK jHdmdr wxYhg ;srir iydhla 
-,ndfokq ,nk njg j.n,d .ksñka wys;lr 
-n,mEïj,g ,laj we;s jHdmdrhka i|yd iyk 
-fmd<S wkqmd;hka iys;j oekg mj;akd Kh" 
-§¾> ld,Sk Kh njg mßj¾;kh lsÍug Wmfoia 
+
+rdcH yd jd‡c nexl=j, úfYaIs; laIqø" l=vd
+yd uOH mßudK Kh fomd¾;fïka;= ia:dmkh
+lsÍu wksjd¾h lrkafkuq' fuu fomd¾;fïka;=
+úiska tlska tl i<ld ne,Sfï mokñka Tjqkaf.a
+Kh ;;a;ajhka úYaf,aIKh lrkq we;' uy
+nexl=fõ uÕ fmkaùï yryd" laIqø" l=vd yd
+uOH mßudK jHdmdr wxYhg ;srir iydhla
+,ndfokq ,nk njg j.n,d .ksñka wys;lr
+n,mEïj,g ,laj we;s jHdmdrhka i|yd iyk
+fmd<S wkqmd;hka iys;j oekg mj;akd Kh"
+§¾> ld,Sk Kh njg mßj¾;kh lsÍug Wmfoia
 ksl=;a flfrkq we;'
- 
-gqla gqla( ;%sfrdao r: ßheÿrkaf.a ffoksl fmg%,a 
-msßjeh b;sß lrñka ;%sfrdao r:j, oyk tkaðka" 
-úÿ,s tkaðka njg mßj¾;kh lsÍu i|yd iyk 
-fmd<S Kh myiqlula ,ndfokafkuq' fuu Kh 
-fhdackd l%uh nexl= moaO;sh yryd md,kh 
+
+gqla gqla( ;%sfrdao r: ßheÿrkaf.a ffoksl fmg%,a
+msßjeh b;sß lrñka ;%sfrdao r:j, oyk tkaðka"
+úÿ,s tkaðka njg mßj¾;kh lsÍu i|yd iyk
+fmd<S Kh myiqlula ,ndfokafkuq' fuu Kh
+fhdackd l%uh nexl= moaO;sh yryd md,kh
 flfrkq we;'
- 
-iuDoaêu;a f,i jeä j¾Okh jk wxYhla 
-ks¾udKh fldg ie<lsh hq;= jHjidhlhka 
-ixLHdjla ks¾udKh lsÍfï wNsu;d¾:h idlaId;a 
+
+iuDoaêu;a f,i jeä j¾Okh jk wxYhla
+ks¾udKh fldg ie<lsh hq;= jHjidhlhka
+ixLHdjla ks¾udKh lsÍfï wNsu;d¾:h idlaId;a
 lr.kq ms‡i wod< ish¨
- 
- idOl taldnoaO lrñka 
+
+idOl taldnoaO lrñka
 ish¨
- 
- md¾Yajlrejkaf.a woyia úuiSï yryd 
-laIqø" l=vd yd uOH mßudK jHdmdr ms<sn| cd;sl 
+
+md¾Yajlrejkaf.a woyia úuiSï yryd
+laIqø" l=vd yd uOH mßudK jHdmdr ms<sn| cd;sl
 m%;sm;a;shla f.dvk.kafkuq'
-ue‡la yd iaj¾KdNrK wxYh 
- 
-le„ï n,m;% myiq lsÍu i|yd ld¾hlaIu" 
-fõ.j;a iy úksúo fmfkk moaO;shla ia:dms; 
+ue‡la yd iaj¾KdNrK wxYh
+
+le„ï n,m;% myiq lsÍu i|yd ld¾hlaIu"
+fõ.j;a iy úksúo fmfkk moaO;shla ia:dms;
 lrhs'
- 
-le„ï l%shdldrlïj, kùk ;dlaIKh w;am;a 
-lr.ekSug l=vd mßudK m;,a lrejkag uQ,H 
+
+le„ï l%shdldrlïj, kùk ;dlaIKh w;am;a
+lr.ekSug l=vd mßudK m;,a lrejkag uQ,H
 myiqlï iemhSu'
- 
-idOdrK yd iudkd;au;djhlska hq;=j le„ï 
+
+idOdrK yd iudkd;au;djhlska hq;=j le„ï
 i|yd jeä ìï m%udKhla újD; lsÍu'
- 
-cd;sl ue‡la yd iaj¾KdNrK wêldßh úiska 
-isÿlrkq ,nk lsisÿ ueÈy;aùulska f;drj 
-isÿjk jvd;a myiq wmkhk .,khla iy;sl 
-lrkq ms‡i cd;sl ue‡la yd iaj¾KdNrK 
+
+cd;sl ue‡la yd iaj¾KdNrK wêldßh úiska
+isÿlrkq ,nk lsisÿ ueÈy;aùulska f;drj
+isÿjk jvd;a myiq wmkhk .,khla iy;sl
+lrkq ms‡i cd;sl ue‡la yd iaj¾KdNrK
 wêldßh m%;sjHqy.; flfrkq we;' ish¨
- 
-u 
-wmkhklrejkag ;u f¾.= m%ldYk bÈßm;a 
-lsÍug iy ;dhs,ka;h iy fydxfldx yd iudkj 
-;u ld¾hd,j,ska fl,skau NdKav wmkhkh 
-lsÍug f¾.= ud¾..; fõÈldjg iDcq m%fõYhla 
+
+u
+wmkhklrejkag ;u f¾.= m%ldYk bÈßm;a
+lsÍug iy ;dhs,ka;h iy fydxfldx yd iudkj
+;u ld¾hd,j,ska fl,skau NdKav wmkhkh
+lsÍug f¾.= ud¾..; fõÈldjg iDcq m%fõYhla
 ,efnkq we;'
- 
+
 ish¨
- 
-u Y%S ,dxlslhkag iïmQ¾Kfhkau ud¾..; 
-l%ufõo yryd l=ßh¾ iy ;eme,a fiajd Ndú;d 
-lrñka M,odhS yd wmkhk hdka;%Khka yryd 
-f,dalfha wfkl=;a rgj,a iuÕ ue‡la yd 
+
+u Y%S ,dxlslhkag iïmQ¾Kfhkau ud¾..;
+l%ufõo yryd l=ßh¾ iy ;eme,a fiajd Ndú;d
+lrñka M,odhS yd wmkhk hdka;%Khka yryd
+f,dalfha wfkl=;a rgj,a iuÕ ue‡la yd
 iaj¾KdNrK fj<|dfï ksr; úh yels jkq we;'
- 
-l¾udka;fha wdodhï nÿ ;lafiarej msßjegqu u; 
-mokïj isÿ l< hq;=h - oekg Y=oaO ,dNh u; 
-wod< jk 30] noaola wh lsÍu ms<sn| i<ld n,kq 
+
+l¾udka;fha wdodhï nÿ ;lafiarej msßjegqu u;
+mokïj isÿ l< hq;=h - oekg Y=oaO ,dNh u;
+wod< jk 30] noaola wh lsÍu ms<sn| i<ld n,kq
 ,efí'
- 
-w.h tl;= lsÍu iy m%;s-wmkhkh i|yd 
- 
-Y%S ,xldjg jeä jeäfhka ue‡la b,a,Sï ,eîu 
-Èß.kajkq ms‡i ue‡la wdkhkh u; l%shd;aul 
-tl;= l< w.h u; noao iy iudc wdrlaIK 
-noao wfydais lsÍu ms<sn| i<ld n,kq ,efí' 
-w;ska /f.k tk ue‡la md¾i,a wdkhkfha§ 
-md¾i,hlg weußldkq fvd,¾ 200 ne.ska jQ 
-.dia;= l%uh kej; ia:dmkh lsÍu ms<sn| i<ld 
+
+w.h tl;= lsÍu iy m%;s-wmkhkh i|yd
+
+Y%S ,xldjg jeä jeäfhka ue‡la b,a,Sï ,eîu
+Èß.kajkq ms‡i ue‡la wdkhkh u; l%shd;aul
+tl;= l< w.h u; noao iy iudc wdrlaIK
+noao wfydais lsÍu ms<sn| i<ld n,kq ,efí'
+w;ska /f.k tk ue‡la md¾i,a wdkhkfha§
+md¾i,hlg weußldkq fvd,¾ 200 ne.ska jQ
+.dia;= l%uh kej; ia:dmkh lsÍu ms<sn| i<ld
 n,kq ,efí'
- 
+
 úfoaY uqo,a i|yd isÿlrkq ,nk ish¨
- 
-u ue‡la 
-yd iaj¾KdNrK úls„ï tl;=l< w.h u; 
+
+u ue‡la
+yd iaj¾KdNrK úls„ï tl;=l< w.h u;
 noafoka ksoyia lrkq ,efí'
- 
-kS;Hkql+, iaj¾KdNrK ksIamdolhska 
-iïnkaOfhka .;al, Tjqkaf.a .k rka wdkhk 
-i|yd f.ùï fl,skau fyda jl%j isÿlrk ,o 
-wmkhk ld¾hhl fldgila f,i Wmhk ,o 
-úfoaY uqo,a u.ska isÿ lrk úg ta i|yd ;Sre nÿ 
+
+kS;Hkql+, iaj¾KdNrK ksIamdolhska
+iïnkaOfhka .;al, Tjqkaf.a .k rka wdkhk
+i|yd f.ùï fl,skau fyda jl%j isÿlrk ,o
+wmkhk ld¾hhl fldgila f,i Wmhk ,o
+úfoaY uqo,a u.ska isÿ lrk úg ta i|yd ;Sre nÿ
 bj;a lsÍug fhdackd lruq'
- 
-ksñ ue‡la yd iaj¾KdNrK i|yd w.h tl;= 
-lsÍfï yd wmkhk wjia:d by< kexfjk mßÈ 
+
+ksñ ue‡la yd iaj¾KdNrK i|yd w.h tl;=
+lsÍfï yd wmkhk wjia:d by< kexfjk mßÈ
 fuu whs;u u; ;Sre nÿ bj;a flfrkq we;'
- 
-tajd m%Odk fj<| uOHia:dkj,g jvd;a wdikak 
-lrñka tu wxYfha olaI;d ixj¾Okh iy;sl 
-lrkq ms‡i ue‡la yd iaj¾KdNrK m¾fhaIK 
-yd mqyqKq wdh;kh iïmQ¾Kfhkau m%;sjHqy.; 
+
+tajd m%Odk fj<| uOHia:dkj,g jvd;a wdikak
+lrñka tu wxYfha olaI;d ixj¾Okh iy;sl
+lrkq ms‡i ue‡la yd iaj¾KdNrK m¾fhaIK
+yd mqyqKq wdh;kh iïmQ¾Kfhkau m%;sjHqy.;
 flfrkq we;'
 bÈlsÍï wxYh
- 
-idOdrK iy kfjda;amdokSh bÈlsÍï l¾udka;hla 
+
+idOdrK iy kfjda;amdokSh bÈlsÍï l¾udka;hla
 ks¾udKh lrkq ms‡i
- ‚Build Sri Lanka Fair 
-z 
-jevigyk Èh;a flfrkq we;' fuu úia;S¾K 
-m%;sm;a;sh u.ska l=vd" uOH yd uyd mßudK 
-jHdmdrhka w;r idOdrK ;rÕldÍ;ajhla 
-iy;sl lrñka fldka;%d;alrejka fY%a‡.; lsÍu 
-kej; y÷kajd fokq we;' f.dvke.s,s f;dr;=re 
-udÈ,slrKh ^ 
+‚Build Sri Lanka Fair
+z
+jevigyk Èh;a flfrkq we;' fuu úia;S¾K
+m%;sm;a;sh u.ska l=vd" uOH yd uyd mßudK
+jHdmdrhka w;r idOdrK ;rÕldÍ;ajhla
+iy;sl lrñka fldka;%d;alrejka fY%a‡.; lsÍu
+kej; y÷kajd fokq we;' f.dvke.s,s f;dr;=re
+udÈ,slrKh ^
 Building Information Modeling
-& 
+&
 jeks ÈhqKq ;dlaIKhka fhdod .ekSfuy
-s 
-,d 
-kdhl;ajh .kq ms‡i ta i|yd m¾fhaIK yd 
-kfjda;amdok wxYhla o ia:dmkh flfrkq 
-we;' fuu fjkialï u.ska bÈlsÍï lafIa;%h  
-kùlrKh lsÍu;a" ld¾hlaIu lsÍu;a wfmalaId 
-lrk w;r  foaYShj ksIamdÈ; wuqøjH Ndú;d 
-lsÍug yels mßirhla o ks¾udKh lrkq we;' 
+s
+,d
+kdhl;ajh .kq ms‡i ta i|yd m¾fhaIK yd
+kfjda;amdok wxYhla o ia:dmkh flfrkq
+we;' fuu fjkialï u.ska bÈlsÍï lafIa;%h
+kùlrKh lsÍu;a" ld¾hlaIu lsÍu;a wfmalaId
+lrk w;r foaYShj ksIamdÈ; wuqøjH Ndú;d
+lsÍug yels mßirhla o ks¾udKh lrkq we;'
 17
- 
-wdrjq,a úi£u úêu;a lsÍu ms‡i;a"  bÈlsÍï 
-wxYfha kshduk wkql+,;dj jeä ÈhqKq lsÍu 
+
+wdrjq,a úi£u úêu;a lsÍu ms‡i;a" bÈlsÍï
+wxYfha kshduk wkql+,;dj jeä ÈhqKq lsÍu
 ms‡i;a
- "Swift Build" Smart Resolve 
-jevigyk 
-l%shd;aul flfrkq we;' fuu jevigyk u.ska 
-wdrjq,a ld¾hlaIuj iu:hlg m;a lsÍu i|yd 
-bÈlsÍï jHdmD;s ms<sn| ia:djr WmfoaYl lñgqjla 
+"Swift Build" Smart Resolve
+jevigyk
+l%shd;aul flfrkq we;' fuu jevigyk u.ska
+wdrjq,a ld¾hlaIuj iu:hlg m;a lsÍu i|yd
+bÈlsÍï jHdmD;s ms<sn| ia:djr WmfoaYl lñgqjla
 (SACCP
-& iy by< jákdlula we;s jHdmD;s 
+& iy by< jákdlula we;s jHdmD;s
 wëlaIK
-h lsÍu i|yd bÈlsÍï jHdmD;s ms<sn| 
-cd;sl fufyhqï lñgqjla 
+h lsÍu i|yd bÈlsÍï jHdmD;s ms<sn|
+cd;sl fufyhqï lñgqjla
 (NCCP
-& y÷kajd fokq 
-we;' tuÕska iïu; ,xiq f,aLkj,g wkql+, 
-ùu" n,d;aul lsÍu" talrEmS nj iy;sl lsÍu 
-iy .egqï wju lsÍu i|yd bÈlsßï l¾udka; 
-ixj¾Ok wêldßh 
+& y÷kajd fokq
+we;' tuÕska iïu; ,xiq f,aLkj,g wkql+,
+ùu" n,d;aul lsÍu" talrEmS nj iy;sl lsÍu
+iy .egqï wju lsÍu i|yd bÈlsßï l¾udka;
+ixj¾Ok wêldßh
 (CIDA
-& fj; n,h ,nd fokq 
+& fj; n,h ,nd fokq
 we;'
- 
-kj;d ouk ,o jHdmD;s Wmdhud¾.sl 
-iudf,dapkhla iys;j kej; wdrïN lsÍu msßjeh 
-M,odhS úi÷ï ,ndfokq ,nk njg iy;sl lrñka 
-iy fldka;%d;alrejka iy rch u; ;jÿrg;a 
-uQ,H nr megùulska f;drj w;HjYH fkdjk 
-jHDmD;s wj,x.= lsÍu fyda m%;sjHqy.;lrKh isÿ 
-lrñka fuu w;HdjYH jHdmD;s kej; wdrïN 
-lrkq ms‡i wkd.; rch úiska wruqo,a fjka 
+
+kj;d ouk ,o jHdmD;s Wmdhud¾.sl
+iudf,dapkhla iys;j kej; wdrïN lsÍu msßjeh
+M,odhS úi÷ï ,ndfokq ,nk njg iy;sl lrñka
+iy fldka;%d;alrejka iy rch u; ;jÿrg;a
+uQ,H nr megùulska f;drj w;HjYH fkdjk
+jHDmD;s wj,x.= lsÍu fyda m%;sjHqy.;lrKh isÿ
+lrñka fuu w;HdjYH jHdmD;s kej; wdrïN
+lrkq ms‡i wkd.; rch úiska wruqo,a fjka
 lrkq we;'
- 
-bÈlsßï fiajd iy ksIamdok wmkhkh m%j¾Okh 
-rch úiska wmkhk l¾udka;hla jYfhka 
-bÈlsÍï wxYh m%j¾Okh lsÍfï ld¾hhg 
+
+bÈlsßï fiajd iy ksIamdok wmkhkh m%j¾Okh
+rch úiska wmkhk l¾udka;hla jYfhka
+bÈlsÍï wxYh m%j¾Okh lsÍfï ld¾hhg
 m%uqL;dj ,ndÈh hq;=h' wka;¾ cd;sl f
-j 
-f<|dï 
+j
+f<|dï
 iy;sllrKh ^
 Cross-Border Guarantees
-& i|yd 
-wjYH myiqlïlrKh" rdcH ;dka;%sl iydh 
-,nd§u iy wmkhk m%j¾Okh wdrïN lsÍu u.ska 
+& i|yd
+wjYH myiqlïlrKh" rdcH ;dka;%sl iydh
+,nd§u iy wmkhk m%j¾Okh wdrïN lsÍu u.ska
 fuh l%shd;aul l< yelsh'
- 
-iemhqï oduh kùlrKh lrñka bÈlsßï fhojqï 
+
+iemhqï oduh kùlrKh lrñka bÈlsßï fhojqï
 ksIamdok foaYShlrKh isÿ lrkq we;'
- 
-iu ìul l%shd;aul ùfï wjldY iy;sl 
-lrñka idOdrK ;rÕldÍ;ajhla iy kshduk 
+
+iu ìul l%shd;aul ùfï wjldY iy;sl
+lrñka idOdrK ;rÕldÍ;ajhla iy kshduk
 n,.ekaùula i|yd wjldY újr lrkq we; '
- 
-r|jd .ekSfï wruqo,a fjkqjg wemlr fyda 
-ne÷ïlr ia:dk.; lrñka .súiqï.; jevlghq;= 
-60]lska iïmQ¾K jQ miq r|jd.;a uqo,a uqod yeÍu 
-fiajdfhdaclhka úiska wksjd¾hfhka isÿ l< hq;= 
+
+r|jd .ekSfï wruqo,a fjkqjg wemlr fyda
+ne÷ïlr ia:dk.; lrñka .súiqï.; jevlghq;=
+60]lska iïmQ¾K jQ miq r|jd.;a uqo,a uqod yeÍu
+fiajdfhdaclhka úiska wksjd¾hfhka isÿ l< hq;=
 njg rch úiska úêúOdk mkjkq we;'
 úÿ,s n,h iy n,Yla;sh
- 
-mdßfNda.slhskag idOdrK iy ;rÕldÍ ñ, 
-.Kka hgf;a úÿ,sh iemhSu iy;sl lsÍu i|yd 
-úÿ,sn, wxYfha ¥IKh iy wld¾hlaIu;dj 
-;=rka lsÍug wjYH kS;s ixfYdaOk iy mßmd,k 
-fjkialï isÿ flfrkq we;' 
- 
-úÿ,sh" Lksc f;,a iy .Eia hk lafIa;%j, 
-foaYSh 
-yd úfoaYSh wdfhdack Èß.ekafjk w;r" 
-iïmQ¾Kfhkau ¥IKfhka f;dr iy ld¾hlaIu 
-f,i úÿ,sh ñ,§ .ekSu i|yd f,dal iïu;hkag 
-wkql+, l%uhka  y÷kajd fokq we;'
- 
-oekgu;a cd;sl úÿ,sn, moaO;shg fu.dfjdÜ 
-1"300la tl;= lr we;s 
-Ÿ 
+
+mdßfNda.slhskag idOdrK iy ;rÕldÍ ñ,
+.Kka hgf;a úÿ,sh iemhSu iy;sl lsÍu i|yd
+úÿ,sn, wxYfha ¥IKh iy wld¾hlaIu;dj
+;=rka lsÍug wjYH kS;s ixfYdaOk iy mßmd,k
+fjkialï isÿ flfrkq we;'
+
+úÿ,sh" Lksc f;,a iy .Eia hk lafIa;%j,
+foaYSh
+yd úfoaYSh wdfhdack Èß.ekafjk w;r"
+iïmQ¾Kfhkau ¥IKfhka f;dr iy ld¾hlaIu
+f,i úÿ,sh ñ,§ .ekSu i|yd f,dal iïu;hkag
+wkql+, l%uhka y÷kajd fokq we;'
+
+oekgu;a cd;sl úÿ,sn, moaO;shg fu.dfjdÜ
+1"300la tl;= lr we;s
+Ÿ
 iQ¾h n,Yla;s igk
-Ÿ 
- 
+Ÿ
+
 ^
 Battle for Solar Energy
-& jHdmD;sh ;jÿrg;a 
-m%j¾Okh flf¾' iyk fmd,S wkqmd; hgf;a 
-Ÿ 
+& jHdmD;sh ;jÿrg;a
+m%j¾Okh flf¾' iyk fmd,S wkqmd; hgf;a
+Ÿ
 iQ¾h n,d.dr
-Ÿ 
- bÈ lsÍug ksjdi ysñhka iy 
-l¾udka;lrejka Èß.kajkq ,efí' jir 5la ;=< 
-ksjdi ñ,shkhla iQ¾h n,Yla;sfhka iún, 
+Ÿ
+bÈ lsÍug ksjdi ysñhka iy
+l¾udka;lrejka Èß.kajkq ,efí' jir 5la ;=<
+ksjdi ñ,shkhla iQ¾h n,Yla;sfhka iún,
 .ekaùu fuys wruqK fõ'
- 
+
 fu.dfjdÜ 1"200l wlafjr< ^
 Off-shore
-& bÈlrk 
-iq<x úÿ,s jHdmD;shla i|yd m%uqL;dj ,ndfok 
+& bÈlrk
+iq<x úÿ,s jHdmD;shla i|yd m%uqL;dj ,ndfok
 w;r rg ;=< ^
 On-shore
-& iq<x úÿ,s n,h iy iQ¾h 
-úÿ,s  n,h m%j¾Okh lsÍu i|yd úksúoNdjfhka 
-hq;= ;rÕldÍ l%ufõohka y÷kajd fokq we;' 
-tu.ska foaYSh iy úfoaYSh wdfhdaclhka Èßu;a 
-lsÍu wfmalaId lrkq ,efí' 
- 
-Y%S ,xldfõ úÿ,s moaO;sh jir 05la ;=< iqyqre 
-moaO;shla 
+& iq<x úÿ,s n,h iy iQ¾h
+úÿ,s n,h m%j¾Okh lsÍu i|yd úksúoNdjfhka
+hq;= ;rÕldÍ l%ufõohka y÷kajd fokq we;'
+tu.ska foaYSh iy úfoaYSh wdfhdaclhka Èßu;a
+lsÍu wfmalaId lrkq ,efí'
+
+Y%S ,xldfõ úÿ,s moaO;sh jir 05la ;=< iqyqre
+moaO;shla
 (Smart Grid)
- njg m;a lrkq we;' 
- 
-oekg mj;sk ;dm n,d.dr O%eúlD; iajNdúl 
-jdhq uÕska l%shd;aul lsÍu i|yd wjYH 
-kùlrKhka jir 02la ;=< iïmQ¾K lrk w;r 
-foaYSh n,Yla;s wjYH;d Wfoid iajNdúl jdhq" 
-O%eúlD; iajdNdúl jdhq iy iïmSä; iajdNdúl 
-jdhq Ndú;d lsÍu i|yd wjYH jk há;, 
-myiqlï rdcH iy fm!oa.,sl ueÈy;aùfuka ,nd 
-fokq we;' 
- 
-iq<x iy iQ¾h úÿ,s lafIa;% we;=<;a mqk¾ckSkh 
-n,Yla;s m%Njhkaj,g wjYH hkaf;%damlrK 
-ksmoùu iy kv;a;= lsÍug wod< myiqlï rg ;=< 
-we;slsÍug wjYH lghq;= rdcH iy fm!oa.,sl 
-wxYj, ue¢y;a ùfuka isÿ lrkq we;'   
- 
-2024 wxl 36 orK úÿ,sn, mk; ;=< wka;¾.; 
-úÿ,s fiajlhkaf.a whs;sjdislïj,g tfrys 
-iy mdßfNda.slhskaf.a whs;sjdislïj,g tfrys 
-m%;smdok bj;a lr" ld¾hlaIu iqyqre úÿ,s 
-moaO;shla rg ;=< f.dvke.Sug m%uqL;dj 
+njg m;a lrkq we;'
+
+oekg mj;sk ;dm n,d.dr O%eúlD; iajNdúl
+jdhq uÕska l%shd;aul lsÍu i|yd wjYH
+kùlrKhka jir 02la ;=< iïmQ¾K lrk w;r
+foaYSh n,Yla;s wjYH;d Wfoid iajNdúl jdhq"
+O%eúlD; iajdNdúl jdhq iy iïmSä; iajdNdúl
+jdhq Ndú;d lsÍu i|yd wjYH jk há;,
+myiqlï rdcH iy fm!oa.,sl ueÈy;aùfuka ,nd
+fokq we;'
+
+iq<x iy iQ¾h úÿ,s lafIa;% we;=<;a mqk¾ckSkh
+n,Yla;s m%Njhkaj,g wjYH hkaf;%damlrK
+ksmoùu iy kv;a;= lsÍug wod< myiqlï rg ;=<
+we;slsÍug wjYH lghq;= rdcH iy fm!oa.,sl
+wxYj, ue¢y;a ùfuka isÿ lrkq we;'
+
+2024 wxl 36 orK úÿ,sn, mk; ;=< wka;¾.;
+úÿ,s fiajlhkaf.a whs;sjdislïj,g tfrys
+iy mdßfNda.slhskaf.a whs;sjdislïj,g tfrys
+m%;smdok bj;a lr" ld¾hlaIu iqyqre úÿ,s
+moaO;shla rg ;=< f.dvke.Sug m%uqL;dj
 ,ndfokq we;'
- 
-Y%S ,xldfõ ;srir n,Yla;s úNjh ie<ls,a,g 
-.;a l, wmf.a foaYSh wjYH;d blaujd f.dia 
-wmkhkh lsÍfï iqNodhS wjia:djla mj;S' yß; 
-yhsv%cka ksIamdok ld¾hfhys ksr; fjñka 
-ta i|yd iDcq úfoaY wdfhdack fj; wdrdOkd 
+
+Y%S ,xldfõ ;srir n,Yla;s úNjh ie<ls,a,g
+.;a l, wmf.a foaYSh wjYH;d blaujd f.dia
+wmkhkh lsÍfï iqNodhS wjia:djla mj;S' yß;
+yhsv%cka ksIamdok ld¾hfhys ksr; fjñka
+ta i|yd iDcq úfoaY wdfhdack fj; wdrdOkd
 lrkafkuq'
- 
-m%dfoaYSh n,Yla;s iïnkaO;d jevigyka 
+
+m%dfoaYSh n,Yla;s iïnkaO;d jevigyka
 l%shd;aul lrkafkuq'
 18
-wOHdmkh" fi!LH fiajd iy iudc fiajd 
-i|yd iEu mqrjeisfhl=gu iudk m%fõYhla 
-iy;sl lsÍug lemù isák w;r" Šilaj,Ÿ 
-iy ŠyqiauŸ jeks kjH jHdmD;Skaj, iydh 
-,nd .ksñka ia;%S mqreI iudkd;au;djh fukau 
-lsisÿ ck lKavdhula w;a fkdyefrk fia" iEu 
-mqoa.,fhl=gu id¾:l úh yels iajhxfmdaIs; 
+wOHdmkh" fi!LH fiajd iy iudc fiajd
+i|yd iEu mqrjeisfhl=gu iudk m%fõYhla
+iy;sl lsÍug lemù isák w;r" Šilaj,Ÿ
+iy ŠyqiauŸ jeks kjH jHdmD;Skaj, iydh
+,nd .ksñka ia;%S mqreI iudkd;au;djh fukau
+lsisÿ ck lKavdhula w;a fkdyefrk fia" iEu
+mqoa.,fhl=gu id¾:l úh yels iajhxfmdaIs;
 iudchla f.dvk.uq'
-iEu 
-mqrjeisfhl=u 
+iEu
+mqrjeisfhl=u
 n,.ekaùu
 19
-wOHdmkh" jD;a;Sh mqyqKqj iy 
+wOHdmkh" jD;a;Sh mqyqKqj iy
 ;dreKHh
-wOHdmkh hkq uQ,sl whs;sjdisluls' udkj m%d.aOkh 
-wmf.a m%uqL;djhs' 
- 
-cd;sfha udkj m%d.aOkh ixj¾Okh lsßu Wfoid 
-.=rejreka úiska bgqlrkq ,nk ;SrKd;aul 
+wOHdmkh hkq uQ,sl whs;sjdisluls' udkj m%d.aOkh
+wmf.a m%uqL;djhs'
+
+cd;sfha udkj m%d.aOkh ixj¾Okh lsßu Wfoid
+.=rejreka úiska bgqlrkq ,nk ;SrKd;aul
 ld¾hNdrh ms<s.ksñka" rch Y%S ,xldj mqrd ish¨
- 
-u 
-.=rejrekag fkdñf,a fmdÿ m%jdyk myiqlï 
-imhkq we;' 
- 
-wOHdmk lafIa;%fha §¾> ld,hla ;siafia mj;sk 
+
+u
+.=rejrekag fkdñf,a fmdÿ m%jdyk myiqlï
+imhkq we;'
+
+wOHdmk lafIa;%fha §¾> ld,hla ;siafia mj;sk
 jegqma" úY%du jegqma iy fiajd .eg¨
- 
- úi£u i|yd 
-2025 ckjdß udihg fmr m%;sm;a;suh ;SrK 
-.ksñka l%shdldÍ ie,eiaula ilia lsÍu' 
- 
+
+úi£u i|yd
+2025 ckjdß udihg fmr m%;sm;a;suh ;SrK
+.ksñka l%shdldÍ ie,eiaula ilia lsÍu'
+
 Y%S ,xldfõ ish¨
- 
-u mdi,aj,g 100] úÿ,sh" c, 
-myiqlï iy fN!;sl iïm;a iemhSfuka iEu 
-mdi,lau iqyqre mdi,la njg m;a lsÍu i|yd 
-ud¾. is;shula ilia lsÍu' 
- 
-wd.u b.ekaùu i|yd wjYH .=re mqrmamdvq 
-mqrjkq we;' mdi,aj, wd.u b.ekaùu"  tu úIh 
-iïnkaOfhka iqÿiqlï ,;a .=rejreka úiska 
+
+u mdi,aj,g 100] úÿ,sh" c,
+myiqlï iy fN!;sl iïm;a iemhSfuka iEu
+mdi,lau iqyqre mdi,la njg m;a lsÍu i|yd
+ud¾. is;shula ilia lsÍu'
+
+wd.u b.ekaùu i|yd wjYH .=re mqrmamdvq
+mqrjkq we;' mdi,aj, wd.u b.ekaùu" tu úIh
+iïnkaOfhka iqÿiqlï ,;a .=rejreka úiska
 isÿlrkq we;'
- 
-mq¿,a lrk ,o zilaj,Z jevigyk yryd 
-mdie,aj, äðg,a bf.kqï moaO;s fj; m%fõY 
-úh yels njg iy;sl lrñka iqyqre Y%S ,xldjla 
-f.dvkeÕSu m%uqL;d.; lrkq we;' fu;=< äðg,a 
-;dlaIKh Ndú;fhka úIhud,d wka;¾.;hka 
-bÈßm;a lsÍfï l%ufõofhys mQ¾K kùlrKhkao 
-we;=,;a jkq we;' .=Kd;aul wOHdmk fiajdjka 
-,nd.ekSfï yelshdj we;s lrñka fuu jevigyk 
-ld¾ñl yd jD;a;Sh wdh;k fj;g yd úYajúoHd, 
-fj;go jHdma; flfrkq we;' iqyqre mdi,a iy 
-äðg,a há;, myiqlï ia:dmkh fldg jeäÈhqKq 
-lsÍfï ld¾hhg iydh olajkq ms‡i fkduiqre 
-mß;Hd.YS,Ska wdl¾IKh lr.kakd lemlre 
+
+mq¿,a lrk ,o zilaj,Z jevigyk yryd
+mdie,aj, äðg,a bf.kqï moaO;s fj; m%fõY
+úh yels njg iy;sl lrñka iqyqre Y%S ,xldjla
+f.dvkeÕSu m%uqL;d.; lrkq we;' fu;=< äðg,a
+;dlaIKh Ndú;fhka úIhud,d wka;¾.;hka
+bÈßm;a lsÍfï l%ufõofhys mQ¾K kùlrKhkao
+we;=,;a jkq we;' .=Kd;aul wOHdmk fiajdjka
+,nd.ekSfï yelshdj we;s lrñka fuu jevigyk
+ld¾ñl yd jD;a;Sh wdh;k fj;g yd úYajúoHd,
+fj;go jHdma; flfrkq we;' iqyqre mdi,a iy
+äðg,a há;, myiqlï ia:dmkh fldg jeäÈhqKq
+lsÍfï ld¾hhg iydh olajkq ms‡i fkduiqre
+mß;Hd.YS,Ska wdl¾IKh lr.kakd lemlre
 mdie,a ^
 Foster Schools
-& 10"096 l jevigykla 
+& 10"096 l jevigykla
 ks¾udKh flfrkq we;'
- 
-f.da,Sh yjq,aldß;ajhka" ixialD;sl yqjudre iy 
-mdi,a w;r iduqysl bf.kqï wjia:djka fmdaIKh 
+
+f.da,Sh yjq,aldß;ajhka" ixialD;sl yqjudre iy
+mdi,a w;r iduqysl bf.kqï wjia:djka fmdaIKh
 ms‡i mdie,a noaOlrK jevigykla ^
-Twinning 
+Twinning
 Programme
 & wdrïN flfrkq we;'
- 
-mdi,aj, myiqlï mj;ajdf.k hdu iy ksis 
-l,g kv;a;= lghq;= isÿjk njg iy;sl lrkq 
-ms‡i m%dfoaYSh m%cdjkaf.a iydh iys; Ndrldr 
+
+mdi,aj, myiqlï mj;ajdf.k hdu iy ksis
+l,g kv;a;= lghq;= isÿjk njg iy;sl lrkq
+ms‡i m%dfoaYSh m%cdjkaf.a iydh iys; Ndrldr
 wruqo,la ^
 Trust Fund
-& iEu mdi,lu msysgqùu 
+& iEu mdi,lu msysgqùu
 wksjd¾hh lsÍu'
- 
-.=re mqyqKq lghq;= läkï lsÍu ud¾.fhka 
+
+.=re mqyqKq lghq;= läkï lsÍu ud¾.fhka
 ish¨
- 
-u wOHdmk wdh;kj, úoHdj" ;dlaIKh" 
-bx.%Sis" bxðfkare úoHdj" fi!kao¾hh yd .‡;h 
+
+u wOHdmk wdh;kj, úoHdj" ;dlaIKh"
+bx.%Sis" bxðfkare úoHdj" fi!kao¾hh yd .‡;h
 hk úIhhka i|yd uq,a ;ekla fok
- STEEAM 
-wOHdmkhla ìys lsÍu ms‡i 2025 ckjdß udifha 
-isg lghq;= wdrïN lsÍu' 
- 
-mdi,a úIh ud,d hdj;ald,Sk lsÍfï§ foia 
-úfoia rdcH yd fm!oa.,sl wxYfha udkj iïm;a 
-úfYaI{ woyia ,nd .kakd w;r lD;%su nqoaêh 
-we;=¿ kùk ;dlaI‡l m%jK;djkag ksis ;ek 
+STEEAM
+wOHdmkhla ìys lsÍu ms‡i 2025 ckjdß udifha
+isg lghq;= wdrïN lsÍu'
+
+mdi,a úIh ud,d hdj;ald,Sk lsÍfï§ foia
+úfoia rdcH yd fm!oa.,sl wxYfha udkj iïm;a
+úfYaI{ woyia ,nd .kakd w;r lD;%su nqoaêh
+we;=¿ kùk ;dlaI‡l m%jK;djkag ksis ;ek
 ,nd §ug lghq;= flfrkq we;'
- 
-¥ orejkag oeä udkisl mSvkhla njg m;aj we;s" 
-5 fY%a‡ YsIH;aj úNd.h Tjqka tu mSvkfhka 
-ksoyia jk whqßka ir, yd ixúê; lsÍu' 
- 
-j.lsjhq;= mqrjeishka f.dvke.Sfuys,d uq,a 
-<udúh wOHdmkfha mj;akd uQ,sl jeo.;alu 
-y÷kd .ksñka nyq-md¾Yjlre WmfoaYl iNdjla 
-iys; kshduk wêldßhla ia:dmkh fldg <uqkag 
-ys;ldó yd kùk há;, myiqlï we;s fldg 
-.=re mqyqKqj iy m%;S;k 
+
+¥ orejkag oeä udkisl mSvkhla njg m;aj we;s"
+5 fY%a‡ YsIH;aj úNd.h Tjqka tu mSvkfhka
+ksoyia jk whqßka ir, yd ixúê; lsÍu'
+
+j.lsjhq;= mqrjeishka f.dvke.Sfuys,d uq,a
+<udúh wOHdmkfha mj;akd uQ,sl jeo.;alu
+y÷kd .ksñka nyq-md¾Yjlre WmfoaYl iNdjla
+iys; kshduk wêldßhla ia:dmkh fldg <uqkag
+ys;ldó yd kùk há;, myiqlï we;s fldg
+.=re mqyqKqj iy m%;S;k
 (Accreditation)
- m%ñ;Ska 
-msysgqjd,ñka uq,a <udúh ixj¾Okh i|yd 
+m%ñ;Ska
+msysgqjd,ñka uq,a <udúh ixj¾Okh i|yd
 fouõmsh odhl;ajh o m%j¾Okh lrkafkuq'
- 
-isiqjl=g mdi,a iufha uq,a wÈhrhkays isgu bx.%Sis 
-NdIdj fyd¢ka f;areï .ekSu" l:d lsÍu yd ,sùu 
-hk yelshd ,efnk mßoafoka m%d:ñl yd oaú;Shsl 
-mdi,a wOHdmkh ielfik w;r ta i|yd kùk 
-;dlaI‡l fuj,ï Ndú;hg .efkkq we;'  
- 
+
+isiqjl=g mdi,a iufha uq,a wÈhrhkays isgu bx.%Sis
+NdIdj fyd¢ka f;areï .ekSu" l:d lsÍu yd ,sùu
+hk yelshd ,efnk mßoafoka m%d:ñl yd oaú;Shsl
+mdi,a wOHdmkh ielfik w;r ta i|yd kùk
+;dlaI‡l fuj,ï Ndú;hg .efkkq we;'
+
 6-13 fY%a‡j,g wkqhqla;j wOHdmkh ,nk ish¨
- 
- 
-mdi,a oeßhka yg Tima ikSmdrlaIl ksIamdok 
-ñ,§ .ekSu i|yd iajlSh leue;a; mßÈ udisl 
-uqo,a yqjudrejla ,nd .ekSfï l%ufõohla y÷kajd 
+
+mdi,a oeßhka yg Tima ikSmdrlaIl ksIamdok
+ñ,§ .ekSu i|yd iajlSh leue;a; mßÈ udisl
+uqo,a yqjudrejla ,nd .ekSfï l%ufõohla y÷kajd
 fokq ,efí'
- 
+
 úYajúoHd, wxYfha jD;a;Sh .eg¨
- 
- úi£u i|yd 
-úYajúoHd, m%;smdok fldñIka iNdj jydu 
-m%;sjHqy.; lsÍug mshjr .ekSu' úYajúoHd, 
-m%;smdok fldñIka iNd mk; m%;sixialrKh 
-fldg úYajúoHd,j, iajdëk;ajh Yla;su;a 
-lsÍu' rdcH" rdcH fkdjk iy fm!oa.,sl Wiia 
-wOHdmk wdh;kj, .=Kd;aulNdjh wëlaIKh 
-lsÍu i|yd Wiia wOHdmk fldñIka iNdjla 
+
+úi£u i|yd
+úYajúoHd, m%;smdok fldñIka iNdj jydu
+m%;sjHqy.; lsÍug mshjr .ekSu' úYajúoHd,
+m%;smdok fldñIka iNd mk; m%;sixialrKh
+fldg úYajúoHd,j, iajdëk;ajh Yla;su;a
+lsÍu' rdcH" rdcH fkdjk iy fm!oa.,sl Wiia
+wOHdmk wdh;kj, .=Kd;aulNdjh wëlaIKh
+lsÍu i|yd Wiia wOHdmk fldñIka iNdjla
 ia:dmkh lsÍu' ish¨
- 
-u rcfha yd rcfha fkdjk 
-úYajúoHd,j, cd;Hka;r fY%a‡.; lsÍï 
-jeäÈhqKq lsÍug wjYH mshjr .ekSu u.ska 
+
+u rcfha yd rcfha fkdjk
+úYajúoHd,j, cd;Hka;r fY%a‡.; lsÍï
+jeäÈhqKq lsÍug wjYH mshjr .ekSu u.ska
 tajdfha cd;Hka;r ms<s.ekSu by< kexùu'
- 
-;dlaIKh iy kfjda;amdokho kxjd,ñka 
-bkaÈhdfõ ;dlaIK wdh;k$ bkaÈhdfõ 
+
+;dlaIKh iy kfjda;amdokho kxjd,ñka
+bkaÈhdfõ ;dlaIK wdh;k$ bkaÈhdfõ
 l<ukdlrK wdh;k ^
 IIT
- $ 
+$
 IIM
-& mkakfha 
+& mkakfha
 20
-úYajúoHd,hla furg o ia:dmkh lsÍug wjYH 
-myiqlï i,ikq ms‡i Y%S ,xldj úiska tu 
-wdh;k o iu.ska iïnkaëlrK lghq;= isÿ lrkq 
+úYajúoHd,hla furg o ia:dmkh lsÍug wjYH
+myiqlï i,ikq ms‡i Y%S ,xldj úiska tu
+wdh;k o iu.ska iïnkaëlrK lghq;= isÿ lrkq
 we;'
- 
-wOHhk m%ñ;s" m¾fhaIK iyfhda.s;djhka iy 
-isiq yqjudre jevigyka jeäÈhqKq lsÍu b,lal 
+
+wOHhk m%ñ;s" m¾fhaIK iyfhda.s;djhka iy
+isiq yqjudre jevigyka jeäÈhqKq lsÍu b,lal
 lr.;a úYajúoHd, noaOlrK ^
 Twinning
-& jHdmD;s 
+& jHdmD;s
 Èß.ekaùu'
- 
-rdcH fkdjk iy fm!oa.,sl úYajúoHd,j, 
-wOHdmkh i|yd oekg mj;sk rcfha Kh 
-jevigyk ms<s.;a fm!oa.,sl jD;a;Sh mqyqKq 
-wdh;k o wdjrKh jk mßÈ mq¿,a flfrkq we;' 
- 
-jD;a;Sh mqyqKq úIh ud,d j¾;udk fjf<|m< 
+
+rdcH fkdjk iy fm!oa.,sl úYajúoHd,j,
+wOHdmkh i|yd oekg mj;sk rcfha Kh
+jevigyk ms<s.;a fm!oa.,sl jD;a;Sh mqyqKq
+wdh;k o wdjrKh jk mßÈ mq¿,a flfrkq we;'
+
+jD;a;Sh mqyqKq úIh ud,d j¾;udk fjf<|m<
 b,a¨
- 
-ug wkql+,j úia;S¾K f,i kùlrKh 
-lr m%ñ;s.; lrkq we;s w;r" tuÕska ìysjk 
-WmdêOdÍka  yd wfkl=;a úoHd¾Òka ta ta 
+
+ug wkql+,j úia;S¾K f,i kùlrKh
+lr m%ñ;s.; lrkq we;s w;r" tuÕska ìysjk
+WmdêOdÍka yd wfkl=;a úoHd¾Òka ta ta
 lafIa;%hkag wod< yd /lshd b,a¨
- 
-ug .e<fmk 
+
+ug .e<fmk
 l=i,;d mQ¾K msßila njg iy;sl flf¾'
- 
-rfÜ Ôjkd,sh n÷ ;reK m%cdj ;Dma;su;a iy 
-i;=áka isák mqrjeishka úh hq;=h' Tjqkaf.a 
-Y%u odhl;ajh rfÜ ixj¾Okhg M,odhS f,i 
-fhdod .kkq jia wOHdmkh" jD;a;Sh mqyqKq" 
-jHjidhl;ajhka i|yd jk kùk;u myiqlï 
-imhñka Tjqkag foaYSh yd úfoaYSh kj wjia:djka 
+
+rfÜ Ôjkd,sh n÷ ;reK m%cdj ;Dma;su;a iy
+i;=áka isák mqrjeishka úh hq;=h' Tjqkaf.a
+Y%u odhl;ajh rfÜ ixj¾Okhg M,odhS f,i
+fhdod .kkq jia wOHdmkh" jD;a;Sh mqyqKq"
+jHjidhl;ajhka i|yd jk kùk;u myiqlï
+imhñka Tjqkag foaYSh yd úfoaYSh kj wjia:djka
 lrd <Õd ùug myiqlï imhkq we;'
 ldka;djka iy <uqka iún,.ekaùu
- 
+
 iEu .%d
-u ks,OdÍ fldÜGdihlau wdjrKh 
-flfrk mßÈ Èjd iq/l=ï uOHia:dk wdrïN 
-lsÍug rch úiska jHjidhlhka Èß .kajkq we;s 
-w;r ta i|yd wjYH uQ,H Èß.ekaùï o ,ndfokq 
-we;' iqÿiq mßÈ rcfha iy mqoa.,sl wdh;khkayso 
-Èjd iq/l=ï uOHia:dk msysgqùug iy fuu Èjd 
+u ks,OdÍ fldÜGdihlau wdjrKh
+flfrk mßÈ Èjd iq/l=ï uOHia:dk wdrïN
+lsÍug rch úiska jHjidhlhka Èß .kajkq we;s
+w;r ta i|yd wjYH uQ,H Èß.ekaùï o ,ndfokq
+we;' iqÿiq mßÈ rcfha iy mqoa.,sl wdh;khkayso
+Èjd iq/l=ï uOHia:dk msysgqùug iy fuu Èjd
 iq/l=ï uOHia:dk kshdukhg wjYH ish¨
- 
- iydh 
+
+iydh
 ,nd§ug o rch úiska mshjr .kq we;'
- 
-fiajd n,ldh ;=< jvd by< ldka;d 
-iyNd.S;ajhla i|yd wjYH Èßu;a lrùï isÿ 
-lrñka ud;D;aj ksjdvq msßjeh rch úiska orkq 
+
+fiajd n,ldh ;=< jvd by< ldka;d
+iyNd.S;ajhla i|yd wjYH Èßu;a lrùï isÿ
+lrñka ud;D;aj ksjdvq msßjeh rch úiska orkq
 we;'
- 
-md¾,sfïka;=j" m<d;a iNd iy m<d;a md,k 
-wdh;khkays wju jYfhka 25]l ldka;d 
-ksfhdackh ;yjqre lsÍu ms‡i wjYH kS;suh 
-m%;sixialrK isÿ lrkq we;' 
- 
-ia;%S-mqreI  idudkd;au;dj ;yjqre lsÍu i|yd 
-o" ldka;djka n,.ekaùu i|yd o" <ud wdrlaIdj 
-iy ldhsl yd udkisl iqNisoaêh i|yd o j.lSï 
-mejfrk ckdêm;s ld¾h idOl n,ldhla udi 
-03la ;=< 
-msysgqjkq we;'  
- 
-ldka;djkaf.a yd <uhskaf.a whs;sjdislï 
-wdrlaIdj Wfoid oekg iïu; lr we;s kS;s 
-mQ¾K f,i n,d;aul lsÍu wjYH jk ks¾foaY 
-,nd  .ekSu i|yd úoaj;a lñgqjla m;a lrkq 
-,nk w;r tu ks¾foaY jirl ld,hla we;=<; 
+
+md¾,sfïka;=j" m<d;a iNd iy m<d;a md,k
+wdh;khkays wju jYfhka 25]l ldka;d
+ksfhdackh ;yjqre lsÍu ms‡i wjYH kS;suh
+m%;sixialrK isÿ lrkq we;'
+
+ia;%S-mqreI idudkd;au;dj ;yjqre lsÍu i|yd
+o" ldka;djka n,.ekaùu i|yd o" <ud wdrlaIdj
+iy ldhsl yd udkisl iqNisoaêh i|yd o j.lSï
+mejfrk ckdêm;s ld¾h idOl n,ldhla udi
+03la ;=<
+msysgqjkq we;'
+
+ldka;djkaf.a yd <uhskaf.a whs;sjdislï
+wdrlaIdj Wfoid oekg iïu; lr we;s kS;s
+mQ¾K f,i n,d;aul lsÍu wjYH jk ks¾foaY
+,nd .ekSu i|yd úoaj;a lñgqjla m;a lrkq
+,nk w;r tu ks¾foaY jirl ld,hla we;=<;
 l%shd;aul lsÍug lghq;= lrkq ,efí'
- 
-iEu fmd,sia ia:dkhlu we;s ldka;d yd <ud 
-ld¾hdxY meh 24 mqrdu újD;j ;nkq we;' 
- 
-ldka;d uQ,sl mjq,a iún, .ekaùu i|yd 
-mßj¾;kSh jevigykla Èh;a lrkafkuq' 
- 
-fuu.ska ldka;djka iy Tjqkaf.a orejka 
-wdrlaIs; yd fmdaI„h mßirhl iY%Slj j¾Okh 
-ùu iy;sl lsÍu i|yd mQ¾K  iydh iy 
+
+iEu fmd,sia ia:dkhlu we;s ldka;d yd <ud
+ld¾hdxY meh 24 mqrdu újD;j ;nkq we;'
+
+ldka;d uQ,sl mjq,a iún, .ekaùu i|yd
+mßj¾;kSh jevigykla Èh;a lrkafkuq'
+
+fuu.ska ldka;djka iy Tjqkaf.a orejka
+wdrlaIs; yd fmdaI„h mßirhl iY%Slj j¾Okh
+ùu iy;sl lsÍu i|yd mQ¾K iydh iy
 wdrlaIdj imhkq we;'
- 
-laIqø Kh wdh;k kshdukh n,.ekafjkq we;' 
-wkjir laIqø uQ,H jHdmdr jid oukq we;s w;r 
-tajdg j.lsj hq;a;ka iïnkaOfhka oKavk 
-l%shdud¾. läkï flfrkq we;' laIqø uQ,H Kh 
-W.=f,a isrù isák mqoa.,hska uqod .ekSu i|yd 
-iydh jevigykla Èh;a lrkafkuq' 
- 
-fuu.ska Tjqkag uQ,H ia:djr;ajh h<s ,nd 
-.ekSug yelshdj ,nd fokq we;' laIqø Kh 
-ysñhka úiska mSvkhg yd wmpdrhg ,lajQ 
-ldka;djka wdrlaId lsÍu i|yd úfYaI 
+
+laIqø Kh wdh;k kshdukh n,.ekafjkq we;'
+wkjir laIqø uQ,H jHdmdr jid oukq we;s w;r
+tajdg j.lsj hq;a;ka iïnkaOfhka oKavk
+l%shdud¾. läkï flfrkq we;' laIqø uQ,H Kh
+W.=f,a isrù isák mqoa.,hska uqod .ekSu i|yd
+iydh jevigykla Èh;a lrkafkuq'
+
+fuu.ska Tjqkag uQ,H ia:djr;ajh h<s ,nd
+.ekSug yelshdj ,nd fokq we;' laIqø Kh
+ysñhka úiska mSvkhg yd wmpdrhg ,lajQ
+ldka;djka wdrlaId lsÍu i|yd úfYaI
 ueÈy;aùula isÿlrkq we;'
- 
-fiajl w¾:idOl wruqo,$ fiajd kshqla;slhkaf.a 
-Ndr wruqo, yryd ikd: flfrk mßÈ 50] 
-blaujd ldka;djka fiajd kshq;al flfrk 
-f;dard.;a wxYhkays iud.ï fj; nÿ m%;s,dN 
+
+fiajl w¾:idOl wruqo,$ fiajd kshqla;slhkaf.a
+Ndr wruqo, yryd ikd: flfrk mßÈ 50]
+blaujd ldka;djka fiajd kshq;al flfrk
+f;dard.;a wxYhkays iud.ï fj; nÿ m%;s,dN
 ,ndfokq we;'
 fi!LHh" fmdaIKh" foaYSh fjolu yd
- 
+
 iudc iqNidOkh
- 
-cd;sl fmdaIK m%;sm;a;sh l%shd;aul lrk njg 
-j.n,d .kafkuq' 
- 
-miq.sh jir 25 ;=<" jhi wjqreÿ myg wvq 
-orejkaf.a ukaofmdaIKh iïnkaOfhka 
-lsisÿ jeäÈhqKqjla isÿ ù ke;' th wfma rfÜ 
-ixj¾Okhg wys;lr f,i n,mdhs' orejkaf.a 
-jvd hym;a j¾Okhg iydh ùu i|yd w;HdjYH 
+
+cd;sl fmdaIK m%;sm;a;sh l%shd;aul lrk njg
+j.n,d .kafkuq'
+
+miq.sh jir 25 ;=<" jhi wjqreÿ myg wvq
+orejkaf.a ukaofmdaIKh iïnkaOfhka
+lsisÿ jeäÈhqKqjla isÿ ù ke;' th wfma rfÜ
+ixj¾Okhg wys;lr f,i n,mdhs' orejkaf.a
+jvd hym;a j¾Okhg iydh ùu i|yd w;HdjYH
 fmdaIl iemhSug wms lemù isáuq'
- 
-.¾N„ ud;djka yd l=vd orejka wdY%s; ukao 
+
+.¾N„ ud;djka yd l=vd orejka wdY%s; ukao
 fmdaIK ;;a;ajh nrm;< fi!LH .eg¨
- 
-jla 
-jYfhka y÷kd .ksñka" .¾N„ ud;djka yd 
+
+jla
+jYfhka y÷kd .ksñka" .¾N„ ud;djka yd
 21
 l=vd orejka i|yd ;%sfmdaI iy fmdaIK u¨
- 
- 
-fnodyeÍfï jevigyk kej; wdrïN flfrkq 
+
+fnodyeÍfï jevigyk kej; wdrïN flfrkq
 we;'
- 
-mdi,a orejkaf.a bf.kSug" j¾Okhg yd 
-Tjqkaf.a .‡; l=i,;d jeäÈhqKq lsÍug wjYH 
-fmdaIKh ,efnk nj iy;sl lsÍu i|yd mdi,a 
-orejka i|yd Èjd wdydr jevigykla l%shd;aul 
+
+mdi,a orejkaf.a bf.kSug" j¾Okhg yd
+Tjqkaf.a .‡; l=i,;d jeäÈhqKq lsÍug wjYH
+fmdaIKh ,efnk nj iy;sl lsÍu i|yd mdi,a
+orejka i|yd Èjd wdydr jevigykla l%shd;aul
 lrkafkuq'
- 
-oeßh yels ñ,lg fi!LH iïmkak wdydr 
-fõ,la ,nd§u iy;sl lrkq jia wdydr ksYamdok 
-l¾udka; lafIa;%h iuÕ úfYaI jevigykla 
+
+oeßh yels ñ,lg fi!LH iïmkak wdydr
+fõ,la ,nd§u iy;sl lrkq jia wdydr ksYamdok
+l¾udka; lafIa;%h iuÕ úfYaI jevigykla
 l%shd;aul lrkafkuq'
- 
-mqrjeishka ;=, l%shdYS,S Ôjk rgdjka Èßu;a lsÍu 
-i|yd YdÍßl iqj;d iy úfkdaodiajdo myiqlï 
+
+mqrjeishka ;=, l%shdYS,S Ôjk rgdjka Èßu;a lsÍu
+i|yd YdÍßl iqj;d iy úfkdaodiajdo myiqlï
 jeäÈhqKq lrkafkuq'
- 
-jeäysáhka iy ksoka.; frda.j,ska mSvd ú¢kakka 
-/ln,d.ekSug;a  Tjqkaf.a Ôjk ;;a;ajh 
-jeäÈhqKq lsÍug;a  i;aldrl myiqlï imhk 
-uOHia:dk jeälsÍug wjYH ueÈy;aùu lrkq 
+
+jeäysáhka iy ksoka.; frda.j,ska mSvd ú¢kakka
+/ln,d.ekSug;a Tjqkaf.a Ôjk ;;a;ajh
+jeäÈhqKq lsÍug;a i;aldrl myiqlï imhk
+uOHia:dk jeälsÍug wjYH ueÈy;aùu lrkq
 we;'
- 
-jhi wjq' 40g jeä iEu mqrjeisfhl= i|ydu 
-jir 03lg jrla mQ¾K ffjoH mÍlaIKhla rdcH 
-odhl;ajfhka isÿ lrkq we;' l,a ;nd frda. 
-y÷kd .ekSu u.ska m%;sldr i|yd rchg jehjk 
-úhou wju lr .ekSu iy ksfrda.S mqrjeis 
-mrmqrla ìyslr .ekSu fuys wruqKhs'   
- 
-Y%S ,dxlslhka fj; ffjoH fiajd iïmdokh 
-jeäÈhqKq lsÍfï ŠyqiauŸ jevigyk wmf.a rcfha 
-m%uqL;u ld¾hhla jkq we;' .=Kd;aulNdjhg 
-wod< f,dal m%ñ;Ska imqrd,kq ms‡i hï ld, 
-iSudjla mqrd wruqo,a fjka lsÍfï § iuia; 
-fi!LH fiajd cd,hg wod< mQ¾K ú.Kkhla isÿ 
-flfrkq we;' jeäÈhqKq jQ fi!LH m%fõYH;djhla 
-iy .=Kd;aulNdjhla o m%j¾Okh flfrk mßÈ 
-frday,a m%cd wjYH;djkg wkqj¾;kh lrkq 
-ms‡i ŠyqiauŸ jevigykg fkdlvjd wruqo,a 
+
+jhi wjq' 40g jeä iEu mqrjeisfhl= i|ydu
+jir 03lg jrla mQ¾K ffjoH mÍlaIKhla rdcH
+odhl;ajfhka isÿ lrkq we;' l,a ;nd frda.
+y÷kd .ekSu u.ska m%;sldr i|yd rchg jehjk
+úhou wju lr .ekSu iy ksfrda.S mqrjeis
+mrmqrla ìyslr .ekSu fuys wruqKhs'
+
+Y%S ,dxlslhka fj; ffjoH fiajd iïmdokh
+jeäÈhqKq lsÍfï ŠyqiauŸ jevigyk wmf.a rcfha
+m%uqL;u ld¾hhla jkq we;' .=Kd;aulNdjhg
+wod< f,dal m%ñ;Ska imqrd,kq ms‡i hï ld,
+iSudjla mqrd wruqo,a fjka lsÍfï § iuia;
+fi!LH fiajd cd,hg wod< mQ¾K ú.Kkhla isÿ
+flfrkq we;' jeäÈhqKq jQ fi!LH m%fõYH;djhla
+iy .=Kd;aulNdjhla o m%j¾Okh flfrk mßÈ
+frday,a m%cd wjYH;djkg wkqj¾;kh lrkq
+ms‡i ŠyqiauŸ jevigykg fkdlvjd wruqo,a
 iemhSug ;Hd.YS,Ska Èßu;a flfrkq we;'
- 
+
 äðg,a ye÷kqïm; u.ska o ish¨
- 
- mqrjeishka fj; 
+
+mqrjeishka fj;
 fi!LH fiajd iïmdokh flfrkq we;'
- 
+
 ksoyia fi!LH whs;sh mq¿,a lrk w;ru
- 
-ŠiqrlaId fi!LH rlaIKhŸ mq¿,a lsÍu u.ska 
-orejka i|yd ´kEu frday,lska m%;sldr ,nd 
-.ekSu i|yd jQ wjldYh Wod lrkafkuq'   
- 
-wdhq¾fõo" mdrïmßl isxy, fjolu" hQkdks" 
-fydañfhdam;s we;=¿ idïm%odhsl ffjoHfõohka 
-m%j¾Okh lsÍu Wfoid rch úfYaIfhka lemfjk 
-w;r úl,am ffjoH iïm%odhka i|yd úfoaYSh 
-ixpdrlhka wdl¾IKh lr .ekSu i|yd úfYaIs; 
-jevms<sfj<la ilia lrkq we;' 
- 
-f,dj úYsIag;u .s,ka r: fiajhla f,i ms<s.;a"  
-fï jk úg uyck;djf.a iqúYd, m%idohg ,la 
-ù we;s" 1990 iqj ießh .s,ka r: fiajh m%j¾Okh 
-fldg wdrlaId lrkq we;' tfiau fï i;ald¾hh 
-ms‡i lD;%su nqoaêh 
+
+ŠiqrlaId fi!LH rlaIKhŸ mq¿,a lsÍu u.ska
+orejka i|yd ´kEu frday,lska m%;sldr ,nd
+.ekSu i|yd jQ wjldYh Wod lrkafkuq'
+
+wdhq¾fõo" mdrïmßl isxy, fjolu" hQkdks"
+fydañfhdam;s we;=¿ idïm%odhsl ffjoHfõohka
+m%j¾Okh lsÍu Wfoid rch úfYaIfhka lemfjk
+w;r úl,am ffjoH iïm%odhka i|yd úfoaYSh
+ixpdrlhka wdl¾IKh lr .ekSu i|yd úfYaIs;
+jevms<sfj<la ilia lrkq we;'
+
+f,dj úYsIag;u .s,ka r: fiajhla f,i ms<s.;a"
+fï jk úg uyck;djf.a iqúYd, m%idohg ,la
+ù we;s" 1990 iqj ießh .s,ka r: fiajh m%j¾Okh
+fldg wdrlaId lrkq we;' tfiau fï i;ald¾hh
+ms‡i lD;%su nqoaêh
 (AI
-& we;=¿ kjH ;dlaIK 
-wdïmkak Ndú;h ;=<ska" Èjhsfka iEu m%foaYhlu 
-uyck;djg wog;a jvd fyd| fiajdjla iemhSug 
-lghq;= i,ikq we;'  
+& we;=¿ kjH ;dlaIK
+wdïmkak Ndú;h ;=<ska" Èjhsfka iEu m%foaYhlu
+uyck;djg wog;a jvd fyd| fiajdjla iemhSug
+lghq;= i,ikq we;'
 iún,.ekaùu iy iuDoaêh f.dvkeÕSu
-iudc idOdrK;ajh wdrlaId lsÍug iy iudcfha 
-mSvdjg m;ajk fldgia wdrlaId lsÍug lem jkafkuq' 
-wd;au úYajdih iy wd;au Yla;shla iys;" rch u; 
-r|d fkdmj;akd cd;shla f.dvke.Su wmf.a o¾Ykhhs' 
- 
-fcHIaG mqrjeishka iy jl=.vq frda.Ska fj; o 
+iudc idOdrK;ajh wdrlaId lsÍug iy iudcfha
+mSvdjg m;ajk fldgia wdrlaId lsÍug lem jkafkuq'
+wd;au úYajdih iy wd;au Yla;shla iys;" rch u;
+r|d fkdmj;akd cd;shla f.dvke.Su wmf.a o¾Ykhhs'
+
+fcHIaG mqrjeishka iy jl=.vq frda.Ska fj; o
 iDcq uQ,H iïmdokhka isÿ flfrkq we;'
- 
-ksoka.; jl=.vq frda.fhka mSvdjg m;a 
-mqoa.,hska 50"000la i|yd iqNidOk §ukdj 
-uilg re' 10"000$- olajd ^re' 7"500$- isg& 
+
+ksoka.; jl=.vq frda.fhka mSvdjg m;a
+mqoa.,hska 50"000la i|yd iqNidOk §ukdj
+uilg re' 10"000$- olajd ^re' 7"500$- isg&
 jeä lsÍu'
- 
-jeäysá mqrjeishka 820"000la i|yd ,nd 
-fok iqNidOk §ukdj uilg re' 5"000$- 
+
+jeäysá mqrjeishka 820"000la i|yd ,nd
+fok iqNidOk §ukdj uilg re' 5"000$-
 olajd ^re' 3"000$- isg& jeä lsÍu'
- 
-wd¾Ól j¾Okhg odhl;ajhla ,nd .kq ms‡i 
-fiajd úhqla;slhka iy W!k fiajd kshqla;slhka 
-o" mqyqKq fldg" m%;s-l=i,;d.; fldg fiajd 
-kshqla; lrjk w;ru" jHjidhl;aj wjia:djka 
-o iïmdokh flfrkq we;' fuu fhdackdl%uh 
-hgf;a" oekg fiajd kshqla; WmdêOdÍka fj; 
-by<u m%uqL;dj ,ndfokq we;' /lshd úrys; 
-WmdêOdÍka ms<sn| läkï ;lafiarejla isÿfldg 
-Tjqkaf.a mj;akd oekqu iy l=i,;djka y÷kd 
-.ksñka wod< mqrmamdvq mj;akd rcfha wdh;k 
+
+wd¾Ól j¾Okhg odhl;ajhla ,nd .kq ms‡i
+fiajd úhqla;slhka iy W!k fiajd kshqla;slhka
+o" mqyqKq fldg" m%;s-l=i,;d.; fldg fiajd
+kshqla; lrjk w;ru" jHjidhl;aj wjia:djka
+o iïmdokh flfrkq we;' fuu fhdackdl%uh
+hgf;a" oekg fiajd kshqla; WmdêOdÍka fj;
+by<u m%uqL;dj ,ndfokq we;' /lshd úrys;
+WmdêOdÍka ms<sn| läkï ;lafiarejla isÿfldg
+Tjqkaf.a mj;akd oekqu iy l=i,;djka y÷kd
+.ksñka wod< mqrmamdvq mj;akd rcfha wdh;k
 fj; Tjqka fhduq flfrkq we;'
- 
-rdcH ueÈy;aùfuka isÿ lrk úfoaY /lshd 
-wjia:d ,nd§fï§ iqÿiqlï iys; wvq wdodhï,dNS 
-mjq,aj, ;reK ;re‡hkag m%uqL;dj ,nd fokq 
+
+rdcH ueÈy;aùfuka isÿ lrk úfoaY /lshd
+wjia:d ,nd§fï§ iqÿiqlï iys; wvq wdodhï,dNS
+mjq,aj, ;reK ;re‡hkag m%uqL;dj ,nd fokq
 ,efí'
 wdndO iys; ;eke;a;ka
-wdndO iys; ;eke;a;ka hkq fjkiafldg ie,lsh 
-hq;= msßila f,i fkdj úúO;ajfhka hq;= iudcfhau 
+wdndO iys; ;eke;a;ka hkq fjkiafldg ie,lsh
+hq;= msßila f,i fkdj úúO;ajfhka hq;= iudcfhau
 22
-fldgila f,i y÷kd .ksuq' fuu ixl,amSh rduqj 
-we;=<; Y%S ,xldfõ ixj¾Okh iy iudc jHqyh 
-we;=<; wdndO iys; mqrjeishkaf.a iajdh;a:;dj iy 
+fldgila f,i y÷kd .ksuq' fuu ixl,amSh rduqj
+we;=<; Y%S ,xldfõ ixj¾Okh iy iudc jHqyh
+we;=<; wdndO iys; mqrjeishkaf.a iajdh;a:;dj iy
 iyNd.s;ajh iy;sl lrkafkuq'
- 
-wdndO iys; mqoa.,hska i|yd iyk m%;s,dN È.gu 
-,nd fok w;r 410"000la jk m%;s,dNSka i|yd 
+
+wdndO iys; mqoa.,hska i|yd iyk m%;s,dN È.gu
+,nd fok w;r 410"000la jk m%;s,dNSka i|yd
 iqNidOk §ukdj uilg re' 10"000$- olajd
- 
- ^re' 7"500$- isg& jeä lsÍu'
- 
-wdndO iys; ;eke;a;kaf.a whs;sjdislï ms<sn| 
-tlai;a cd;Skaf.a m%{ma;sfha we;s uQ, O¾uhkag 
-wkql+, jk mßÈ foaYSh kS;s rduqj ilia lsÍu' 
- 
-wOHdmkh" fiajd iy /lshd" fi!LHh" ÿ.Snj 
-;=rka lsÍu iy iudc wdrlaIKh" ksjdi" m%jdyk" 
-l%Svd" wêlrK" uyck iyNd.s;aj iy iudc" 
-wd.ñl" ixialD;sl iy fiiq ysñlïj,g wod< 
+
+^re' 7"500$- isg& jeä lsÍu'
+
+wdndO iys; ;eke;a;kaf.a whs;sjdislï ms<sn|
+tlai;a cd;Skaf.a m%{ma;sfha we;s uQ, O¾uhkag
+wkql+, jk mßÈ foaYSh kS;s rduqj ilia lsÍu'
+
+wOHdmkh" fiajd iy /lshd" fi!LHh" ÿ.Snj
+;=rka lsÍu iy iudc wdrlaIKh" ksjdi" m%jdyk"
+l%Svd" wêlrK" uyck iyNd.s;aj iy iudc"
+wd.ñl" ixialD;sl iy fiiq ysñlïj,g wod<
 ish¨
- 
- NdKav yd fiajdjka fj; wdndê; m%cdjf.a 
+
+NdKav yd fiajdjka fj; wdndê; m%cdjf.a
 m%fõYH;dj ;yjqre lrkq we;'
- 
-wdndê; ;eke;a;kaf.a ysñlï m%j¾Okh i|yd 
-jQ cd;sl jevigyk ld¾hlaIuj iy M,odhSj 
-l<ukdlrKh lrkq ms‡i cd;sl o;a; moaO;shla 
+
+wdndê; ;eke;a;kaf.a ysñlï m%j¾Okh i|yd
+jQ cd;sl jevigyk ld¾hlaIuj iy M,odhSj
+l<ukdlrKh lrkq ms‡i cd;sl o;a; moaO;shla
 msysgqjkq we;'
- 
-wdndO iys; mqoa.,hska i|yd rdcH fiajfha /lshd 
-wjia:dj,ska 3]l fldagdjla ,nd §fï m%;sm;a;sh 
+
+wdndO iys; mqoa.,hska i|yd rdcH fiajfha /lshd
+wjia:dj,ska 3]l fldagdjla ,nd §fï m%;sm;a;sh
 l%shd;aul lrkq ,efí'
- 
+
 wdndê; ;eke;a;kaf.a ysñlï ish¨
- 
- 
-mqrjeishkaf.a ysñlï yd iudka;rj mj;akd njg 
-j.n,d.kq ms‡i m%;sm;a;s l%shd;aul lsÍug o" 
-wëlaIKh ms‡i o wdndê; ysñlï fldñIka 
+
+mqrjeishkaf.a ysñlï yd iudka;rj mj;akd njg
+j.n,d.kq ms‡i m%;sm;a;s l%shd;aul lsÍug o"
+wëlaIKh ms‡i o wdndê; ysñlï fldñIka
 iNdjla msysgqjkafkuq'
 wdÈjdis ck m%cdj
 lsisÿ fjkafldg ie<lSulska f;drj ish¨
- 
- ysñlï 
-iy jrm%ido úIhfhys ysñlï ,nd foñka" wdÈjdis 
-ck m%cdjka fj; f.!rjdkaú;j ie<lsh hq;af;ah 
-hkak iu.s ck n,fõ.fha $iu.s ck ikaOdkfha 
-oeä úYajdihhs' jk N+ñ m%udKh wvq fjñka mej;Su 
-iy c, ysÕ;dj fya;=fldg Tjqka úiska uqyqK md we;s 
-ÿIalr;djkg uqyqK Èh yels mßÈ ;srir úi÷ï ,nd 
-§u iu.s ck n,fõ. wkd.; rchl m%uqL lghq;a;la 
-jkq we;' foaYSh wdÈjdis ck m%cdj uqyqK md we;s 
+
+ysñlï
+iy jrm%ido úIhfhys ysñlï ,nd foñka" wdÈjdis
+ck m%cdjka fj; f.!rjdkaú;j ie<lsh hq;af;ah
+hkak iu.s ck n,fõ.fha $iu.s ck ikaOdkfha
+oeä úYajdihhs' jk N+ñ m%udKh wvq fjñka mej;Su
+iy c, ysÕ;dj fya;=fldg Tjqka úiska uqyqK md we;s
+ÿIalr;djkg uqyqK Èh yels mßÈ ;srir úi÷ï ,nd
+§u iu.s ck n,fõ. wkd.; rchl m%uqL lghq;a;la
+jkq we;' foaYSh wdÈjdis ck m%cdj uqyqK md we;s
 nrm;< .eg¨
- 
-jla jk laIqø uQ,H Kh w¾nqoh i|yd 
-úi÷ï  ,ndfokq we;'
-;jo" wdÈjdis ck m%cdjkaf.a wd.ñl" ixialD;sl" 
-iudcuh iy wd¾Ól whs;sjdislï o wdrlaId lrkq 
+
+jla jk laIqø uQ,H Kh w¾nqoh i|yd
+úi÷ï ,ndfokq we;'
+;jo" wdÈjdis ck m%cdjkaf.a wd.ñl" ixialD;sl"
+iudcuh iy wd¾Ól whs;sjdislï o wdrlaId lrkq
 ,nk njg j.n,d .kafkuq'
 l%Svd
- 
-h,amek .sh 1973 wxl 25 orK l%Svd mk; bj;a 
-fldg j¾;udk wjYH;dj,g .e<fmk kj l%Svd 
+
+h,amek .sh 1973 wxl 25 orK l%Svd mk; bj;a
+fldg j¾;udk wjYH;dj,g .e<fmk kj l%Svd
 mk;la jirla ;=< y÷kajd fokq ,efí'
- 
-foaYSh l%Svd ;rÕ ld,igyk ksYaÑ; lsÍug 
-lghq;= lrk w;r foaYSh l%Svdjkays m%ñ;sh by< 
-kexùu i|yd wjYH lrk há;, myiqlï iy 
-mqyqKqlrejka iemhSu fjkqfjka m%uqL;dj ,nd 
+
+foaYSh l%Svd ;rÕ ld,igyk ksYaÑ; lsÍug
+lghq;= lrk w;r foaYSh l%Svdjkays m%ñ;sh by<
+kexùu i|yd wjYH lrk há;, myiqlï iy
+mqyqKqlrejka iemhSu fjkqfjka m%uqL;dj ,nd
 fokq we;'
- 
-cd;Hka;r ;r.dj,sj,§ Y%S ,xldj ksfhdackh 
-lsÍug iqÿiqlï ,nk  l%Svlhka Wfoid wjYH 
-wruqo,a ,nd .ekSu i|yd úfYaIs; wruqo,la 
-rcfha iy fm!oa.,sl wxYfha odhl;ajfhka 
+
+cd;Hka;r ;r.dj,sj,§ Y%S ,xldj ksfhdackh
+lsÍug iqÿiqlï ,nk l%Svlhka Wfoid wjYH
+wruqo,a ,nd .ekSu i|yd úfYaIs; wruqo,la
+rcfha iy fm!oa.,sl wxYfha odhl;ajfhka
 msysgqjkq we;'
- 
-ŠY%S ,xld l%slÜ wdh;khŸ md¾,sfïka;= mk;lska 
-ia:dmkh fldg l%slÜ l%Svdfõ ¥IKh bj;a lsÍu 
-i|yd;a" l%slÜ l%Svdj m%j¾Okh i|yd;a wjYH 
+
+ŠY%S ,xld l%slÜ wdh;khŸ md¾,sfïka;= mk;lska
+ia:dmkh fldg l%slÜ l%Svdfõ ¥IKh bj;a lsÍu
+i|yd;a" l%slÜ l%Svdj m%j¾Okh i|yd;a wjYH
 kS;suh mßirh ilid fokq we;'
 23
 24
-äðg,a fmdÿ há;, myiqlï yryd 
-rdcH fiajd iemhSu kùlrKh lsÍug 
-wruqKq lrk w;ru" ld¾hlaIu;dj" 
-úksúoNdjh iy m%fõYH;dj iy;sl lrñka 
+äðg,a fmdÿ há;, myiqlï yryd
+rdcH fiajd iemhSu kùlrKh lsÍug
+wruqKq lrk w;ru" ld¾hlaIu;dj"
+úksúoNdjh iy m%fõYH;dj iy;sl lrñka
 ish¨
- 
- Y%S ,dxlslhkag fiajh lsÍu i|yd 
-l=i,;djfhka iy j.ùfuka hq;a rdcH 
+
+Y%S ,dxlslhkag fiajh lsÍu i|yd
+l=i,;djfhka iy j.ùfuka hq;a rdcH
 fiajhla ìys lsÍug lghq;= lruq'
-rdcH fiajh 
+rdcH fiajh
 kxjd,Su
 25
 úis tlajk ishji i|yd
- 
+
 äðg,a Y%S ,xldjla
-iu.s ck n,fõ.fha wkd.; rchla hgf;a uyck 
-fiajd iïmdokh jeäÈhqKq lsÍu" ixj¾Ok wNsu;d¾: 
-fõ.j;a lsÍu iy hy md,kh iy;sl lsÍu Wfoid 
+iu.s ck n,fõ.fha wkd.; rchla hgf;a uyck
+fiajd iïmdokh jeäÈhqKq lsÍu" ixj¾Ok wNsu;d¾:
+fõ.j;a lsÍu iy hy md,kh iy;sl lsÍu Wfoid
 äðg,afmdÿ há;,myiqlï^
 DPI
-&ks¾udKhflfrkq 
+&ks¾udKhflfrkq
 we;'
- 
+
 äðg,a fmdÿ há;, myiqlï ^
 DPI
-& uQ,drïNh 
+& uQ,drïNh
 hgf;a ish¨
- 
- Y%S ,dxlsl mqrjeishka yg ksYaÑ; 
-y÷kd .ekSfï wxlhla ,ndfokq we;' 
- 
-fuu.ska Wmamekak" újdy iy urK iy;sl" 
-úfoaY .uka n,m;a iy jeo.;a f,aLkhkays 
-iy;sl l< msgm;a ,nd.ekSu wd§ jYfhka fïjk 
-úg fjfyilr uÜgfï mj;akd fiajdjka yqfola 
-fnd;a;ula tîfuka ,nd.ekSfï yelshdj Wod 
-lsÍu yryd Tjqka fj; ,nd fok fiajdjkays 
+
+Y%S ,dxlsl mqrjeishka yg ksYaÑ;
+y÷kd .ekSfï wxlhla ,ndfokq we;'
+
+fuu.ska Wmamekak" újdy iy urK iy;sl"
+úfoaY .uka n,m;a iy jeo.;a f,aLkhkays
+iy;sl l< msgm;a ,nd.ekSu wd§ jYfhka fïjk
+úg fjfyilr uÜgfï mj;akd fiajdjka yqfola
+fnd;a;ula tîfuka ,nd.ekSfï yelshdj Wod
+lsÍu yryd Tjqka fj; ,nd fok fiajdjkays
 ld¾hlaIu;dj iy;sl flfrkq we;'
- 
-rch iy mqrjeishd w;r yd rcfha wdh;k" 
-nexl= iy ms<s.;a uQ,H wdh;k w;r o" o;a; 
-wka;¾ fufyhqïlrK yelshdj ,ndfokakdjQ 
-äðg,a fmdÿ há;, myiqlï jir 02la we;=<; 
-l%shd;aul uÜgug f.k tkq we;' Y%S ,xldj uqo,a 
-rys; .kqfokq flfrys keUqre jQ kùk iudchla 
-njg mßj¾;kh lrñka äðg,a uQ,H .kqfokq 
+
+rch iy mqrjeishd w;r yd rcfha wdh;k"
+nexl= iy ms<s.;a uQ,H wdh;k w;r o" o;a;
+wka;¾ fufyhqïlrK yelshdj ,ndfokakdjQ
+äðg,a fmdÿ há;, myiqlï jir 02la we;=<;
+l%shd;aul uÜgug f.k tkq we;' Y%S ,xldj uqo,a
+rys; .kqfokq flfrys keUqre jQ kùk iudchla
+njg mßj¾;kh lrñka äðg,a uQ,H .kqfokq
 kxjd,Sfï l%uhla ia:dmkh flfrkq we;'
- 
-iuia; Y%S ,xld rdcH wdh;k moaO;sh wdjrKh 
-jk mßÈ ,xld rdcH cd,h iy ,xld rdcH 
+
+iuia; Y%S ,xld rdcH wdh;k moaO;sh wdjrKh
+jk mßÈ ,xld rdcH cd,h iy ,xld rdcH
 fï>
-h     
- ^
+h
+^
 Lanka Government Cloud
-& jHdma; lrñka 
+& jHdma; lrñka
 ish¨
- 
- rcfha wdh;khka fj; m%Yia; fiajd 
-iïmdokhla ,ndÈh yelsjk fia th ;dlaI‡lj 
+
+rcfha wdh;khka fj; m%Yia; fiajd
+iïmdokhla ,ndÈh yelsjk fia th ;dlaI‡lj
 n,.ekaùu isÿ lrkq we;'
- 
-udi 03la ;=< Y%S ,xldjg wx. iïmQ¾K ihsn¾ 
-wdrlaIK kS;shla y÷kajdfokq we;' 
- 
-2022 wxl 09 orK fm!oa.,sl o;a; wdrlaIK 
-mk; M,odhS f,i l%shd;aul lsÍu i|yd wjYH 
-jk fr.=,dis mekùu iy Bg wjYH myiqlï 
-iemhSu' 
- 
-kj wdrïNl jHdmdr ÈhqKq lsÍu i|yd 
-fm!oa.,sl wxYfha o odhl;ajh we;sj" ixj¾Ok 
-wruqo,la we;s lsÍu' 
- 
-Y%S ,xldj ;=< f;dr;=re ;dlaIK jHdmdrj, 
-ixj¾Okhg iy ld¾hlaIu mqrjeis fiajd 
-iemhSug ndOdjla ù we;s wêfõ.S wka;¾cd, 
+
+udi 03la ;=< Y%S ,xldjg wx. iïmQ¾K ihsn¾
+wdrlaIK kS;shla y÷kajdfokq we;'
+
+2022 wxl 09 orK fm!oa.,sl o;a; wdrlaIK
+mk; M,odhS f,i l%shd;aul lsÍu i|yd wjYH
+jk fr.=,dis mekùu iy Bg wjYH myiqlï
+iemhSu'
+
+kj wdrïNl jHdmdr ÈhqKq lsÍu i|yd
+fm!oa.,sl wxYfha o odhl;ajh we;sj" ixj¾Ok
+wruqo,la we;s lsÍu'
+
+Y%S ,xldj ;=< f;dr;=re ;dlaIK jHdmdrj,
+ixj¾Okhg iy ld¾hlaIu mqrjeis fiajd
+iemhSug ndOdjla ù we;s wêfõ.S wka;¾cd,
 myiqlï ^
 High-speed Internet facilities
-& 
+&
 fkd,eîfï .eg¨
- 
-j úi£u wm rcfha m%uqL 
-l¾;jHhla f,i i<lkq we;'  
- 
-f;dr;=re ;dlaIK lafIa;%fha jHdmdr u; mkjd 
-we;s widOdrK nÿ bj;a fldg tu lafIa;%h rfÜ 
-ixj¾Okh Wfoid olajk iqúfYaIS odhl;ajh 
-ms<s.ksñka" tu lafIa;%hg wod<j" idOdrK iy 
+
+j úi£u wm rcfha m%uqL
+l¾;jHhla f,i i<lkq we;'
+
+f;dr;=re ;dlaIK lafIa;%fha jHdmdr u; mkjd
+we;s widOdrK nÿ bj;a fldg tu lafIa;%h rfÜ
+ixj¾Okh Wfoid olajk iqúfYaIS odhl;ajh
+ms<s.ksñka" tu lafIa;%hg wod<j" idOdrK iy
 wdl¾I„h nÿ m%;sm;a;shla w¨
- 
-;ska y÷kajd §u'  
- 
-f;dr;=re ;dlaIK jHdmdr i|yd Y%S ,xldjg 
-wdkhkh flfrk bf,lafg%dksl WmlrK u; 
-nÿ wju lsÍu' 
-ie,iqï iy ie,iqï l%shd;aul lsÍu  
- 
-m%;sm;a;s ie,iqï lsÍfï iy m%;sm;a;s ie,iqï 
-l%shd;aul lsÍfï leìkÜ wud;HdxYhla kej; 
-msysgqjkq we;' tu wud;HdxYh u.ska m%;sm;a;s 
-iïmdokh" m%;sm;a;s hdj;ald,Sk lsÍu iy 
-m%;sm;a;s l%shd;aul lsÍfï m%.;sh iudf,dapkh 
-lrkq we;' 
- 
-fuu m%;sm;a;s m%ldYkfha i|yka m%;sm;a;s 
-l%shd;aul lsÍu ikd: lsÍu i|yd mQ¾K n,e;s 
-úoaj;a jD;a;slhskaf.ka iukaú; Šm%;sm;a;s 
+
+;ska y÷kajd §u'
+
+f;dr;=re ;dlaIK jHdmdr i|yd Y%S ,xldjg
+wdkhkh flfrk bf,lafg%dksl WmlrK u;
+nÿ wju lsÍu'
+ie,iqï iy ie,iqï l%shd;aul lsÍu
+
+m%;sm;a;s ie,iqï lsÍfï iy m%;sm;a;s ie,iqï
+l%shd;aul lsÍfï leìkÜ wud;HdxYhla kej;
+msysgqjkq we;' tu wud;HdxYh u.ska m%;sm;a;s
+iïmdokh" m%;sm;a;s hdj;ald,Sk lsÍu iy
+m%;sm;a;s l%shd;aul lsÍfï m%.;sh iudf,dapkh
+lrkq we;'
+
+fuu m%;sm;a;s m%ldYkfha i|yka m%;sm;a;s
+l%shd;aul lsÍu ikd: lsÍu i|yd mQ¾K n,e;s
+úoaj;a jD;a;slhskaf.ka iukaú; Šm%;sm;a;s
 l%shd;aul lsÍfï fldñIka iNdjla
-Ÿ 
- ia:dmkh 
-lrkafkuq' fuu m%;sm;a;s l%shd;aul lsÍfï 
-b,lal kshu lsÍu o" m%.;sh iudf,dapkh o" 
-miqnEï wOHhkh fldg ms<shï fh§u o" fuu 
-fldñIka iNdfõ ld¾hNdrh jkq we;' ue;sjrK 
-fmdfrdkaÿ l%shd;aul lsÍfï jd¾Isl m%.;sh 
-oelafjk jd¾;djla tu fldñIka iNdj uÕska 
+Ÿ
+ia:dmkh
+lrkafkuq' fuu m%;sm;a;s l%shd;aul lsÍfï
+b,lal kshu lsÍu o" m%.;sh iudf,dapkh o"
+miqnEï wOHhkh fldg ms<shï fh§u o" fuu
+fldñIka iNdfõ ld¾hNdrh jkq we;' ue;sjrK
+fmdfrdkaÿ l%shd;aul lsÍfï jd¾Isl m%.;sh
+oelafjk jd¾;djla tu fldñIka iNdj uÕska
 m%isoaO lrkq we;'
 rdcH fiajh
- 
-iuia; rdcH fiajhu wdjrKh jk mßÈ mQ¾K 
-udkj iïm;a ú.Kkhla isÿ fldg iuia; 
-r 
-dcH 
-fiajhu udkj iïm;a l<ukdlrK ie,eiaulg 
+
+iuia; rdcH fiajhu wdjrKh jk mßÈ mQ¾K
+udkj iïm;a ú.Kkhla isÿ fldg iuia;
+r
+dcH
+fiajhu udkj iïm;a l<ukdlrK ie,eiaulg
 wkqj m%;sixúOdkh lsÍu' rdcH fiajfha ish¨
- 
-u 
-n|jd .ekSï" m;alsÍï iy wkqhqla;lsÍï l=i,;d 
-u; mokïj isÿ lrkq ,nk w;r" olaI;djhka  
-iy iqÿiqlï u; mqoa.,hska Wmdhud¾.slj 
+
+u
+n|jd .ekSï" m;alsÍï iy wkqhqla;lsÍï l=i,;d
+u; mokïj isÿ lrkq ,nk w;r" olaI;djhka
+iy iqÿiqlï u; mqoa.,hska Wmdhud¾.slj
 ia:dk.; lsÍu iy;sl flf¾'
- 
-uyck fiajh bgq lsÍu m%ñ;slrKh fldg ld¾h 
-idOk we.hqï b,lal u; mokïj rdcH fiajh 
-wLKavj we.hSu isÿ lrhs' m%ñ;s.; cd;sl yd 
-cd;Hka;r mqyqKq wjia:d rdcH fiajhg ,nd§ug 
-lghq;= lrkafkuq' cd;Hka;r m%ñ;sfhka hq;= 
-isú,a fiajd úoHd mSGhla ia:dmkh lrñka isú,a 
-fiajh i|yd jk mqyqKq by< m%ñ;s.;lrKhlg 
-,la lrkafkuq' 
- 
-rcfha fiajlhkaf.a Ôjk úhoï §ukdj by< 
-kexùu( wmf.a rch úiska rdcH wxY fiajlhka 
-yg ,ndfok udisl Ôjk úhoï §ukdj oekg 
-,ndfok re' 17"800 iSudfõ isg re' 25"000l 
-wjuhla olajd by< kxjkq we;s w;r" th j;auka 
+
+uyck fiajh bgq lsÍu m%ñ;slrKh fldg ld¾h
+idOk we.hqï b,lal u; mokïj rdcH fiajh
+wLKavj we.hSu isÿ lrhs' m%ñ;s.; cd;sl yd
+cd;Hka;r mqyqKq wjia:d rdcH fiajhg ,nd§ug
+lghq;= lrkafkuq' cd;Hka;r m%ñ;sfhka hq;=
+isú,a fiajd úoHd mSGhla ia:dmkh lrñka isú,a
+fiajh i|yd jk mqyqKq by< m%ñ;s.;lrKhlg
+,la lrkafkuq'
+
+rcfha fiajlhkaf.a Ôjk úhoï §ukdj by<
+kexùu( wmf.a rch úiska rdcH wxY fiajlhka
+yg ,ndfok udisl Ôjk úhoï §ukdj oekg
+,ndfok re' 17"800 iSudfõ isg re' 25"000l
+wjuhla olajd by< kxjkq we;s w;r" th j;auka
 §ukdjkg o .<mkq we;'
 26
- 
-rcfha fiajlhkaf.a uQ,sl jegqm by< 
-kexùu(rdcH fiajh i|yd wod<jk wju uQ,sl 
-udisl jegqm ^oekg fY%a‡ i|yd wod< wkqmd;hka 
-u; mokïj& 24]lska by< kexfjkq we;' fuu 
-.e<mqug fïjk úg ,ndfok úúO .e<mSï iy 
-§ukdjkg wod< hï kshuhka yd fldkafoais o 
-we;=<;a jkq we;' 
- 
-Wla; .e,mSï fol o tlajQ úg Ôjk úhoï 
-§ukdj o we;=<;a rdcH fiajfha wju o< jegqm 
+
+rcfha fiajlhkaf.a uQ,sl jegqm by<
+kexùu(rdcH fiajh i|yd wod<jk wju uQ,sl
+udisl jegqm ^oekg fY%a‡ i|yd wod< wkqmd;hka
+u; mokïj& 24]lska by< kexfjkq we;' fuu
+.e<mqug fïjk úg ,ndfok úúO .e<mSï iy
+§ukdjkg wod< hï kshuhka yd fldkafoais o
+we;=<;a jkq we;'
+
+Wla; .e,mSï fol o tlajQ úg Ôjk úhoï
+§ukdj o we;=<;a rdcH fiajfha wju o< jegqm
 re' 57"500la jkq we;'
- 
-2016 whjeh fhdackd u.ska kjl rdcH 
-fiajlhskaf.a úY%du jegqma ysñlï iïnkaOfhka 
-we;s lr we;s wLKav wúksYaÑ;;dj ie<ls,a,g 
-.ksñka" wms fmr ;SrKh wj,x.= lr 2016 isg 
+
+2016 whjeh fhdackd u.ska kjl rdcH
+fiajlhskaf.a úY%du jegqma ysñlï iïnkaOfhka
+we;s lr we;s wLKav wúksYaÑ;;dj ie<ls,a,g
+.ksñka" wms fmr ;SrKh wj,x.= lr 2016 isg
 n|jd .;a ish¨
- 
-u rcfha fiajlhskag úY%du jegqma 
-jHjia:d ix.%yh wkqj Tjqkaf.a úY%du jegqma 
-,nd §ug fhdackd lruq' ta wkqj Tjqkaf.a m;aùï 
+
+u rcfha fiajlhskag úY%du jegqma
+jHjia:d ix.%yh wkqj Tjqkaf.a úY%du jegqma
+,nd §ug fhdackd lruq' ta wkqj Tjqkaf.a m;aùï
 fjkia lrkq we;
- 
-rdcH fiajfha ixj¾Ok ks,OdÍka Tjqkaf.a 
-iqÿiqlï" yelshdjka iy leue;a; u; mokïj 
-rdcH fiajh we;=<; fhda.H ;k;=rej,g kej; 
-fhduq flfrkq we;' oekg ixj¾Ok ks,OdÍka 
+
+rdcH fiajfha ixj¾Ok ks,OdÍka Tjqkaf.a
+iqÿiqlï" yelshdjka iy leue;a; u; mokïj
+rdcH fiajh we;=<; fhda.H ;k;=rej,g kej;
+fhduq flfrkq we;' oekg ixj¾Ok ks,OdÍka
 f,i fiajh lrk ks,OdÍkag /lshd f
-j 
-f<|m< 
-;=< ;rÕldÍj /lshd wjia:d fidhd .ekSug 
-yelshdj ,efnk mßÈ iqÿiq jD;a;Sh mqyqKqùï ,nd 
-.ekSug rcfha wkq.%yh ,nd fokq we;'  
+j
+f<|m<
+;=< ;rÕldÍj /lshd wjia:d fidhd .ekSug
+yelshdj ,efnk mßÈ iqÿiq jD;a;Sh mqyqKqùï ,nd
+.ekSug rcfha wkq.%yh ,nd fokq we;'
 mdiafmdaÜ fmda<su wjika
- 
-fmda<sï fkdue;sj läkñka úfoaY .uka n,m;% 
-iy ye÷kqïm;a ,nd§u i|yd iEu mßmd,k 
-Èia;%slalhlu wd.uk ú.uk fomd¾;fïka;=j 
-iy mqoa.,hka ,shdmÈxÑ lsÍfï fomd¾;fïka;=j 
-taldnoaOj mj;ajd f.k hk fiajd uOHia:dk 25 
+
+fmda<sï fkdue;sj läkñka úfoaY .uka n,m;%
+iy ye÷kqïm;a ,nd§u i|yd iEu mßmd,k
+Èia;%slalhlu wd.uk ú.uk fomd¾;fïka;=j
+iy mqoa.,hka ,shdmÈxÑ lsÍfï fomd¾;fïka;=j
+taldnoaOj mj;ajd f.k hk fiajd uOHia:dk 25
 la ia:dmkh lrkq we;'
- 
-Wmamekak" urK yd újdy iy;sl iEu m%dfoaYSh 
-f,alï ld¾hd,hlskau ,nd .ekSu ;yjqre lsÍug 
+
+Wmamekak" urK yd újdy iy;sl iEu m%dfoaYSh
+f,alï ld¾hd,hlskau ,nd .ekSu ;yjqre lsÍug
 ish¨
- 
-u m%dfoaYSh f,alï ld¾hd, ,xld rdcH 
+
+u m%dfoaYSh f,alï ld¾hd, ,xld rdcH
 cd,h ^
 Lanka Government Network
-& yd iïnkaO 
+& yd iïnkaO
 flfrkq we;'
 27
-Ÿ 
+Ÿ
 ck iúh
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 iuDoaê
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 wiajeiqu
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 .eñÈßh
-Ÿ 
- hk 
-iudc wdrlaIK jevigykaj, 
- 
-hyNdú;hka Wlyd .ksñka" mq¿,a kj 
-jevms<sfj,la ilia lrñka È<s÷lu b;sydifha 
-fldgila njg m;a lrkq we;'  
-Ôjk ;;a;ajh 
+Ÿ
+hk
+iudc wdrlaIK jevigykaj,
+
+hyNdú;hka Wlyd .ksñka" mq¿,a kj
+jevms<sfj,la ilia lrñka È<s÷lu b;sydifha
+fldgila njg m;a lrkq we;'
+Ôjk ;;a;ajh
 wdrlaId lsÍu
 28
 wd.ñl yd ixialD;sl lghq;
- 
+
 lreKdj" ffu;%Sh" WfmalaIdj yd uqÈ;d
- 
-nqoaOd.ug m%uqLia:dkh msßkuñka nqoaOYdikh 
+
+nqoaOd.ug m%uqLia:dkh msßkuñka nqoaOYdikh
 fmdaIKh fldg iqrlaIs; lr
-k w;r wfkl=;a 
-wd.ï woyk ;eke;a;kaf.a whs;sjdislï wdrlaId 
-lsÍug;a" leu;s wd.ula weoySfï yd jkaokdudk 
-lsÍfï we;s uQ,sl whs;sh ;yjqre lsÍug;a lghq;= 
-lrkafkuq' 
- 
-oyï mdi,a" msßfjka yd wd.ñl wOHdmkh 
-Yla;su;a lsÍu i|yd mQ¾K rdcH wkq.%yh ,nd 
-fokq we;' 
- 
-wka;¾ wd.ñl wOHdmkh mdi,a úIh ud,dj 
-;=<g we;=<;a fldg ;uka woyk wd.ug wu;r 
-wfkla wd.ï ms<sn| m%udKj;a wjfndaOhla <ud 
-mrmqrg ,nd§u i|yd mshjr .kq we;' 
- 
+k w;r wfkl=;a
+wd.ï woyk ;eke;a;kaf.a whs;sjdislï wdrlaId
+lsÍug;a" leu;s wd.ula weoySfï yd jkaokdudk
+lsÍfï we;s uQ,sl whs;sh ;yjqre lsÍug;a lghq;=
+lrkafkuq'
+
+oyï mdi,a" msßfjka yd wd.ñl wOHdmkh
+Yla;su;a lsÍu i|yd mQ¾K rdcH wkq.%yh ,nd
+fokq we;'
+
+wka;¾ wd.ñl wOHdmkh mdi,a úIh ud,dj
+;=<g we;=<;a fldg ;uka woyk wd.ug wu;r
+wfkla wd.ï ms<sn| m%udKj;a wjfndaOhla <ud
+mrmqrg ,nd§u i|yd mshjr .kq we;'
+
 lD;%su nqoaêh
- (AI) 
-udkqIjd§j iy iodpdrd;aulj 
-jeä ÈhqKq lsÍfuys,d fn!oaO o¾Ykfhka yd 
-wfkl=;a wd.ñl o¾Ykhkaf.ka ,nd .; yels 
-wdo¾Y iïnkaO m¾fhaIK ms‡i rdcH wkq.%yh 
-,ndfokq we;'  
- 
+(AI)
+udkqIjd§j iy iodpdrd;aulj
+jeä ÈhqKq lsÍfuys,d fn!oaO o¾Ykfhka yd
+wfkl=;a wd.ñl o¾Ykhkaf.ka ,nd .; yels
+wdo¾Y iïnkaO m¾fhaIK ms‡i rdcH wkq.%yh
+,ndfokq we;'
+
 l,d ks¾udKhka i|yd mj;akd ish¨
- 
- 
-jdrKhka bj;a lrkafkuq' ta fjkqjg ks¾udK 
-j¾.SlrKhg yd we.hSug ksYaÑ; hdka;%Khla 
-ia:dms; lrkafkuq' 
- 
-mdrïmßl l,dlrejkag jD;a;Sh Ôú;h Wiia 
-;;a;ajhlg muqKqjd .ekSu i|yd wjYH rdcH 
-wkq.%yh ,nd fokafkuq' 
- 
+
+jdrKhka bj;a lrkafkuq' ta fjkqjg ks¾udK
+j¾.SlrKhg yd we.hSug ksYaÑ; hdka;%Khla
+ia:dms; lrkafkuq'
+
+mdrïmßl l,dlrejkag jD;a;Sh Ôú;h Wiia
+;;a;ajhlg muqKqjd .ekSu i|yd wjYH rdcH
+wkq.%yh ,nd fokafkuq'
+
 l,d ks¾udK i|yd jk nqoaêuh foam, .eg¨
- 
- 
-úi£u i|yd úfYaI tallhla nqoaêuh foam, 
-ld¾hdxYh ;=< msysgqùu isÿ lrkafkuq' 
- 
-äðg,a fmdl=re iskud Yd,d m%j¾Okh lrñka 
-,dxlSl fma%laIlhd iskud Yd,d fj; wdl¾IKh 
-lr .ekSug lghq;= lrkafkuq' 
- 
-ú;%" uQ¾;s" PdhdrEm" ix.S; kdgH we;=¿ 
-ixialD;sl yd l,d lghq;= i|yd jk mqyqKq yd 
-m%o¾Yk ixúOdkh lsÍu i|yd jk ksoyia l,d 
-wjldY iEu Èia;%slalhlu ia:dms; lrkafkuq' 
+
+úi£u i|yd úfYaI tallhla nqoaêuh foam,
+ld¾hdxYh ;=< msysgqùu isÿ lrkafkuq'
+
+äðg,a fmdl=re iskud Yd,d m%j¾Okh lrñka
+,dxlSl fma%laIlhd iskud Yd,d fj; wdl¾IKh
+lr .ekSug lghq;= lrkafkuq'
+
+ú;%" uQ¾;s" PdhdrEm" ix.S; kdgH we;=¿
+ixialD;sl yd l,d lghq;= i|yd jk mqyqKq yd
+m%o¾Yk ixúOdkh lsÍu i|yd jk ksoyia l,d
+wjldY iEu Èia;%slalhlu ia:dms; lrkafkuq'
 udOH
- 
-2024 wxl 9 ork ud¾..; l%uj, iqrlaIs;Ndjh 
-ms<sn| mkf;a we;s m%ldYkfha ksoyig tfrys 
-j.ka;s bj;a lrkakdjQ o" wka;¾cd, fiajd 
-imhk wdh;kj,g iajlSh jHjidhka ndOdjlska 
-f;drj l%shd;aul lsÍug bvi,ikakd jQ o" 
-mk;a flgqïm;la bÈßm;a lsÍu kj rcfha m%uqL 
+
+2024 wxl 9 ork ud¾..; l%uj, iqrlaIs;Ndjh
+ms<sn| mkf;a we;s m%ldYkfha ksoyig tfrys
+j.ka;s bj;a lrkakdjQ o" wka;¾cd, fiajd
+imhk wdh;kj,g iajlSh jHjidhka ndOdjlska
+f;drj l%shd;aul lsÍug bvi,ikakd jQ o"
+mk;a flgqïm;la bÈßm;a lsÍu kj rcfha m%uqL
 ld¾hhla fõ'
- 
+
 uq
 øs; iy bf,lafg%dksl udOH lafIa;%hkays ish¨
- 
-u 
-md¾Yajlrejkaf.a wjYH;d ie<ls,a,g .ksñka 
-ckudOH yd iïnkaO m%;sm;a;suh ;Skaÿ iy 
-kshdukhg wod< j.lSï mejfrk  iajdëk cd;sl 
-udOH fldñIka iNdjla we;s lrkq we;' 
- 
-m%dfoaYSh ckudOHfõ§ka o we;=<;a udOH 
-lafIa;%fha jD;a;slhkaf.a /lshd ia:djrNdjh 
- 
-iq/lSu i|yd wjYH jkakd jQ kS;suh /ljrKh 
-,ndfok kj kS;s iy fr.=,dis mekùu isÿ lrkq 
+
+u
+md¾Yajlrejkaf.a wjYH;d ie<ls,a,g .ksñka
+ckudOH yd iïnkaO m%;sm;a;suh ;Skaÿ iy
+kshdukhg wod< j.lSï mejfrk iajdëk cd;sl
+udOH fldñIka iNdjla we;s lrkq we;'
+
+m%dfoaYSh ckudOHfõ§ka o we;=<;a udOH
+lafIa;%fha jD;a;slhkaf.a /lshd ia:djrNdjh
+
+iq/lSu i|yd wjYH jkakd jQ kS;suh /ljrKh
+,ndfok kj kS;s iy fr.=,dis mekùu isÿ lrkq
 we;'
- 
-ì%;dkHfha î' î' iS' udOH cd,fha mj;akd 
-mßmd,k udÈ,sh wkq.ukh lrñka iDcqju 
+
+ì%;dkHfha î' î' iS' udOH cd,fha mj;akd
+mßmd,k udÈ,sh wkq.ukh lrñka iDcqju
 md¾,sfïka;=jg j.jkakd jQ ŠNdrhla
-Ÿ 
- hgf;a 
- 
-Y%S ,xld rEmjdysks ixia:dj iy Y%S ,xld .=jkaúÿ,s 
+Ÿ
+hgf;a
+
+Y%S ,xld rEmjdysks ixia:dj iy Y%S ,xld .=jkaúÿ,s
 ixia:dj md,kh flfrkq we;'
 ksjdi yd fmdÿ myiqlï
- 
-wvq wdodhï,dNs iy uOHu mdka;sl ksjdi 
-fhdackdl%u bÈlsÍu i|yd rch i;= bvï 
+
+wvq wdodhï,dNs iy uOHu mdka;sl ksjdi
+fhdackdl%u bÈlsÍu i|yd rch i;= bvï
 ,ndfokq we;'
- 
-rch úiska l%shd;aul lrkq ,enQ wiïmQ¾K ksjdi 
+
+rch úiska l%shd;aul lrkq ,enQ wiïmQ¾K ksjdi
 fhdackd l%u läkñka wjika lrkq we;' ish¨
- 
- 
-fokd i|yd idOdrK Ôjk ;;a;ajhka iy;sl 
+
+fokd i|yd idOdrK Ôjk ;;a;ajhka iy;sl
 lrkq jia w¨
- 
-;ska f.dvkÕkq ,nk 
- 
-úúOdx.SlrKh jQ ksjdi fhdackdl%uh ;=< .%dóh" 
-kd.ßl" l÷rg" wdmodjkaf.ka n,mEug ,lajQ 
+
+;ska f.dvkÕkq ,nk
+
+úúOdx.SlrKh jQ ksjdi fhdackdl%uh ;=< .%dóh"
+kd.ßl" l÷rg" wdmodjkaf.ka n,mEug ,lajQ
 m<d;a iy ëjr m%cdjka m%uqL;d.; flfrkq we;'
- 
-ksjdi iy jd‡c f.dvke.s,s bÈlsÍu i|yd 
-wjYHjk wuqøjH wdkhkh lsÍfï§ oekg mkjd 
-we;s wêl nÿ bj;a lr bÈlsÍï úhou wvq lr 
-.ekSu i|yd mshjr .kq we;' 
- 
-ish m<uq ksjdi tallh ñ,§ .kq ,nk fyda 
-ksjdi bÈlsÍu i|yd m<uq bvï lÜáh ñ,§ .kq 
-,nk l=gqïNhka i|yd wju fmd<shg È.= ld,Sk 
-f.jqï úl,am u; úfYaI ksjdi Kh fhdackd 
-l%uhla ^fo-mrmqre Kh - 
+
+ksjdi iy jd‡c f.dvke.s,s bÈlsÍu i|yd
+wjYHjk wuqøjH wdkhkh lsÍfï§ oekg mkjd
+we;s wêl nÿ bj;a lr bÈlsÍï úhou wvq lr
+.ekSu i|yd mshjr .kq we;'
+
+ish m<uq ksjdi tallh ñ,§ .kq ,nk fyda
+ksjdi bÈlsÍu i|yd m<uq bvï lÜáh ñ,§ .kq
+,nk l=gqïNhka i|yd wju fmd<shg È.= ld,Sk
+f.jqï úl,am u; úfYaI ksjdi Kh fhdackd
+l%uhla ^fo-mrmqre Kh -
 Two Generation Loan
-& 
+&
 y÷kajd fokq we;'
- 
-úÿ,s n,h" Lksc f;,a" .Eia iy c,h o we;=<;a 
+
+úÿ,s n,h" Lksc f;,a" .Eia iy c,h o we;=<;a
 ish¨
- 
- Wmfhda.s;djka wdY%s; kshdukhka iy;sl 
-lrkq ms‡i Y%S ,xld uyck Wmfhda.s;d fldñIka 
+
+Wmfhda.s;djka wdY%s; kshdukhka iy;sl
+lrkq ms‡i Y%S ,xld uyck Wmfhda.s;d fldñIka
 iNdj ^
 PUCSL
 & n,.ekafjkq we;'
- 
+
 úfoia.; Y%ñlhka iy fiajd kshqla;sh
- 
-Y%S ,xldjg iqúfYaIS äðg,a wkkH;d l%uh 
-l%shd;aul ùfuka wk;=rej úfoia.; fiajd 
-kshqla;slhka i|yd jQ ksjdi bÈlsÍï øjH 
-iïnkaOfhka nÿ ksoyia jevigykla rch úiska 
-l%shd;aul lrkq we;' úfoaY fma%IK u; mokïj 
-úÿ,s jdyk i|yd jdyk n,m;% ksl=;a lsÍug kj 
+
+Y%S ,xldjg iqúfYaIS äðg,a wkkH;d l%uh
+l%shd;aul ùfuka wk;=rej úfoia.; fiajd
+kshqla;slhka i|yd jQ ksjdi bÈlsÍï øjH
+iïnkaOfhka nÿ ksoyia jevigykla rch úiska
+l%shd;aul lrkq we;' úfoaY fma%IK u; mokïj
+úÿ,s jdyk i|yd jdyk n,m;% ksl=;a lsÍug kj
 l%ufõohla y÷kajd fokq we;'
- 
-úfoaY /lshd kshqla;s ld¾hdxYh jvd;a ld¾hlaIu 
-iy M,odhS wh;khla njg m;a lsÍu i|yd wjYH 
-jk kS;suh yd mßmd,k m%;sixialrK isÿ lrkq 
+
+úfoaY /lshd kshqla;s ld¾hdxYh jvd;a ld¾hlaIu
+iy M,odhS wh;khla njg m;a lsÍu i|yd wjYH
+jk kS;suh yd mßmd,k m%;sixialrK isÿ lrkq
 we;'
 29
- 
-úfoaY.; Y%ñlhskag úfoaYhkays isg Pkaoh m%ldY 
-lsÍug yels jk mßÈ ue;sjrK kS;sh ixfYdaOkh 
+
+úfoaY.; Y%ñlhskag úfoaYhkays isg Pkaoh m%ldY
+lsÍug yels jk mßÈ ue;sjrK kS;sh ixfYdaOkh
 lrkq ,efí'
- 
-ueo fmrÈ. iy fjk;a rgj, isr.; ù isák 
-fyda Y%S ,xldjg meñ„ug fkdyels ÿIalr 
-;;a;ajhkaj,g uqyqK § isák Y%S ,dxlsl Y%ñlhka 
-furgg f.kajd .ekSu i|yd läkñka lghq;= 
-lrkq we;' 
- 
-fm!oa.,sl wxYfha ish¿ fiajd kshqla;slhkag 
-odhl;aj rlaIKdjrK l%uhla iy úfYaI ksjdi 
+
+ueo fmrÈ. iy fjk;a rgj, isr.; ù isák
+fyda Y%S ,xldjg meñ„ug fkdyels ÿIalr
+;;a;ajhkaj,g uqyqK § isák Y%S ,dxlsl Y%ñlhka
+furgg f.kajd .ekSu i|yd läkñka lghq;=
+lrkq we;'
+
+fm!oa.,sl wxYfha ish¿ fiajd kshqla;slhkag
+odhl;aj rlaIKdjrK l%uhla iy úfYaI ksjdi
 jevigykla l%shdjg kxjkq we;'
- 
-.Dy fiajh kshdukh lsÍu i|yd kS;s mekùu" 
-/lshd ia:dkfha ysßyer lsÍï je<elaùu" wod< 
-cd;Hka;r lïlre ixúOdkuh iïuq;Ska wkqu; 
-lsÍu iy lïlrejka wdrlaId lsÍu i|yd lïlre 
-ks,OdÍkaf.a wëlaIKh j¾Okh lsÍug mshjr 
+
+.Dy fiajh kshdukh lsÍu i|yd kS;s mekùu"
+/lshd ia:dkfha ysßyer lsÍï je<elaùu" wod<
+cd;Hka;r lïlre ixúOdkuh iïuq;Ska wkqu;
+lsÍu iy lïlrejka wdrlaId lsÍu i|yd lïlre
+ks,OdÍkaf.a wëlaIKh j¾Okh lsÍug mshjr
 .kq ,efí'
- 
+
 fláld,Sk /lshd iys; ksoyia f
-j 
-f<|m< 
+j
+f<|m<
 l%ufha ^
 Gig economy
-& iajhx /lshd.; jQjka 
-iy .Dy fiajlhkaf.a ysñlï iy wdrlaIl 
-cd, n,.ekafjkq we;' kj kS;s y÷kajd foñka 
-odhl;aj b;=reï fhdackdl%uhla o y÷kajd 
+& iajhx /lshd.; jQjka
+iy .Dy fiajlhkaf.a ysñlï iy wdrlaIl
+cd, n,.ekafjkq we;' kj kS;s y÷kajd foñka
+odhl;aj b;=reï fhdackdl%uhla o y÷kajd
 fokafkuq'
 Šuff,hs ck m%cdjŸ
 ishjia folla mqrd uff,hs ck m%cdj úiska
- 
+
 Y%S ,xldjg ,nd§ we;s w;suy;a odhl;ajh
- 
-ms<s.kafkuq' Tjqka úiska w;aú¢k ,o jHqyd;aul 
-neyerlrKh ie<ls,a,g .;a l, tu msßiaj, 
-hyidOkh jeäÈhqKq lrkq jia Okd;aul l%shdud¾. 
-.; hq;= neõ jgydf.k isáuq' ta Wfoid my; i|yka 
+
+ms<s.kafkuq' Tjqka úiska w;aú¢k ,o jHqyd;aul
+neyerlrKh ie<ls,a,g .;a l, tu msßiaj,
+hyidOkh jeäÈhqKq lrkq jia Okd;aul l%shdud¾.
+.; hq;= neõ jgydf.k isáuq' ta Wfoid my; i|yka
 l%shdud¾. Tiafia l%shd;aul jkafkuq(
- 
-úoHdj" .‡;h iy ;dlaIKfõoh hk úIh 
-Odrdjka iys; cd;sl mdi,a ia:dmkh o we;=<;aj 
+
+úoHdj" .‡;h iy ;dlaIKfõoh hk úIh
+Odrdjka iys; cd;sl mdi,a ia:dmkh o we;=<;aj
 b,lal.; jevigyka yryd ish¨
- 
- uÜgïys l÷rg 
-j;= isiqkaf.a wOHdmksl id¾:l;ajhka by< 
+
+uÜgïys l÷rg
+j;= isiqkaf.a wOHdmksl id¾:l;ajhka by<
 kxjd,Su iy há;, myiqlï jeäÈhqKq lsÍu'
- 
-úoHdj" ;dlaIKfõoh" bx.%Sis" bxðfkare úoHdj" 
-l,d iy .‡;h 
+
+úoHdj" ;dlaIKfõoh" bx.%Sis" bxðfkare úoHdj"
+l,d iy .‡;h
 (STEEAM
-& hk úIhhkg 
-wod<j .=rejreka mqyqKq lrkq jia fou< 
-udOHfhka w;sf¾l wOHdmk úoHd mSGhla iy 
-fyo mqyqK wdh;khla ia:dmkh lsÍu' 
- 
+& hk úIhhkg
+wod<j .=rejreka mqyqKq lrkq jia fou<
+udOHfhka w;sf¾l wOHdmk úoHd mSGhla iy
+fyo mqyqK wdh;khla ia:dmkh lsÍu'
+
 Y%S ,xld l÷lr úYajúoHd,h ^
 HUSL
-& hk fhdað; 
-ku iys;j mßmQ¾K úYajúoHd,hla ia:dmkh 
-lsÍfï m<uq mshjrla jYfhka oekg mj;akd 
-úYajúoHd,hlg wkqnoaOj yegka m%foaYfha 
+& hk fhdað;
+ku iys;j mßmQ¾K úYajúoHd,hla ia:dmkh
+lsÍfï m<uq mshjrla jYfhka oekg mj;akd
+úYajúoHd,hlg wkqnoaOj yegka m%foaYfha
 uKavmhla wdrïN lsÍu'
- 
-l÷rg j;=lr ;reK ;re‡hka yg b,lal.; 
-iy m%fõY ùfï yelshdj iys; jD;a;Sh mqyqKq 
+
+l÷rg j;=lr ;reK ;re‡hka yg b,lal.;
+iy m%fõY ùfï yelshdj iys; jD;a;Sh mqyqKq
 jevigyka iïmdokh lsÍu'
- 
+
 j;= wxYfha ish¨
- 
- fi!LH myiqlï cd;sl fi!LH 
+
+fi!LH myiqlï cd;sl fi!LH
 moaO;Ska yd taldnoaO lsÍu'
- 
-<uqka w;r ñá ùfï m%jK;dj" m%ckk jhia 
-iSudjkays ldka;djka w;r rla;ySk;djh" <ore 
+
+<uqka w;r ñá ùfï m%jK;dj" m%ckk jhia
+iSudjkays ldka;djka w;r rla;ySk;djh" <ore
 iy ud;D urK ms<sn| .eg¨
- 
- úi£u lrkq ms‡i 
+
+úi£u lrkq ms‡i
 b,lal.; iydh jevigykla l%shd;aul lsÍu'
- 
-j;= ck m%cdjkaf.a iudc wdrlaIK jevigyk 
-idOdrK yd hqla;s iy.; f,i l%shd;aul lrk 
+
+j;= ck m%cdjkaf.a iudc wdrlaIK jevigyk
+idOdrK yd hqla;s iy.; f,i l%shd;aul lrk
 njg j.n,d .ekSu'
- 
-j;= lïlrejka" bvï ysñ l=vd j;= ysñ f.dùka 
-njg mßj¾;kh lsÍfï rcfha m%;sm;a;shla 
+
+j;= lïlrejka" bvï ysñ l=vd j;= ysñ f.dùka
+njg mßj¾;kh lsÍfï rcfha m%;sm;a;shla
 y÷kajd § l%shd;aul lsÍu'
- 
-fuu ixl%u„h ld, mßÉfþoh ;=< j;= 
-lïlrejka yg Ôj;aùug iß,k jegqmla iy;sl 
+
+fuu ixl%u„h ld, mßÉfþoh ;=< j;=
+lïlrejka yg Ôj;aùug iß,k jegqmla iy;sl
 lsÍu'
- 
-j.d lghqq;=" i;a;aj md,kh iy jHjidhl;aj 
-lghq;= wd§ Ôjfkdamdh wjYH;djka i|yd 
-j;=j,g wh;a w;ayer ouk ,o bvï j;= 
-wdY%s; mÈxÑlrejka w;r fnod §u' j;=lrfha 
-mÈxÑlrejka úiska oekgu;a j.d lghq;= isÿ 
-lrñka mj;akd bvïj,g rcfha m%;sm;a;sh m%ldr 
+
+j.d lghqq;=" i;a;aj md,kh iy jHjidhl;aj
+lghq;= wd§ Ôjfkdamdh wjYH;djka i|yd
+j;=j,g wh;a w;ayer ouk ,o bvï j;=
+wdY%s; mÈxÑlrejka w;r fnod §u' j;=lrfha
+mÈxÑlrejka úiska oekgu;a j.d lghq;= isÿ
+lrñka mj;akd bvïj,g rcfha m%;sm;a;sh m%ldr
 Tmamq ,nd§u'
- 
-uff,hs m%cdjka m%udKj;a f,i wdjrKh 
-fkdjk  m%foaYhkays rdcH fiajfha fiajd 
-kshqla;sh i|yd ckdêm;s rKisxy fma%uodihkaf.a 
-m%;sm;a;sh yd iudka;rj Okd;aul l%shdldÍ 
-jevigykla l%shd;aul lsÍu' ta wkqj j;=lr 
+
+uff,hs m%cdjka m%udKj;a f,i wdjrKh
+fkdjk m%foaYhkays rdcH fiajfha fiajd
+kshqla;sh i|yd ckdêm;s rKisxy fma%uodihkaf.a
+m%;sm;a;sh yd iudka;rj Okd;aul l%shdldÍ
+jevigykla l%shd;aul lsÍu' ta wkqj j;=lr
 m%foaYhkays kj .ïudk ia:dmkh iy
- NEVIDA 
-fj; tys úê kshuh imqrd,Sug yelsjkq ms‡i 
-m%udKj;a iïm;a ,nd§u' kj .%du ks,Odß iy 
-m%dfoaYSh f,alï fldÜGdY iSud ks¾Kh fldg j;= 
-fiajlhka j;= ysñhka fj; ne£ mj;akd uÜgfï 
-isg mßmQ¾K mqrjeishka njg mßj¾;kh ùfï 
-yelshdj ,ndfok úuOH.; rdcH fiajdjka fj; 
-iu m%fõY wjia:d ,ndfokq ,nk njg j.n,d 
+NEVIDA
+fj; tys úê kshuh imqrd,Sug yelsjkq ms‡i
+m%udKj;a iïm;a ,nd§u' kj .%du ks,Odß iy
+m%dfoaYSh f,alï fldÜGdY iSud ks¾Kh fldg j;=
+fiajlhka j;= ysñhka fj; ne£ mj;akd uÜgfï
+isg mßmQ¾K mqrjeishka njg mßj¾;kh ùfï
+yelshdj ,ndfok úuOH.; rdcH fiajdjka fj;
+iu m%fõY wjia:d ,ndfokq ,nk njg j.n,d
 .ekSu'
- 
-j;= wdY%s;j mÈxÑ mjq,aj,g ksjdi ;ekSu i|yd 
-ysñlï Tmamq iys; bvï ,ndfokq ,nk njg 
-iy;sl lsÍfï kS;suh yd mßmd,kuh l%shdud¾. 
-.ekSu' tu bvï" ud¾. fj; myiq m%fõYhka 
-iys; ia:dkhkays ia:dk.;j mj;skq we;' 
-fnodfokq ,nk bvfï jmißh tu m%dfoaYSh 
-f,alï fldÜGdih ;=< fiiq msßia fj; ,ndfok 
+
+j;= wdY%s;j mÈxÑ mjq,aj,g ksjdi ;ekSu i|yd
+ysñlï Tmamq iys; bvï ,ndfokq ,nk njg
+iy;sl lsÍfï kS;suh yd mßmd,kuh l%shdud¾.
+.ekSu' tu bvï" ud¾. fj; myiq m%fõYhka
+iys; ia:dkhkays ia:dk.;j mj;skq we;'
+fnodfokq ,nk bvfï jmißh tu m%dfoaYSh
+f,alï fldÜGdih ;=< fiiq msßia fj; ,ndfok
 ,o bvï jmißhg iudk jkq we;'
- 
+
 jeú,s udkj ixj¾Ok Ndrh ^
 PHDT
-&" cd;sl 
-ksjdi ixj¾Ok wêldßh 
+&" cd;sl
+ksjdi ixj¾Ok wêldßh
 (NHDA
-& yd fiiq 
-rcfha jevigyka hgf;a oekgu;a f.dvkÕd 
-we;s ksjdij,g ysñlï Tmamq ,nd§fuka tajd 
+& yd fiiq
+rcfha jevigyka hgf;a oekgu;a f.dvkÕd
+we;s ksjdij,g ysñlï Tmamq ,nd§fuka tajd
 kshudkql+, lsÍu'
- 
-kd.ßl flakaø ;=<g ixl%uKh jk fou< 
-ck;dj wvq wdodhï ksjdi jevigyka o we;=<;a 
-iudc wdrlaIK cd, jevigyka ;=<g taldnoaO 
-lsÍu iy fuu mjq,aj, orejkag bvlv ie,fik 
-mßÈ m%foaYfha mdie,aj, iïm;a jeäÈhqKq lsÍu' 
- 
-ld¾hlaIu yd ;d¾lsl n,h fnodyeÍu iy;sl 
-lrkqjia j;=lr m%foaYhkays m<d;a md,k wdh;k 
+
+kd.ßl flakaø ;=<g ixl%uKh jk fou<
+ck;dj wvq wdodhï ksjdi jevigyka o we;=<;a
+iudc wdrlaIK cd, jevigyka ;=<g taldnoaO
+lsÍu iy fuu mjq,aj, orejkag bvlv ie,fik
+mßÈ m%foaYfha mdie,aj, iïm;a jeäÈhqKq lsÍu'
+
+ld¾hlaIu yd ;d¾lsl n,h fnodyeÍu iy;sl
+lrkqjia j;=lr m%foaYhkays m<d;a md,k wdh;k
 ixLHdjka iudf,dapkh lrkafkuq'
 30
- 
-l÷rg j;= ck;djf.a úisr me;sr mj;akd rgdj 
-ie<ls,a,g .ksñka ixj¾Ok jevigykaj, 
-ksr; ùu i|yd wjYH WmfoaYd;aul iy úOdhl 
-n,;, iys;j" l÷rg j;= fou< ck m%cdjkaf.a 
-ixialD;sl" iudc" wd¾Ól iy foaYmd,k Ôú; 
-fj; hï n,mEula iys; mk;a flgqïm;a 
-iy kS;s wëlaIKh fldg úuid ne,Su i|yd 
-wdKavql%u jHjia:d m%;sixialrK l%shdj,shla 
-;=< rcfha wdh;khla jYfhka fN!ñl iSudjg 
-hg;a fkdjk m%cd iNdjka  ^
-Non-Territorial 
+
+l÷rg j;= ck;djf.a úisr me;sr mj;akd rgdj
+ie<ls,a,g .ksñka ixj¾Ok jevigykaj,
+ksr; ùu i|yd wjYH WmfoaYd;aul iy úOdhl
+n,;, iys;j" l÷rg j;= fou< ck m%cdjkaf.a
+ixialD;sl" iudc" wd¾Ól iy foaYmd,k Ôú;
+fj; hï n,mEula iys; mk;a flgqïm;a
+iy kS;s wëlaIKh fldg úuid ne,Su i|yd
+wdKavql%u jHjia:d m%;sixialrK l%shdj,shla
+;=< rcfha wdh;khla jYfhka fN!ñl iSudjg
+hg;a fkdjk m%cd iNdjka ^
+Non-Territorial
 Community Councils
 & ks¾udKh lsÍu'
 úY%dñl m%;s,dN iq/lSu
- 
-jir 2016 - 2019 ld,h ;=< úY%dñlhkag wysñ jQ 
-úY%du jegqma ixfYdaOk ,nd §u yd úY%du jegqma 
-úIu;djg ;srir úi÷ula ,nd §u' 
- 
-2016g fmr úY%du ,nd isák úY%dñlhka 
-fjkqfjka o w.%ydr rlaIKdjrK /ljrKh 
-mq¿,a lsÍu' 
- 
-úY%dñl m%cdj fj; jvd by< m%;s,dN i,ik 
-whqßka rdcH fiajd úY%dñlhkaf.a Ndr wruqof,a 
-l<ukdlrKh Yla;su;a lrkq ms‡i 1999 wxl 
-40 ork rdcH fiajd úY%dñlhkaf.a Ndr wruqo, 
+
+jir 2016 - 2019 ld,h ;=< úY%dñlhkag wysñ jQ
+úY%du jegqma ixfYdaOk ,nd §u yd úY%du jegqma
+úIu;djg ;srir úi÷ula ,nd §u'
+
+2016g fmr úY%du ,nd isák úY%dñlhka
+fjkqfjka o w.%ydr rlaIKdjrK /ljrKh
+mq¿,a lsÍu'
+
+úY%dñl m%cdj fj; jvd by< m%;s,dN i,ik
+whqßka rdcH fiajd úY%dñlhkaf.a Ndr wruqof,a
+l<ukdlrKh Yla;su;a lrkq ms‡i 1999 wxl
+40 ork rdcH fiajd úY%dñlhkaf.a Ndr wruqo,
 mk; ixfYdaOkh lrkafkuq'
 rKúre iqNidOkh
- 
-cd;sl wdrlaIdj Wfoid ish Ôú; mQcd l< 
-rKúrejkaf.a wd;audNsudkh wdrlaId lrñka 
-Tjqkaf.a iqNidOkh iy;sl lrkq ms‡i rKúre 
-lghq;= ms<sn| fomd¾;fïka;=jla udi 6la we;=<; 
-ia:dmkh flfrkq we;' rKúre iqN idOkh 
-i|yd j¾;udkfha j.lSfuka ne£ isák oekg 
+
+cd;sl wdrlaIdj Wfoid ish Ôú; mQcd l<
+rKúrejkaf.a wd;audNsudkh wdrlaId lrñka
+Tjqkaf.a iqNidOkh iy;sl lrkq ms‡i rKúre
+lghq;= ms<sn| fomd¾;fïka;=jla udi 6la we;=<;
+ia:dmkh flfrkq we;' rKúre iqN idOkh
+i|yd j¾;udkfha j.lSfuka ne£ isák oekg
 mj;akd ish¨
- 
- wdh;k fuu fomd¾;fïka;=j 
-hgf;a taldnoaO flfrkq we;' fuu.ska 
-mqkre;a:dmkh" fi!LH" jD;a;Sh wOHdmkh" 
+
+wdh;k fuu fomd¾;fïka;=j
+hgf;a taldnoaO flfrkq we;' fuu.ska
+mqkre;a:dmkh" fi!LH" jD;a;Sh wOHdmkh"
 WmfoaYkh iy ksjdi .eg¨
- 
- ksrdlrKh hk 
+
+ksrdlrKh hk
 fiajdjka iïmdokh flfrkq we;'
- 
-úY%dñl rKúrejkag wod<j ztl ks,hla - 
-tl úY%du jegqmla - 
-One Rank-One Pension™ 
+
+úY%dñl rKúrejkag wod<j ztl ks,hla -
+tl úY%du jegqmla -
+One Rank-One Pension™
 m%;sm;a;sh ms<s.ekSu'
- 
+
 rKúrejkaf.a .eg¨
- 
-j,g ijka § tajd úi£u 
-i|yd úfYaIs; Tïnqâiaukajrfhla m;a lr thska 
-,efnk ks¾foaY udi 06la we;=<; l%shd;aul 
-lsÍu' 
-Yla;su;a iudc wdrlaIK 
- 
+
+j,g ijka § tajd úi£u
+i|yd úfYaIs; Tïnqâiaukajrfhla m;a lr thska
+,efnk ks¾foaY udi 06la we;=<; l%shd;aul
+lsÍu'
+Yla;su;a iudc wdrlaIK
+
 cd,hla f.dvke.Su
- 
-È.=ld,Sk ;srirNdjh i|yd" Y%S ,xldfõ úY%du 
-jegqma l%uh iïmQ¾Kfhkau m%;sixúOdkh l< 
-hq;= njg fhdackd lruq' fuhg rdcH fiajlhska" 
-mqoa.,sl wxYfha fiajlhska iy ixl%u‡l 
+
+È.=ld,Sk ;srirNdjh i|yd" Y%S ,xldfõ úY%du
+jegqma l%uh iïmQ¾Kfhkau m%;sixúOdkh l<
+hq;= njg fhdackd lruq' fuhg rdcH fiajlhska"
+mqoa.,sl wxYfha fiajlhska iy ixl%u‡l
 Y%ñlhska we;=¿ ish¨
- 
-u mqrjeishkag m%fõY úh 
+
+u mqrjeishkag m%fõY úh
 yels úYaùh ^
 Universal
-&" odhl úY%du jegqma 
-fhdackd l%uhla ks¾udKh lsÍu wka;¾.; fõ' 
+&" odhl úY%du jegqma
+fhdackd l%uhla ks¾udKh lsÍu wka;¾.; fõ'
 rd
-cH fiajlhskag oekg ,ndfok úY%du jegqm 
+cH fiajlhskag oekg ,ndfok úY%du jegqm
 uQ,Huh jYfhka ;srir fkdfõ'
- 
+
 ish¨
- 
- md¾Yajlrejka iu. idlÉPd lsÍfuka 
-wk;=rej mqoa.,sl wxYfha fiajd kshqla;slhka 
-i|yd udislj re' 17"500l iSudfõ isg wju jegqm 
-udislj re' 25"000 olajd fyda ixfYdaOkh l< hq;= 
+
+md¾Yajlrejka iu. idlÉPd lsÍfuka
+wk;=rej mqoa.,sl wxYfha fiajd kshqla;slhka
+i|yd udislj re' 17"500l iSudfõ isg wju jegqm
+udislj re' 25"000 olajd fyda ixfYdaOkh l< hq;=
 njg fhdackd lrkafkuq'
- 
-Ÿ 
+
+Ÿ
 ck iúh
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 iuDoaê
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 wiajeiqu
-Ÿ 
-" 
-Ÿ 
+Ÿ
+"
+Ÿ
 .eñÈßh
-Ÿ 
- 
-hk iudc wdrlaIK jevigykaj, hyNdú;hka 
-Wlyd .ksñka" mq¿,a kj jevms<sfj,la ilia 
-lrñka È<s÷lu b;sydifha fldgila njg m;a 
-lrkq we;'  kj jevigyk uÕska udislj 
-m%;s,dNS mjq,a i|yd udi 24la olajd re'20"000 l 
-§ukdjla ,nd fokq we;' kj jevigyk Èh;a 
-lrk ;=re" wiajeiqu m%;s,dN uqo, jeä lrñka 
+Ÿ
+
+hk iudc wdrlaIK jevigykaj, hyNdú;hka
+Wlyd .ksñka" mq¿,a kj jevms<sfj,la ilia
+lrñka È<s÷lu b;sydifha fldgila njg m;a
+lrkq we;' kj jevigyk uÕska udislj
+m%;s,dNS mjq,a i|yd udi 24la olajd re'20"000 l
+§ukdjla ,nd fokq we;' kj jevigyk Èh;a
+lrk ;=re" wiajeiqu m%;s,dN uqo, jeä lrñka
 my; mßÈ ,nd fokq ,efí
- 
-wjodkug ,lajQ iy ixl%dka;sl mjq,a  
-i|yd uilg re' 10"000 ^re' 5"000 isg& 
-olajd 
- 
-ÿmam;a mjq,a i|yd uilg re' 10"000 ^re' 
-8"500 isg& olajd 
- 
-wka; È<s÷ mjq,a i|yd uilg re' 15"000la 
-ne.ska  
-fuu kj jevigyk iDcq uqo,a ,nd§ulg iSud 
-fkdjk w;r m%;s,dNS mjq,aj, mßfNdackh" b;sßlsÍï" 
+
+wjodkug ,lajQ iy ixl%dka;sl mjq,a
+i|yd uilg re' 10"000 ^re' 5"000 isg&
+olajd
+
+ÿmam;a mjq,a i|yd uilg re' 10"000 ^re'
+8"500 isg& olajd
+
+wka; È<s÷ mjq,a i|yd uilg re' 15"000la
+ne.ska
+fuu kj jevigyk iDcq uqo,a ,nd§ulg iSud
+fkdjk w;r m%;s,dNS mjq,aj, mßfNdackh" b;sßlsÍï"
 wdfhdackh" ksIamdokh iy wmkhk hk ish¨
- 
- 
-wxYhka flfrys wjOdkh fhduq lrk oekqu" l=i,;d 
-iy wdl,am j¾Okh lrk jevigykls' 
- 
-Y%S ,xldfõ oßø;djh ;=rka lsÍfï§ iuDoaê 
-jevigyk úiska bgq lr we;s iqúfYaIS ld¾hNdrh 
-y÷kd.ksñka" kj jevigyk l%shd;aul lrk 
-;=re" j¾;udk jevigyfka m%;s,dNSka jerÈ 
-f,i y÷kd.ekSu" úi£u i|yd úoHd;aul 
-iólaIKhla isÿ lrkq we;' fuh oekg l%shd;aul 
-jevigyfkka widOdrK f,i w;ayerekq 
-iuDoaê,dNSka iy wd¾Ól w¾nqoh fya;=fjka 
-ÿ.S njg m;a jQjkag iykdOdr ,nd§u iy;sl 
-lrkq we;'  iuDoaê nexl=j, m%d.aOkh Yla;su;a 
-flfrkq we;' tys§ l<ukdlrKh jeäÈhqKq 
-lsÍu" fiajlhska i|yd ;sridr jD;a;Sh ud¾. 
-ks¾udKh lsÍu" wksjd¾h b;sß lsÍfï jevigyk 
-yd ksjdi f,d;/hs jeks M,odhS jHdmD;s 
-wLKavj mj;ajdf.k hkq we;' tfukau iuDoaê 
-fiajlhskaf.a §¾> ld,Sk  l<ukdlrK iy 
+
+wxYhka flfrys wjOdkh fhduq lrk oekqu" l=i,;d
+iy wdl,am j¾Okh lrk jevigykls'
+
+Y%S ,xldfõ oßø;djh ;=rka lsÍfï§ iuDoaê
+jevigyk úiska bgq lr we;s iqúfYaIS ld¾hNdrh
+y÷kd.ksñka" kj jevigyk l%shd;aul lrk
+;=re" j¾;udk jevigyfka m%;s,dNSka jerÈ
+f,i y÷kd.ekSu" úi£u i|yd úoHd;aul
+iólaIKhla isÿ lrkq we;' fuh oekg l%shd;aul
+jevigyfkka widOdrK f,i w;ayerekq
+iuDoaê,dNSka iy wd¾Ól w¾nqoh fya;=fjka
+ÿ.S njg m;a jQjkag iykdOdr ,nd§u iy;sl
+lrkq we;' iuDoaê nexl=j, m%d.aOkh Yla;su;a
+flfrkq we;' tys§ l<ukdlrKh jeäÈhqKq
+lsÍu" fiajlhska i|yd ;sridr jD;a;Sh ud¾.
+ks¾udKh lsÍu" wksjd¾h b;sß lsÍfï jevigyk
+yd ksjdi f,d;/hs jeks M,odhS jHdmD;s
+wLKavj mj;ajdf.k hkq we;' tfukau iuDoaê
+fiajlhskaf.a §¾> ld,Sk l<ukdlrK iy
 úY%du jegqma .eg¨
- 
- o úi|kq we;'
- 
-wmf.a wd¾Ólh ;=< ieuúgu il%Sh m%cdjka fj; 
+
+o úi|kq we;'
+
+wmf.a wd¾Ólh ;=< ieuúgu il%Sh m%cdjka fj;
 b,lal.; iydh ,eîu iy;sl lrñka
- QR 
-fla; 
-l%uh mdol lr .;a jevms<sfj,la yryd úfYaI 
-bkaOk iykdOdrhla ,nd fokakfkuq' fuu 
-iydh f.dùka" 
-Ÿ 
+QR
+fla;
+l%uh mdol lr .;a jevms<sfj,la yryd úfYaI
+bkaOk iykdOdrhla ,nd fokakfkuq' fuu
+iydh f.dùka"
+Ÿ
 Yla;s
-Ÿ 
- ù fuda,a ysñhka" ;%Sfrdao 
-r: ßhÿrka" ëjrhka" iy mdi,a m%jdyk wxYfha 
+Ÿ
+ù fuda,a ysñhka" ;%Sfrdao
+r: ßhÿrka" ëjrhka" iy mdi,a m%jdyk wxYfha
 ßhÿrkag ,nd fokq we;'
 31
 32
-ixys¢hdfjka" iyÔjkfhka yd iqrlaIs; núka 
-hq;a wdrlaIs; Y%S ,xldjla i|yd cd;sl wdrlaIdj 
-iy mdßißl ;srirNdjh iy;sl lrk w;ru" 
-m%cd;ka;%jdoh Yla;su;a lsÍu" m%;sikaOdkh m%j¾Okh 
+ixys¢hdfjka" iyÔjkfhka yd iqrlaIs; núka
+hq;a wdrlaIs; Y%S ,xldjla i|yd cd;sl wdrlaIdj
+iy mdßißl ;srirNdjh iy;sl lrk w;ru"
+m%cd;ka;%jdoh Yla;su;a lsÍu" m%;sikaOdkh m%j¾Okh
 lsÍu iy ish¨
- 
- mqrjeishkaf.a whs;sjdislï wdrlaId 
+
+mqrjeishkaf.a whs;sjdislï wdrlaId
 lsÍug lemù lghq;= lruq'
 rdcH wdrCIdj
 33
- 
-cd;sl iu.sh yd m%;sikaOdkh ms<sn| ld¾hd,h" 
-w;=reoyka jQ ;eke;a;ka ms<sn| ld¾hd,h iy 
-ydksmQrK ld¾hd,h Yla;su;a lr tajdfha wruqKq 
-M,odhS f,i yd ld¾hlaIuj l%shd;aul lsÍug 
-lghq;= lrkq we;' wj;eka jQjka kej; mÈxÑ 
-lsÍu i|yd myiqlï imhkafkuq' wdrlaIl 
+
+cd;sl iu.sh yd m%;sikaOdkh ms<sn| ld¾hd,h"
+w;=reoyka jQ ;eke;a;ka ms<sn| ld¾hd,h iy
+ydksmQrK ld¾hd,h Yla;su;a lr tajdfha wruqKq
+M,odhS f,i yd ld¾hlaIuj l%shd;aul lsÍug
+lghq;= lrkq we;' wj;eka jQjka kej; mÈxÑ
+lsÍu i|yd myiqlï imhkafkuq' wdrlaIl
 wjYH;d i|yd wjYH fkdjk ish¨
- 
-u bvï 
-;jÿrg;a m%udo fkdù tajdfha ysñlrejkag wdmiq 
-,ndfokq we;'rdcHwkq.%yhiys;j ckúldYk 
-fjkialï fkdlrk m%;sm;a;sh fkdlvjd 
-mj;ajdf.k hkq we;' ;jo" .egqïj,ska mSvdjg 
-m;a m%foaYj, m%;sixialrKh yd ixj¾Okh i|yd 
-wdfhdackh lsÍug úfYaIs; iyk yd Èß.ekaùï 
+
+u bvï
+;jÿrg;a m%udo fkdù tajdfha ysñlrejkag wdmiq
+,ndfokq we;'rdcHwkq.%yhiys;j ckúldYk
+fjkialï fkdlrk m%;sm;a;sh fkdlvjd
+mj;ajdf.k hkq we;' ;jo" .egqïj,ska mSvdjg
+m;a m%foaYj, m%;sixialrKh yd ixj¾Okh i|yd
+wdfhdackh lsÍug úfYaIs; iyk yd Èß.ekaùï
 imhkq we;'
- 
-há;, myiqlï m%;sia:dmkh" m%cd ixj¾Ok 
-lghq;= iy ;srir wd¾Ól wNsjDoaêh o flfrys 
-wjOdkh fhduq lrñka hqoaOfhka n,mEug ,lajQ 
-m%foaYhka kej; f.dvke.Su yd ixj¾Okh 
-fjkqfjka jQ lemùu ;yjqre lsÍu i|yd 
+
+há;, myiqlï m%;sia:dmkh" m%cd ixj¾Ok
+lghq;= iy ;srir wd¾Ól wNsjDoaêh o flfrys
+wjOdkh fhduq lrñka hqoaOfhka n,mEug ,lajQ
+m%foaYhka kej; f.dvke.Su yd ixj¾Okh
+fjkqfjka jQ lemùu ;yjqre lsÍu i|yd
 cd;Hka;r wdOdr iuq¿jla ixúOdkh lrkafkuq'
- 
-kS;s úfrdaë f,i l,a ouk ,o m<d;a md,k 
-ue;sjrK läkñka meje;aùug wjYH kS;suh yd 
+
+kS;s úfrdaë f,i l,a ouk ,o m<d;a md,k
+ue;sjrK läkñka meje;aùug wjYH kS;suh yd
 mßmd,kuh mshjr .kafkuq'
- 
-wêlrK mßmd,khg úOdhlh ueÈy;aùu 
-je<elaùu i|yd kS;s m%;sixialrK isÿ lsÍu 
-iy wêlrKfha iajdëk;ajh yd ld¾hlaIu;dj 
-ia:dms; lsÍu i|yd wjYH kS;s m%;sixialrKhka 
+
+wêlrK mßmd,khg úOdhlh ueÈy;aùu
+je<elaùu i|yd kS;s m%;sixialrK isÿ lsÍu
+iy wêlrKfha iajdëk;ajh yd ld¾hlaIu;dj
+ia:dms; lsÍu i|yd wjYH kS;s m%;sixialrKhka
 isÿ lrkafkuq'
- 
-uQ,sl whs;sjdislï ms<sn| mßÉfþofha úIh 
-m:h mq¿,a lr iudÔl yd wd¾Ól whs;sjdislï" 
-ixialD;sl whs;sjdislï" ldka;djkaf.a" <uqkaf.a" 
-jhia.; mqoa.,hkaf.a yd wdndê; mqoa.,hkaf.a 
-whs;sjdislï" mdßißl" ksjdi yd ixj¾Ok 
-whs;sjdislï we;=<;a flfrkq we;' mqrjeishkag 
-hqla;sh myiqfjka ,nd .ekSug yels jk mßÈ" 
-wNshdpkdêlrK kvq úNd. iEu m<d;lu 
-isÿ flfrkq we;' thg uQ,sl whs;sjdislï yd 
-NdId whs;sjdislï ms<sn| uQ,sl wêlrK n,hla 
-mejfrkq we;' wNshdpkdêlrKfha wjirh 
-fyda fY%aIaGdêlrKfha úfYaI wjirh iys;j 
-fY%aIaGdêlrKhg wNshdpkhla bÈßm;a l< 
+
+uQ,sl whs;sjdislï ms<sn| mßÉfþofha úIh
+m:h mq¿,a lr iudÔl yd wd¾Ól whs;sjdislï"
+ixialD;sl whs;sjdislï" ldka;djkaf.a" <uqkaf.a"
+jhia.; mqoa.,hkaf.a yd wdndê; mqoa.,hkaf.a
+whs;sjdislï" mdßißl" ksjdi yd ixj¾Ok
+whs;sjdislï we;=<;a flfrkq we;' mqrjeishkag
+hqla;sh myiqfjka ,nd .ekSug yels jk mßÈ"
+wNshdpkdêlrK kvq úNd. iEu m<d;lu
+isÿ flfrkq we;' thg uQ,sl whs;sjdislï yd
+NdId whs;sjdislï ms<sn| uQ,sl wêlrK n,hla
+mejfrkq we;' wNshdpkdêlrKfha wjirh
+fyda fY%aIaGdêlrKfha úfYaI wjirh iys;j
+fY%aIaGdêlrKhg wNshdpkhla bÈßm;a l<
 yelsjkq we;'
- 
-ljrdldrfha fyda ¥IK l%shdjla wdKavql%u 
-jHjia:dj W,a,x>Kh lsÍula fia ie,flkq 
-we;s w;r ¥IK úfrdaOh wdKavql%u jHjia:djg 
-we;=<;a flfrk njg wdKavql%u jHjia:d 
+
+ljrdldrfha fyda ¥IK l%shdjla wdKavql%u
+jHjia:dj W,a,x>Kh lsÍula fia ie,flkq
+we;s w;r ¥IK úfrdaOh wdKavql%u jHjia:djg
+we;=<;a flfrk njg wdKavql%u jHjia:d
 m%;sixialrK l%shdj,sh ;=< j.n,d .efkkq we;'
- 
-rdcH fiajh mQ¾K ks¾foaYmd,kSlrKhlg ,la 
-lsÍu iy ta iïnkaO m%ñ;Ska yd úêúOdk rdcH 
-fiajd fldñIka iNdjg ,nd §u' 
-m%cd;ka;%jdoh yd ixys¢hdj 
- 
+
+rdcH fiajh mQ¾K ks¾foaYmd,kSlrKhlg ,la
+lsÍu iy ta iïnkaO m%ñ;Ska yd úêúOdk rdcH
+fiajd fldñIka iNdjg ,nd §u'
+m%cd;ka;%jdoh yd ixys¢hdj
+
 Yla;su;a lsÍu
- 
-lsis÷ wdldrhlska cd;sjdoh" wka;jdoh fyda 
-fnÿïjdoh m%j¾Okh fkdflf¾' cd;sh" wd.u" 
-l=,h" mka;sh fyda ia;%S mqreI Ndjh fkdi<ld 
+
+lsis÷ wdldrhlska cd;sjdoh" wka;jdoh fyda
+fnÿïjdoh m%j¾Okh fkdflf¾' cd;sh" wd.u"
+l=,h" mka;sh fyda ia;%S mqreI Ndjh fkdi<ld
 iEu mqrjeisfhl=u kS;sh bÈßfha iudkj ie<fla'
- 
-Y%S ,xldfõ j;auka wdKavql%u jHjia:dj hgf;a 
-wjYH mßÈ ff;%NdId m%;sm;a;sh l%shd;aul 
+
+Y%S ,xldfõ j;auka wdKavql%u jHjia:dj hgf;a
+wjYH mßÈ ff;%NdId m%;sm;a;sh l%shd;aul
 lrkafkuq'
- 
+
 ksfhdað;hka f;dard.kq ,nk ish¨
- 
-u wdh;kj, 
-ldka;d yd ;reK ksfhdackh iy;sl lsÍu i|yd 
+
+u wdh;kj,
+ldka;d yd ;reK ksfhdackh iy;sl lsÍu i|yd
 kS;s mkjkafkuq'
- 
-wd.ñl kdhlhka" md¾,sfïka;=j ksfhdackh 
-lrk foaYmd,k mlaI iy isú,a iudc 
-idudðlhka hk md¾Yajhka fj;ska ksis mßÈ 
-woyia úuiSï isÿfldg j;auka wdKavql%u 
-jHjia:dj fjkia fldg kj wdKavql%u 
-jHjia:djla iïmdokh lsÍug iu.s ck n,fõ.h 
-iu.s ck ikaOdkh lemù isà' tu l%shdj,sh 
-;=< §" wmf.a m%;sm;a;sh jkqfha wmf.a mj;akd 
-foaYmd,k l%uh tla rgla ;=, 13jk wdKavql%u 
-jHjia:d ixfYdaOkh u; mokï jQ Wmßu n,h 
-fn§ula o iys;j md¾,sfïka;= l%uhla lrd 
+
+wd.ñl kdhlhka" md¾,sfïka;=j ksfhdackh
+lrk foaYmd,k mlaI iy isú,a iudc
+idudðlhka hk md¾Yajhka fj;ska ksis mßÈ
+woyia úuiSï isÿfldg j;auka wdKavql%u
+jHjia:dj fjkia fldg kj wdKavql%u
+jHjia:djla iïmdokh lsÍug iu.s ck n,fõ.h
+iu.s ck ikaOdkh lemù isà' tu l%shdj,sh
+;=< §" wmf.a m%;sm;a;sh jkqfha wmf.a mj;akd
+foaYmd,k l%uh tla rgla ;=, 13jk wdKavql%u
+jHjia:d ixfYdaOkh u; mokï jQ Wmßu n,h
+fn§ula o iys;j md¾,sfïka;= l%uhla lrd
 mßj¾;kh lsÍuhs'
- 
-;SrK .ekSfï l%shdj,shg mqrjeishka l%shdldÍj 
-iïnkaO lr .ekSu i|yd Š.%du rdcHŸ iy 
-Šk.r rdcHŸ kï m%cdmdol m%cd;dka;%sl wdh;k 
+
+;SrK .ekSfï l%shdj,shg mqrjeishka l%shdldÍj
+iïnkaO lr .ekSu i|yd Š.%du rdcHŸ iy
+Šk.r rdcHŸ kï m%cdmdol m%cd;dka;%sl wdh;k
 ks¾udKh flfrkq we;'
- 
-kj jHjia:dj iïu; jk f;la jHjia:dfõ 
-13 jk ixfYdaOkh we;=¿ j;auka jHjia:dj 
-iïmQ¾Kfhka l%shd;aul lsÍug rch lemù isà' 
-wdKavql%u jHjia:dj u.ska m<d;a iNdj,g ,nd§ 
-we;s n,;, ckdêm;sjrhd úiska talmd¾Yaùhj 
-wdmiq ,nd .ekSug lghq;= fkdlrkq we;' m<d;a 
-uÜgñka isÿ flfrk ixj¾Ok ld¾hhka Yla;su;a 
-lrñka m<d;a iNd l%shd;aul ùu i|yd jk  
+
+kj jHjia:dj iïu; jk f;la jHjia:dfõ
+13 jk ixfYdaOkh we;=¿ j;auka jHjia:dj
+iïmQ¾Kfhka l%shd;aul lsÍug rch lemù isà'
+wdKavql%u jHjia:dj u.ska m<d;a iNdj,g ,nd§
+we;s n,;, ckdêm;sjrhd úiska talmd¾Yaùhj
+wdmiq ,nd .ekSug lghq;= fkdlrkq we;' m<d;a
+uÜgñka isÿ flfrk ixj¾Ok ld¾hhka Yla;su;a
+lrñka m<d;a iNd l%shd;aul ùu i|yd jk
 lemùu kej; im: lrkafkuq'
- 
+
 cd;sl rchla ^
 National Government
-& msysgqùug 
-l%shd l<fyd;a wud;H$ ksfhdacH wud;H$ rdcH 
-wud;H Oqr ixLHdj by< kexùug md¾,sfïka;=j 
-fj; yelshdj ,ndfok wdKavql%u jHjia:duh 
+& msysgqùug
+l%shd l<fyd;a wud;H$ ksfhdacH wud;H$ rdcH
+wud;H Oqr ixLHdj by< kexùug md¾,sfïka;=j
+fj; yelshdj ,ndfok wdKavql%u jHjia:duh
 úêúOdkh wj,x.= lfrkq we;'
- 
-cd;sl rchla msysgjqjo" wud;Hjreka ixLHdj 
+
+cd;sl rchla msysgjqjo" wud;Hjreka ixLHdj
 iïnkaOfhka mj;akd iSudj wod< jkq we;'
- 
-udi 06la we;=<; m<d;a iNd ue;sjrK 
-meje;afjk w;r Wmßu uQ,H ld¾hlaIu;djlska 
-yd iM,odhS;djlska hq;=j m<d;a iNd l%shd;aul 
-jk nj iy;sl lsÍug läkñka mshjr .kq 
+
+udi 06la we;=<; m<d;a iNd ue;sjrK
+meje;afjk w;r Wmßu uQ,H ld¾hlaIu;djlska
+yd iM,odhS;djlska hq;=j m<d;a iNd l%shd;aul
+jk nj iy;sl lsÍug läkñka mshjr .kq
 ,efí'
 34
- 
-md¾,sfïka;= j.lSï bgq lsÍfï§ wjYH m%ñ;Ska yd 
-uQ,O¾u ia:dms; lsÍu iy md¾,sfïka;=j flfrys 
-uyck úYajdih we;s lsÍu i|yd 2018'04'15 Èk 
-kS;shla njg m;a jQ md¾,sfïka;= uka;%Sjrekaf.a 
-p¾hd O¾u ix.%yh iïmQ¾Kfhka l%shd;aul 
-lsÍug mshjr .kq we;' Bg iu.dój" m<d;a iNd 
-uka;%Sjreka iy m<d;a md,k wdh;k uka;%Sjreka 
-úiska wkq.ukh l< hq;= p¾hd O¾u ix.%y i|yd 
-kS;s iïmdokh lsÍug o m%uqL;ajh fokq we;' 
- 
-m;alsÍï isÿ lsÍfï§ wud;Hjrekag ;u 
-wud;HdxYj, úIh m:hg wh;a rcfha yd w¾O 
-rdcH wdh;kj,g ;u mjqf,a idudðlhska n|jd 
+
+md¾,sfïka;= j.lSï bgq lsÍfï§ wjYH m%ñ;Ska yd
+uQ,O¾u ia:dms; lsÍu iy md¾,sfïka;=j flfrys
+uyck úYajdih we;s lsÍu i|yd 2018'04'15 Èk
+kS;shla njg m;a jQ md¾,sfïka;= uka;%Sjrekaf.a
+p¾hd O¾u ix.%yh iïmQ¾Kfhka l%shd;aul
+lsÍug mshjr .kq we;' Bg iu.dój" m<d;a iNd
+uka;%Sjreka iy m<d;a md,k wdh;k uka;%Sjreka
+úiska wkq.ukh l< hq;= p¾hd O¾u ix.%y i|yd
+kS;s iïmdokh lsÍug o m%uqL;ajh fokq we;'
+
+m;alsÍï isÿ lsÍfï§ wud;Hjrekag ;u
+wud;HdxYj, úIh m:hg wh;a rcfha yd w¾O
+rdcH wdh;kj,g ;u mjqf,a idudðlhska n|jd
 .ekSug wjir fkdfokq we;'
- 
-oekg wêlrKfha ¥IK fpdaokd iïnkaOfhka 
-wê fpdaokd ,en we;s mqoa.,hskag wkd.; 
-ue;sjrKj,§ kdu fhdackd fyda lsisÿ rcfha 
-;k;=rla ,nd fkdfokq we;' 
- 
-jrm%ido yd wkq.%yhka fya;=fldg uka;%Sjreka 
-mlaI udre lsÍu je<elaùug kS;s ixfYdaOk 
-y÷kajd §u iy ta yd iïnkaO wêlrK l%shdud¾. 
-udi 2la we;=<; wjika lsÍu wksjd¾h lrk 
+
+oekg wêlrKfha ¥IK fpdaokd iïnkaOfhka
+wê fpdaokd ,en we;s mqoa.,hskag wkd.;
+ue;sjrKj,§ kdu fhdackd fyda lsisÿ rcfha
+;k;=rla ,nd fkdfokq we;'
+
+jrm%ido yd wkq.%yhka fya;=fldg uka;%Sjreka
+mlaI udre lsÍu je<elaùug kS;s ixfYdaOk
+y÷kajd §u iy ta yd iïnkaO wêlrK l%shdud¾.
+udi 2la we;=<; wjika lsÍu wksjd¾h lrk
 úêúOdk bÈßm;a lrkq we; '
 úfoaY in|;d iy f
-j 
+j
 f<| ikaOdk
- 
-wm rdcHh nyq md¾Yùh úfoaY m%;sm;a;shla iys; 
-iaffjÍ rdcHhls' wmf.a oelau jkafka ish,a,ka 
-iuÕ ñ;=re ùu iy lsisfjl= iuÕ i;=re 
+
+wm rdcHh nyq md¾Yùh úfoaY m%;sm;a;shla iys;
+iaffjÍ rdcHhls' wmf.a oelau jkafka ish,a,ka
+iuÕ ñ;=re ùu iy lsisfjl= iuÕ i;=re
 fkdùuhs'
- 
-Y%S ,xldfõ úfoaY m%;sm;a;sh kS;sfha wdêm;Hh 
-iy cd;Hka;r iïuq;Ska u.ska n,.ekafjk yd  
-m%j¾Okh lrkakdjQ nyq md¾Yaùh m%;sm;a;shls' 
-fuys tk m%Odk uQ,O¾u ;=<g n,h Ndú;d 
-fkdlsÍu" .egqï iduldój ksrdlrKh lr.ekSu 
-iy udkj ysñlïj,g wkq.;j lghq;= lsÍu o 
+
+Y%S ,xldfõ úfoaY m%;sm;a;sh kS;sfha wdêm;Hh
+iy cd;Hka;r iïuq;Ska u.ska n,.ekafjk yd
+m%j¾Okh lrkakdjQ nyq md¾Yaùh m%;sm;a;shls'
+fuys tk m%Odk uQ,O¾u ;=<g n,h Ndú;d
+fkdlsÍu" .egqï iduldój ksrdlrKh lr.ekSu
+iy udkj ysñlïj,g wkq.;j lghq;= lsÍu o
 we;=<;a fõ'
- 
-yuqoduh ikaOdkj,ska f;drj wdikak iy 
-l,dmSh wi,ajeishka iuÕ iduldó iyÔjkh" 
-l,dmSh taldnoaO;dj m%j¾Okh lsÍfï kdhl;ajh 
-.ekSu uQ,sl m%;sm;a;s jkq we;' 
- 
+
+yuqoduh ikaOdkj,ska f;drj wdikak iy
+l,dmSh wi,ajeishka iuÕ iduldó iyÔjkh"
+l,dmSh taldnoaO;dj m%j¾Okh lsÍfï kdhl;ajh
+.ekSu uQ,sl m%;sm;a;s jkq we;'
+
 Y%S ,xldj ish¨
- 
- rgj,a iuÕ iïnkaO;d mj;ajk 
-w;r wd¾Ól rdcH ;dka;%slNdjh tys moku jkq  
-we;' wmf.a wd¾Ól rdcH ;dka;%sl Wmdh 
- 
-ud¾.sl wdfhdack" fj<|du iy ixpdrl 
+
+rgj,a iuÕ iïnkaO;d mj;ajk
+w;r wd¾Ól rdcH ;dka;%slNdjh tys moku jkq
+we;' wmf.a wd¾Ól rdcH ;dka;%sl Wmdh
+
+ud¾.sl wdfhdack" fj<|du iy ixpdrl
 l¾udka;h hk l=¨
- 
-kq u; f.dvkef.kq we;' 
+
+kq u; f.dvkef.kq we;'
 f.da,Sh f
-j 
-f<|m< ;=< Y%S ,xldj ia:dk.;j we;s 
-ia:dkh by<g Tijd ;nkq ms‡i tlai;a ckmo 
+j
+f<|m< ;=< Y%S ,xldj ia:dk.;j we;s
+ia:dkh by<g Tijd ;nkq ms‡i tlai;a ckmo
 fj<| ksfhdað;hkg iudk f
-j 
-f<| .kqfokq 
-i|yd jQ iqúfYaIS rdcH tallhla ia:dmkh ms<sn| 
-wjOdkh fhduq flfrk fj<| yd wdfhdack 
+j
+f<| .kqfokq
+i|yd jQ iqúfYaIS rdcH tallhla ia:dmkh ms<sn|
+wjOdkh fhduq flfrk fj<| yd wdfhdack
 m%;sm;a;shla f.dvk.kafkuq'
- 
-bkaÈhka id.r l,dmfha ck;djf.a Wmßu hym; 
-iy;sl lrñka" bkaÈhka id.rfha kS;s l%shd;aul 
-ùu m%j¾Okh lrkq we;' 
- 
+
+bkaÈhka id.r l,dmfha ck;djf.a Wmßu hym;
+iy;sl lrñka" bkaÈhka id.rfha kS;s l%shd;aul
+ùu m%j¾Okh lrkq we;'
+
 Y%S ,xldj l,dmSh f
-j 
-f<| ikaOdk i|yd lemù 
-isákq we;' 
- 
-75]l jD;a;Sh rdcH ;dka;%slhska iy Wmßu 
-jYfhka 25]l wfkl=;a m;alsÍïj, wdo¾Y 
-ñY%Khla iy;sl lrkafkuq' n|jd .ekSfï 
-l%shdj,sh m%;sixialrKh lrkq ,nk w;r 
-foaYmd,k{hskaf.a mjqf,a idudðlhska úfoaY 
-fiajfha ;k;=re i|yd m;a lsÍu ;ykï flfrkq 
-we;' 
+j
+f<| ikaOdk i|yd lemù
+isákq we;'
+
+75]l jD;a;Sh rdcH ;dka;%slhska iy Wmßu
+jYfhka 25]l wfkl=;a m;alsÍïj, wdo¾Y
+ñY%Khla iy;sl lrkafkuq' n|jd .ekSfï
+l%shdj,sh m%;sixialrKh lrkq ,nk w;r
+foaYmd,k{hskaf.a mjqf,a idudðlhska úfoaY
+fiajfha ;k;=re i|yd m;a lsÍu ;ykï flfrkq
+we;'
 cd;sl wdrlaIdj
- 
-¥ro¾YS yd Yla;su;a úfoaY m%;sm;a;s u; mokïjQ 
-wdrlaIl iyfhda.S;djka ;=<ska cd;sl wdrlaIdj 
-Yla;su;a lsÍu' 
- 
-kj kS;shla u.ska cd;sl wdrlaIl ljqkais,h 
-ia:dms; 
-fldg" thg wjYH n,;, mjrd §u' 
- 
-rfÜ wdrlaIdj" kS;sh yd iduh iy nqoaê wxY 
-wka;¾ iïnkaëlrKhla  iys;j lghq;= lrk 
-fjka fjka yd iajdëk tall f,i i<lkq we;' 
-fuu jHqyh ;=< taldnoaO nqoaê rduqjla ia:dms; 
-lsÍfuka rdcH nqoaê wxYhg jHqyd;aul ms<s 
-.ekSula ,nd fokq we;' fuu iïnkaëlrK 
-m%fõYh u.ska f;dr;=re yqjudrej jeäÈhqKq 
-lrkq we;s w;r" fufyhqï ld¾hlaIu lrñka" 
-tla tla wxYfha iajdëk;ajh mj;ajd .ksñka 
-iuia; cd;sl wdrlaIl yelshdjka jeäÈhqKq 
-lrkq we;' fuu rduqj u.ska iajdëk wdh;k 
-w;r ld¾hlaIu iyfhda.S;dj iy;sl lrk 
-w;r Yla;su;a yd m%;spdrd;aul cd;sl wdrlaIl 
+
+¥ro¾YS yd Yla;su;a úfoaY m%;sm;a;s u; mokïjQ
+wdrlaIl iyfhda.S;djka ;=<ska cd;sl wdrlaIdj
+Yla;su;a lsÍu'
+
+kj kS;shla u.ska cd;sl wdrlaIl ljqkais,h
+ia:dms;
+fldg" thg wjYH n,;, mjrd §u'
+
+rfÜ wdrlaIdj" kS;sh yd iduh iy nqoaê wxY
+wka;¾ iïnkaëlrKhla iys;j lghq;= lrk
+fjka fjka yd iajdëk tall f,i i<lkq we;'
+fuu jHqyh ;=< taldnoaO nqoaê rduqjla ia:dms;
+lsÍfuka rdcH nqoaê wxYhg jHqyd;aul ms<s
+.ekSula ,nd fokq we;' fuu iïnkaëlrK
+m%fõYh u.ska f;dr;=re yqjudrej jeäÈhqKq
+lrkq we;s w;r" fufyhqï ld¾hlaIu lrñka"
+tla tla wxYfha iajdëk;ajh mj;ajd .ksñka
+iuia; cd;sl wdrlaIl yelshdjka jeäÈhqKq
+lrkq we;' fuu rduqj u.ska iajdëk wdh;k
+w;r ld¾hlaIu iyfhda.S;dj iy;sl lrk
+w;r Yla;su;a yd m%;spdrd;aul cd;sl wdrlaIl
 hdka;%Khla ks¾udKh lrkq we;'
- 
-hqo yuqodj" kdúl yuqodj" .=jka yuqodj hk 
-ikakoaO yuqodjka iy isú,a wdrlaIl n,ldh 
-i|yd w;HjYH ;dlaI‡l myiqlï" kùk wdhqO" 
-WmlrK iy foaYSh yd úfoaYSh mqyqKqj m%udKj;a 
-f,i ,nd§u' ;%súO yuqodfõ iy isú,a wdrlaIl 
-ld¾h uKav,fha /lshd iqrlaIs; flfrkq we;' 
-Tjqkag by< jegqma" §ukd iy iqNidOk m%;s,dN 
+
+hqo yuqodj" kdúl yuqodj" .=jka yuqodj hk
+ikakoaO yuqodjka iy isú,a wdrlaIl n,ldh
+i|yd w;HjYH ;dlaI‡l myiqlï" kùk wdhqO"
+WmlrK iy foaYSh yd úfoaYSh mqyqKqj m%udKj;a
+f,i ,nd§u' ;%súO yuqodfõ iy isú,a wdrlaIl
+ld¾h uKav,fha /lshd iqrlaIs; flfrkq we;'
+Tjqkag by< jegqma" §ukd iy iqNidOk m%;s,dN
 ,nd §ug iy;sl fjkq we;'
- 
-wdh;ksl m%;sixialrK yryd ikakoaO yuqodjka 
-úis tla fjks ishjig .e<fmk mßÈ kùlrKh 
+
+wdh;ksl m%;sixialrK yryd ikakoaO yuqodjka
+úis tla fjks ishjig .e<fmk mßÈ kùlrKh
 lsÍu'
- 
+
 tfiau ish¨
- 
-u cd;Ska yd wd.ñl lKavdhï 
-fj;  ksiÕfhkau ,eìh hq;= f.!rjh ,nd fok 
+
+u cd;Ska yd wd.ñl lKavdhï
+fj; ksiÕfhkau ,eìh hq;= f.!rjh ,nd fok
 wdldrfhka lghq;= lsÍu yd ish¨
- 
-u ck lKavdhï 
-w;r wfkHdkH iyfhda.s;dj mokï fldg .ekSu 
+
+u ck lKavdhï
+w;r wfkHdkH iyfhda.s;dj mokï fldg .ekSu
 ;srir wdrlaIdjl moku jkq we;'
 35
-kS;sh yd iduh  
- 
+kS;sh yd iduh
+
 mdial= breÈ
-k fndaïn m%ydrfha úkaÈ;hkag 
-hqla;sh bgq lsÍu i|yd 1948 wxl 17 ork 
-mÍlaIK fldñIka iNd mkf;a 2 ^1& ^we& j.ka;sh 
-m%ldrj úêu;a f,i n,h mjrk ,o mÍlaIK 
-fldñIka iNdjla udi 3la ;=< msysgqjkq we;' tu 
-fldñIka iNdfõ ks¾foaY u; mokïj mdial= 
-breÈk m%ydrh i|yd j.lsj hq;= wmrdOlrejkag 
+k fndaïn m%ydrfha úkaÈ;hkag
+hqla;sh bgq lsÍu i|yd 1948 wxl 17 ork
+mÍlaIK fldñIka iNd mkf;a 2 ^1& ^we& j.ka;sh
+m%ldrj úêu;a f,i n,h mjrk ,o mÍlaIK
+fldñIka iNdjla udi 3la ;=< msysgqjkq we;' tu
+fldñIka iNdfõ ks¾foaY u; mokïj mdial=
+breÈk m%ydrh i|yd j.lsj hq;= wmrdOlrejkag
 tfrysj ;%smqoa., iaÒr uydêlrKhla ^
-Trial at 
+Trial at
 bar
-& u.ska Èkm;d kvq úNd. lr o~qjï ,nd §u 
-rcfha m%uqL j.lSula f,i i<lkq ,efí'  
- 
-miq.sh rcfha mYapd;a wdodyk m%;sm;a;sh 
-úu¾Ykh lrkq ,en ksis kS;suh l%shdud¾. yryd 
+& u.ska Èkm;d kvq úNd. lr o~qjï ,nd §u
+rcfha m%uqL j.lSula f,i i<lkq ,efí'
+
+miq.sh rcfha mYapd;a wdodyk m%;sm;a;sh
+úu¾Ykh lrkq ,en ksis kS;suh l%shdud¾. yryd
 thg j.lsj hq;a;ka j.lSug ne| ;nkq we;'
- 
-oekg y÷kajd § ;sfnk ;%ia;jdoh je<elaùfï 
-mk; ^;djld,sl úêúOdk& wfydais lr rfÜ 
-wdrlaIdj iy udkj ysñlï iqrlsk jvd;a hym;a 
-jQ ;%ia;jdoh je<elaùfï kj kS;shla ia:dms; 
-lrkq we;'  
- 
-isú,a iy foaYmd,k whs;sjdislï ms<sn| 
+
+oekg y÷kajd § ;sfnk ;%ia;jdoh je<elaùfï
+mk; ^;djld,sl úêúOdk& wfydais lr rfÜ
+wdrlaIdj iy udkj ysñlï iqrlsk jvd;a hym;a
+jQ ;%ia;jdoh je<elaùfï kj kS;shla ia:dms;
+lrkq we;'
+
+isú,a iy foaYmd,k whs;sjdislï ms<sn|
 cd;Hka;r iïuq;sfha ^
 ICCPR
-& kS;sh n,OdÍka 
-úiska wjNdú;d lsÍu je,elaùu ms‡i wjYH 
-kS;suh ixfYdaOk isÿ lrkq we;' ffjÍ m%ldY 
-me;sÍu je<elaùug wjYH kS;s hdka;%Kh 
+& kS;sh n,OdÍka
+úiska wjNdú;d lsÍu je,elaùu ms‡i wjYH
+kS;suh ixfYdaOk isÿ lrkq we;' ffjÍ m%ldY
+me;sÍu je<elaùug wjYH kS;s hdka;%Kh
 Yla;su;a lsÍug rch lemù isà'
- 
-hqla;sfha .=Kd;aulNdjh jeä ÈhqKq lsÍu iy 
-kS;s m%udohka wju lsÍu i|yd jir 5la we;=<; 
-wêlrK moaO;sh iïmQ¾Kfhkau äðg,alrKh 
+
+hqla;sfha .=Kd;aulNdjh jeä ÈhqKq lsÍu iy
+kS;s m%udohka wju lsÍu i|yd jir 5la we;=<;
+wêlrK moaO;sh iïmQ¾Kfhkau äðg,alrKh
 flfrkq we;'
- 
-Y%S ,xld kS;s wdOdr fldñIka iNdj ;jÿrg;a 
-Yla;su;a lrkq ,nk w;r mqrjeishka fj; iEu 
-j¾.hlu kvq i|yd kS;s wdOdr ,nd §u ;yjqre 
-flf¾' 
- 
-iEu iu:uQ, uKav,hla i|ydu fjka jQ iaÒr 
-ld¾hd,hla m%dfoaYSh f,alï ld¾hd, ;=< 
-ia:dmkh lrkq ,nk w;r Bg wjYH m%udKj;a 
-myiqlï ,nd § iaÒr ld¾h uKav,hla m;a lrkq 
-we;' 
- 
-foaYmd,ksl fya;= u; b,a,d wialrf.k we;s 
-wmrdO kvq kj rch n,hg m;aù udi 03la 
-we;=<; kej; mejÍug lghq;= lrkq we;'  
- 
-wd¾Ól w¾nqofhka widOdrKhg ,lajQ mqoa.,hkag 
-bÈßhg;a tu w¾nqohg j.lsj hq;= 
- 
-mqoa.,hkaf.ka jkaÈ ,nd .ekSug yelsjk mßÈ 
-wêlrK l%shdud¾. .ekSug iydh ,nd fokq we;' 
- 
-jir 150 lg jvd mer‡ fmd,sia wd{dmk; 
-hdj;ald,Sk fldg fmd,sia ks,Orhskaf.a n|jd 
-.ekSï" Wiiaùï iy ia:dk udreùï läkñka iy 
-idOdrKj bgq lrjd .ekSug wjYH úêúOdk 
-i,ik w;r fmd,sia ks,Orhskag wjYH m%udKj;a 
-myiqlï ,nd§ fmd,sia fiajh cd;Hka;r uÜgug 
-kùlrKh lsÍug lghq;= lrkq we;'  
- 
-Èjhsk mqrd 119 yÈis weu;=ï i|yd úkdä 30la 
-we;=<; m%;spdr olajkq ,nk njg j.n,d 
-.kq ms‡i fmd,sia fomd¾;fïka;=jg wjYH 
-iïm;a ,nd§ fmd,sia fomd¾;fïka;=fõ lghq;= 
-äðg,alrKh lrkq we;' 
+
+Y%S ,xld kS;s wdOdr fldñIka iNdj ;jÿrg;a
+Yla;su;a lrkq ,nk w;r mqrjeishka fj; iEu
+j¾.hlu kvq i|yd kS;s wdOdr ,nd §u ;yjqre
+flf¾'
+
+iEu iu:uQ, uKav,hla i|ydu fjka jQ iaÒr
+ld¾hd,hla m%dfoaYSh f,alï ld¾hd, ;=<
+ia:dmkh lrkq ,nk w;r Bg wjYH m%udKj;a
+myiqlï ,nd § iaÒr ld¾h uKav,hla m;a lrkq
+we;'
+
+foaYmd,ksl fya;= u; b,a,d wialrf.k we;s
+wmrdO kvq kj rch n,hg m;aù udi 03la
+we;=<; kej; mejÍug lghq;= lrkq we;'
+
+wd¾Ól w¾nqofhka widOdrKhg ,lajQ mqoa.,hkag
+bÈßhg;a tu w¾nqohg j.lsj hq;=
+
+mqoa.,hkaf.ka jkaÈ ,nd .ekSug yelsjk mßÈ
+wêlrK l%shdud¾. .ekSug iydh ,nd fokq we;'
+
+jir 150 lg jvd mer‡ fmd,sia wd{dmk;
+hdj;ald,Sk fldg fmd,sia ks,Orhskaf.a n|jd
+.ekSï" Wiiaùï iy ia:dk udreùï läkñka iy
+idOdrKj bgq lrjd .ekSug wjYH úêúOdk
+i,ik w;r fmd,sia ks,Orhskag wjYH m%udKj;a
+myiqlï ,nd§ fmd,sia fiajh cd;Hka;r uÜgug
+kùlrKh lsÍug lghq;= lrkq we;'
+
+Èjhsk mqrd 119 yÈis weu;=ï i|yd úkdä 30la
+we;=<; m%;spdr olajkq ,nk njg j.n,d
+.kq ms‡i fmd,sia fomd¾;fïka;=jg wjYH
+iïm;a ,nd§ fmd,sia fomd¾;fïka;=fõ lghq;=
+äðg,alrKh lrkq we;'
 s
- 
-uE;l§ iïu; lrk ,o 2023 wxl 9 ork ¥IK 
-úfrdaë mk; läkñka l%shd;aul lsÍu i|yd 
-wjYH myiqlï iy mqyqKqj ,nd fokq we;' 
- 
-kvq mejÍfï iajdëk;ajh iy ld¾hlaIu;dj 
-iy;sl lsÍu i|yd iajdëk uyck wNsfpdaol 
-ld¾hd,hla ia:dms; flfrkq we;' 
- 
-oekgu;a md¾,sfïka;=jg bÈßm;a lr we;s 
-fidrlï lrk ,o j;alï m%;sidOk mk;a 
-flgqïm; 
+
+uE;l§ iïu; lrk ,o 2023 wxl 9 ork ¥IK
+úfrdaë mk; läkñka l%shd;aul lsÍu i|yd
+wjYH myiqlï iy mqyqKqj ,nd fokq we;'
+
+kvq mejÍfï iajdëk;ajh iy ld¾hlaIu;dj
+iy;sl lsÍu i|yd iajdëk uyck wNsfpdaol
+ld¾hd,hla ia:dms; flfrkq we;'
+
+oekgu;a md¾,sfïka;=jg bÈßm;a lr we;s
+fidrlï lrk ,o j;alï m%;sidOk mk;a
+flgqïm;
 (StolenAssets Recovery Bill
-& kj 
-rchla f;aÍ m;aù udihla we;=<; iïu; 
-flfrkq we;' ¥IK l%shd u.ska meyer .;a j;alï 
+& kj
+rchla f;aÍ m;aù udihla we;=<; iïu;
+flfrkq we;' ¥IK l%shd u.ska meyer .;a j;alï
 m%;sidOkh lsÍu läkñka isÿ flfrkq we;'
- 
-oekg msysgqjd we;s ¥IK úfrdaë iaÒr ;%smqoa., 
-uydêlrKh h<s n,.kajd w,a,ia iy ¥IK 
+
+oekg msysgqjd we;s ¥IK úfrdaë iaÒr ;%smqoa.,
+uydêlrKh h<s n,.kajd w,a,ia iy ¥IK
 iïnkaO kvq wm%udoj Èkm;d úNd. lsÍug ^
 Day-
 to-day trials
-& wjYH jd;djrKh ilia lrkq we;' 
+& wjYH jd;djrKh ilia lrkq we;'
 u;a Wjÿr ue~,Su
- 
-Y%S ,xldjg u;aøjH f.k tau je<elaùu yd 
-Y%S ,xldj yryd jeà we;s cd;Hka;r u;aøjH 
-m%jdyk ud¾. ì| oeóu i|yd wka;¾cd;sl 
-fmd,Sish iy wfkl=;a úfoaYSh nqoaê fiajdjka 
-iu. jvd;a iómj lghq;= lrkq we;'   
- 
-uyd mßudK u;aøjH cdjdrïlrejkag tfrys 
-kvq udi 06la ;=< úNd. lr o~qjï lsÍu i|yd 
-u;aøjH úfrdaë úfYaI uydêlrKhla 
+
+Y%S ,xldjg u;aøjH f.k tau je<elaùu yd
+Y%S ,xldj yryd jeà we;s cd;Hka;r u;aøjH
+m%jdyk ud¾. ì| oeóu i|yd wka;¾cd;sl
+fmd,Sish iy wfkl=;a úfoaYSh nqoaê fiajdjka
+iu. jvd;a iómj lghq;= lrkq we;'
+
+uyd mßudK u;aøjH cdjdrïlrejkag tfrys
+kvq udi 06la ;=< úNd. lr o~qjï lsÍu i|yd
+u;aøjH úfrdaë úfYaI uydêlrKhla
 (Anti-
 narcotic special high court
-& msysgqjkq ,efí' 
- 
-u;aøjHhkag weíneys jQ ;eke;a;ka 
-mqkre;a:dmkh fldg iudchg tla lsÍu i|yd 
-kùk myiqlïj,ska hq;= mqkre;a:dmk uOHia:dk 
-25 la rg mqrd msysgqjkq ,efí' 
- 
-jir 02 la ;=< úI u;aøjH cdjdru iyuq,skau 
-wjika lsÍug lghq;= lrkafkuq'     
+& msysgqjkq ,efí'
+
+u;aøjHhkag weíneys jQ ;eke;a;ka
+mqkre;a:dmkh fldg iudchg tla lsÍu i|yd
+kùk myiqlïj,ska hq;= mqkre;a:dmk uOHia:dk
+25 la rg mqrd msysgqjkq ,efí'
+
+jir 02 la ;=< úI u;aøjH cdjdru iyuq,skau
+wjika lsÍug lghq;= lrkafkuq'
 36
- 
-u;ameka Ndú;h iy ÿï mdkh wffO¾hu;a 
-lsÍug lghq;= lrk w;r wl%uj;a f,i uE; 
-ld,h ;=< ,nd§ we;s Šu;ameka n,m;aŸ wj,x.= 
+
+u;ameka Ndú;h iy ÿï mdkh wffO¾hu;a
+lsÍug lghq;= lrk w;r wl%uj;a f,i uE;
+ld,h ;=< ,nd§ we;s Šu;ameka n,m;aŸ wj,x.=
 lsÍug lghq;= lrkafkuq'
 ;srir mßirh
- 
+
 ish¨
- 
- wxYhkays tlai;a cd;Skaf.a ;srir ixj¾Ok 
-wNsu;d¾: idlaId;a lr.ekSfï wNs,dY flfrys 
-wmf.a lemùu im: lrk w;r ixj¾Ok 
-l%shdj,sh ;=< mßirh wdrlaId lsÍug j.n,d.kq 
-we;' 1980 cd;sl mdßißl mk; ^ixfYdaOk iys;& 
-iy fiiq kS;s iy fr.=,diso hdj;ald,Sk lrkq 
+
+wxYhkays tlai;a cd;Skaf.a ;srir ixj¾Ok
+wNsu;d¾: idlaId;a lr.ekSfï wNs,dY flfrys
+wmf.a lemùu im: lrk w;r ixj¾Ok
+l%shdj,sh ;=< mßirh wdrlaId lsÍug j.n,d.kq
+we;' 1980 cd;sl mdßißl mk; ^ixfYdaOk iys;&
+iy fiiq kS;s iy fr.=,diso hdj;ald,Sk lrkq
 we;'
- 
-iQ¾h úÿ,s n,h" iq<x úÿ,s n,h" fmdïm .nvd" 
-r< úÿ,sh" yß; yhsv%cka" ffcj ialkaO 
- 
+
+iQ¾h úÿ,s n,h" iq<x úÿ,s n,h" fmdïm .nvd"
+r< úÿ,sh" yß; yhsv%cka" ffcj ialkaO
+
 ^
 Bio-mass
-& we;=¿ mqk¾ckkSh n,Yla;s uQ,dY% 
-m%j¾Okh lsÍu u.ska o iïfma%IK moaO;sh ;=< 
-mßir ys;ldó úl,am n,Yla;s uQ,dY% y÷kajd§u 
-u.ska o f.da,Sh WKqiqu md,kh lsÍu ms<sn| 
-meßia iïuq;sfha we;s tlÕ;djka wkqj lghq;= 
-lsÍug wjYH m%uqL;dj ,nd fokq we;' 
- 
-ksr;=re uyck;dj iu. .efgkakdjQ w,ska" 
-j÷rka" fudKreka iy fiiq i;=kao flfrys 
-wjOdkh fhduq lrñka i;=ka iy ñksiqka w;r 
-we;sjkakdjQ .egqï iukh i|yd úoHd;aul 
-mokulska hq;a" mdßißlj ;srir jQ úi÷ï 
+& we;=¿ mqk¾ckkSh n,Yla;s uQ,dY%
+m%j¾Okh lsÍu u.ska o iïfma%IK moaO;sh ;=<
+mßir ys;ldó úl,am n,Yla;s uQ,dY% y÷kajd§u
+u.ska o f.da,Sh WKqiqu md,kh lsÍu ms<sn|
+meßia iïuq;sfha we;s tlÕ;djka wkqj lghq;=
+lsÍug wjYH m%uqL;dj ,nd fokq we;'
+
+ksr;=re uyck;dj iu. .efgkakdjQ w,ska"
+j÷rka" fudKreka iy fiiq i;=kao flfrys
+wjOdkh fhduq lrñka i;=ka iy ñksiqka w;r
+we;sjkakdjQ .egqï iukh i|yd úoHd;aul
+mokulska hq;a" mdßißlj ;srir jQ úi÷ï
 l%shd;aul lsÍug wm rch lemfõ'
 ið;a fma%uodi jk udf.a kdhl;ajfhka
- 
-iu.s ck ikaOdk rcfha m%;sm;a;s iy 
- 
-ta hgf;a l%shd;aul lsÍug ie,iqï lr 
+
+iu.s ck ikaOdk rcfha m%;sm;a;s iy
+
+ta hgf;a l%shd;aul lsÍug ie,iqï lr
 we;s bÈß jevigyka ms<sn|j ixlaIsm
-a 
-; 
-idrdxYhla Tnf.a oek.ekSu ms‡i fuf,i 
-uqøKh lrk ,§'  
-fuu uQ,sl ixl,am rduqjg tlÕ fjñka 
-tla tla lafIa;%h iïnkaOfhka lghq;= lrk 
-úfYaI{hska" jD;a;slhska iy l%shdldÍka 
-iuÕ mq¿,a ixjdohlska miqj we;s lr .;a 
-tlÕ;djka" m%;sm;a;Ska yd m%{ma;Ska f,i fuu 
+a
+;
+idrdxYhla Tnf.a oek.ekSu ms‡i fuf,i
+uqøKh lrk ,§'
+fuu uQ,sl ixl,am rduqjg tlÕ fjñka
+tla tla lafIa;%h iïnkaOfhka lghq;= lrk
+úfYaI{hska" jD;a;slhska iy l%shdldÍka
+iuÕ mq¿,a ixjdohlska miqj we;s lr .;a
+tlÕ;djka" m%;sm;a;Ska yd m%{ma;Ska f,i fuu
 m%;sm;a;s m%ldYhg iu.dój t<solajkq we;'
 38
 Tnf.a äðg,a msgm; fu;ekska nd.; lrkak
