@@ -110,23 +110,24 @@ class Manifesto:
     @property
     def source(self):
         return self.metadata_idx()[self.id]['source']
-    
 
-    # Wordcloud 
+    # Wordcloud
     @cached_property
     def wordcloud_path(self):
         return os.path.join('data', 'wordclouds', f'{self.id}.png')
 
     def build_wordcloud(self):
+        if self.n_words == 0 or self.lang_code != 'en':
+            return
+        
         plt.close()
         wc = WordCloud(
             background_color="white",
             repeat=True,
-
             width=2000,
             height=3000,
         )
-        wc.generate(self.words)
+        wc.generate(self.content)
         plt.figure()
         plt.imshow(wc, interpolation="bilinear")
         plt.axis("off")
@@ -135,7 +136,6 @@ class Manifesto:
         plt.savefig(self.wordcloud_path, dpi=150, bbox_inches='tight')
         log.info(f"Wrote {self.wordcloud_path}.")
         return self.wordcloud_path
-
 
     # README
     @cached_property
