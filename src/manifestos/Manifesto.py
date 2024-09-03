@@ -168,7 +168,7 @@ class Manifesto:
     @cached_property
     def readme_line_label(self):
         return (
-            f'{self.lang} ('
+            f'`{self.lang}` ('
             + ', '.join(
                 [
                     f'{self.n_pages} Pages',
@@ -189,26 +189,26 @@ class Manifesto:
 
     @cached_property
     def source_link(self):
-        return f'[Original Source]({self.source})'
+        return f'[`Original Source`]({self.source})'
 
     @cached_property
     def raw_text_link(self):
         if not os.path.exists(self.txt_path):
             return None
-        return f'[Raw Text]({self.txt_path})'
+        return f'[`Raw Text`]({self.txt_path})'
 
     @cached_property
     def wordcloud_link(self):
         if not os.path.exists(self.wordcloud_path):
             return None
-        return f'[Wordcloud]({self.wordcloud_path})'
+        return f'[`Wordcloud`]({self.wordcloud_path})'
 
     @cached_property
     def readme_line(self):
         self.build_wordcloud()
         return f'* ' + ' · '.join(
             [
-                f'`{x}`'
+                f'{x}'
                 for x in [
                     self.pdf_link,
                     self.source_link,
