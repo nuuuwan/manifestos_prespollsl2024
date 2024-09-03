@@ -1,6 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of **2024-09-03 14:27:54**. 
+This repository contains the manifestos I could find as of **2024-09-03 14:29:31**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -14,13 +14,13 @@ This repository contains the manifestos I could find as of **2024-09-03 14:27:54
 
 ## Anura Kumara Dissanayake (National People's Power)
 
-* [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf) · [Raw Text](data\txt\npp-en.txt) · [Wordcloud](data\wordclouds\npp-en.png)
+* [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf) · [Raw Text](data\txt\npp-en.txt) · [Wordcloud](data/wordclouds/npp-en.png)
 * [සිංහල (233 Pages, 38.3K Words, 26.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-si.pdf) · [Original Source](https://www.npp.lk/up/policies/si/npppolicystatement.pdf) · [Raw Text](data\txt\npp-si.txt)
 * [தமிழ் (233 Pages, 16.0K Words, 8.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-ta.pdf) · [Original Source](https://www.npp.lk/up/policies/ta/npppolicystatement.pdf) · [Raw Text](data\txt\npp-ta.txt)
 
 ## Sajith Premadasa (Samagi Jana Balawegaya)
 
-* [English (44 Pages, 10.9K Words, 21.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-en.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e4698e32d285739c6ac_SajithPremadasa_policy-manifesto-english-compressed.pdf) · [Raw Text](data\txt\sjb-en.txt) · [Wordcloud](data\wordclouds\sjb-en.png) · [Summary](data\summary\sjb-en.md)
+* [English (44 Pages, 10.9K Words, 21.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-en.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e4698e32d285739c6ac_SajithPremadasa_policy-manifesto-english-compressed.pdf) · [Raw Text](data\txt\sjb-en.txt) · [Wordcloud](data/wordclouds/sjb-en.png) · [Summary](data/summary/sjb-en.md)
 * [සිංහල (38 Pages, 12.5K Words, 20.4MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-si.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32ef6a457cbb2fd19ac73_SajithPremadasa_policy-manifesto-sinhala-compressed.pdf) · [Raw Text](data\txt\sjb-si.txt)
 * [தமிழ் (60 Pages, 16.5K Words, 4.3MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-ta.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e462d19d928e43d0d0b_SajithPremadasa_policy-manifesto-tamil-compressed.pdf) · [Raw Text](data\txt\sjb-ta.txt)
 
