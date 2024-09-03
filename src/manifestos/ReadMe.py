@@ -25,17 +25,15 @@ class ReadMe:
                 '',
                 'This repository contains the manifestos '
                 + f'I could find as of **{time_str}**. ',
-
             ]
             + self.get_manifesto_lines()
             + [
                 '',
                 'Note: The English Version of Namal Rajapakse\'s Manifesto '
                 + 'is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).',
-                                '',
-        
+                '',
                 '...',
-                                '',
+                '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
                 '',
