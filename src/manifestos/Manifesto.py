@@ -1,9 +1,10 @@
 import os
 from dataclasses import dataclass
 from functools import cached_property
-from wordcloud import WordCloud
+
 import matplotlib.pyplot as plt
 from utils import File, JSONFile, Log
+from wordcloud import WordCloud
 
 log = Log('Manifesto')
 
@@ -119,7 +120,7 @@ class Manifesto:
     def build_wordcloud(self):
         if self.n_words == 0 or self.lang_code != 'en':
             return
-        
+
         plt.close()
         wc = WordCloud(
             background_color="white",
