@@ -83,7 +83,7 @@ Here are the top 5 reasons to vote for the National People’s Power (NPP) party
 5. **Education and Health as Priorities**:
    - The NPP pledges to increase investment in education and health, making these sectors accessible and high-quality. Their plan to integrate Western and Indigenous healthcare systems and provide free, equitable education aligns with voters who prioritize public services.
 
-## Top 5 Reasons Not to Vote this NPP Party
+## Top 5 Reasons Not to Vote this Party
 
 1. **Overly Ambitious Promises**:
    - Some of the NPP’s promises, such as completely eradicating corruption, reclaiming looted wealth, or transitioning entirely to a circular economy, may seem unrealistic or difficult to achieve within a single government term. Voters may be skeptical of the feasibility of these goals.
