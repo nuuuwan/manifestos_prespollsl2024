@@ -55,6 +55,7 @@ class Manifesto:
     def file_size(self):
         return os.path.getsize(self.file_path)
 
+    # PDF 
     @cached_property
     def n_pages(self):
         from PyPDF2 import PdfFileReader
@@ -62,6 +63,21 @@ class Manifesto:
         with open(self.file_path, 'rb') as f:
             pdf = PdfFileReader(f)
             return pdf.getNumPages()
+
+    @cached_property
+    def content(self):
+        from PyPDF2 import PdfFileReader
+
+        with open(self.file_path, 'rb') as f:
+            pdf = PdfFileReader(f)
+            text = ''
+            for i in range(pdf.getNumPages()):
+                text += pdf.getPage(i).extract_text()
+            return text
+        
+    @cached_property
+    def n_words(self):
+        return len(self.content.split())
 
     # metadata.json
     @staticmethod
@@ -75,7 +91,7 @@ class Manifesto:
     # README
     @cached_property
     def readme_line_label(self):
-        return f'{self.lang} ({self.n_pages} Pages, {self.file_size / 1_000_000:.1f}MB)'
+        return f'{self.lang} ({self.n_pages} Pages, {self.n_words:,} Words, {self.file_size / 1_000_000:.1f}MB)'
 
     @cached_property
     def pdf_url(self):
