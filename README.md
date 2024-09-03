@@ -1,6 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of **2024-09-03 15:51:56**. 
+This repository contains the manifestos I could find as of **2024-09-03 15:52:39**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -14,7 +14,7 @@ This repository contains the manifestos I could find as of **2024-09-03 15:51:56
 
 ## Anura Kumara Dissanayake (National People's Power)
 
-![Anura Kumara Dissanayake (National People's Power) Wordcloud](data/wordclouds/npp-en.png)
+![npp-en Wordcloud](data/wordclouds/npp-en.png)
 
 [Summary](data/summary/npp-en.md)
 
@@ -24,7 +24,7 @@ This repository contains the manifestos I could find as of **2024-09-03 15:51:56
 
 ## Sajith Premadasa (Samagi Jana Balawegaya)
 
-![Sajith Premadasa (Samagi Jana Balawegaya) Wordcloud](data/wordclouds/sjb-en.png)
+![sjb-en Wordcloud](data/wordclouds/sjb-en.png)
 
 [Summary](data/summary/sjb-en.md)
 
@@ -34,7 +34,7 @@ This repository contains the manifestos I could find as of **2024-09-03 15:51:56
 
 ## Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
-![Namal Rajapakse (Sri Lanka Podujana Peramuna) Wordcloud](data/wordclouds/slpp-en.png)
+![slpp-en Wordcloud](data/wordclouds/slpp-en.png)
 
 [Summary](data/summary/slpp-en.md)
 
