@@ -151,8 +151,8 @@ class Manifesto:
         wc = WordCloud(
             background_color="white",
             repeat=True,
-            width=2000,
-            height=3000,
+            width=1600,
+            height=900,
         )
         wc.generate(self.content_ascii)
         wc.recolor(color_func=Color.lk)
@@ -243,7 +243,7 @@ class Manifesto:
     def readme_wordcloud(self):
         if not os.path.exists(self.wordcloud_path):
             return None
-        return f'![{self.party} Wordcloud]({self.wordcloud_path_unix})'
+        return f'![{self.id} Wordcloud]({self.wordcloud_path_unix})'
 
     # Loaders
     @classmethod
@@ -277,7 +277,7 @@ class Manifesto:
             if first_manifesto.readme_wordcloud:
                 lines.append(first_manifesto.readme_wordcloud)
             if first_manifesto.summary_link:
-                lines.append(first_manifesto.summary_link)
+                lines.extend(['', first_manifesto.summary_link, ''])
             for manifesto in manifesto_list:
                 lines.append(manifesto.readme_line)
         return lines
