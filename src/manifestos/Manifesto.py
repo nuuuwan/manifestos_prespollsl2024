@@ -132,6 +132,10 @@ class Manifesto:
     @cached_property
     def wordcloud_path(self):
         return os.path.join('data', 'wordclouds', f'{self.id}.png')
+    
+    @cached_property
+    def wordcloud_path_unix(self):
+        return self.wordcloud_path.replace('\\', '/')
 
     def build_wordcloud(self):
         if self.n_words == 0 or self.lang_code != 'en':
@@ -201,17 +205,21 @@ class Manifesto:
     def wordcloud_link(self):
         if not os.path.exists(self.wordcloud_path):
             return None
-        return f'[Wordcloud]({self.wordcloud_path})'
+        return f'[Wordcloud]({self.wordcloud_path_unix})'
 
     @cached_property
     def summary_path(self):
         return os.path.join('data', 'summary', f'{self.id}.md')
 
     @cached_property
+    def summary_path_unix(self):
+        return self.summary_path.replace('\\', '/')
+
+    @cached_property
     def summary_link(self):
         if not os.path.exists(self.summary_path):
             return None
-        return f'[Summary]({self.summary_path})'
+        return f'[Summary]({self.summary_path_unix})'
 
     @cached_property
     def readme_line(self):
