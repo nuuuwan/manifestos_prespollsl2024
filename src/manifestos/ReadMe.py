@@ -22,7 +22,8 @@ class ReadMe:
                 '# 2024 Sri Lankan Presidential Election Manifestos '
                 + '(manifestos_prespollsl2024)',
                 '',
-                'This repository contains the manifestos '+'I could find online thus far. ',
+                'This repository contains the manifestos '
+                + 'I could find online thus far. ',
                 '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
