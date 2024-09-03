@@ -234,7 +234,6 @@ class Manifesto:
                 for x in [
                     self.pdf_link,
                     self.source_link,
-                    self.raw_text_link,
                     self.wordcloud_link,
                     self.summary_link,
                 ]
