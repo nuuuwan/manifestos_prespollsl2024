@@ -96,7 +96,6 @@ class Manifesto:
     @cached_property
     def txt_path(self):
         return os.path.join('data', 'txt', f'{self.id}.txt')
-    
 
     @cached_property
     def txt_path_unix(self):
