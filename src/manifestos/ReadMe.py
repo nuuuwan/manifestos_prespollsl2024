@@ -26,7 +26,7 @@ class ReadMe:
                 '* Most unrealistic promises',
                 '* Top 5 reasons to vote for party',
                 '* Top 5 reasons not to vote for party',
-                                '',
+                '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
                 '',
@@ -37,7 +37,6 @@ class ReadMe:
             ]
             + Manifesto.get_readme_lines()
             + [
-
                 '',
             ]
         )
