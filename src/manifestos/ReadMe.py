@@ -26,17 +26,18 @@ class ReadMe:
                 '* Most unrealistic promises',
                 '* Top 5 reasons to vote for party',
                 '* Top 5 reasons not to vote for party',
-                '',
-                '## Candidates & Manifestos',
-            ]
-            + Manifesto.get_readme_lines()
-            + [
-                '',
+                                '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
                 '',
                 '⚠️ Word counts are approximate and may not be accurate, especially for '
                 + 'non-English text.',
+                '',
+                '## Candidates & Manifestos',
+            ]
+            + Manifesto.get_readme_lines()
+            + [
+
                 '',
             ]
         )
