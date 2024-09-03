@@ -12,6 +12,7 @@ class Manifesto:
     DIR_PDF = os.path.join('data', 'pdf')
     DIR_PDF_UNIX = DIR_PDF.replace('\\', '/')
     METADATA_PATH = os.path.join('data', 'metadata.json')
+    URL_BASE = 'https://raw.githubusercontent.com/nuuuwan'+'/manifestos_prespollsl2024/main/data/pdf'
 
     @cached_property
     def id(self):
@@ -72,10 +73,15 @@ class Manifesto:
     @cached_property
     def readme_line_label(self):
         return f'{self.lang} ({self.n_pages} Pages, {self.file_size / 1_000_000:.1f}MB)'
+    
+
+    @cached_property
+    def pdf_url(self):
+        return f'{self.URL_BASE}/{self.file_name}'
 
     @cached_property
     def readme_line(self):
-        return f'* [{self.readme_line_label}]({self.DIR_PDF_UNIX}/{self.file_name}) - [Original Source]({self.source})'
+        return f'* [{self.readme_line_label}]({self.pdf_url}) - [Original Source]({self.source})'
 
     # Loaders
     @classmethod
