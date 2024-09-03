@@ -1,7 +1,8 @@
 import os
 from dataclasses import dataclass
 from functools import cached_property
-
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 from utils import File, JSONFile, Log
 
 log = Log('Manifesto')
@@ -105,6 +106,32 @@ class Manifesto:
     @property
     def source(self):
         return self.metadata_idx()[self.id]['source']
+    
+
+    # Wordcloud 
+    @cached_property
+    def wordcloud_path(self):
+        return os.path.join('data', 'wordclouds', f'{self.id}.png')
+
+    def build_wordcloud(self):
+        plt.close()
+        wc = WordCloud(
+            background_color="white",
+            repeat=True,
+
+            width=2000,
+            height=3000,
+        )
+        wc.generate(self.content)
+        plt.figure()
+        plt.imshow(wc, interpolation="bilinear")
+        plt.axis("off")
+        plt.gcf().set_size_inches(4, 6)
+
+        plt.savefig(self.wordcloud_path, dpi=150, bbox_inches='tight')
+        log.info(f"Wrote {self.wordcloud_path}.")
+        return self.wordcloud_path
+
 
     # README
     @cached_property
@@ -123,6 +150,7 @@ class Manifesto:
 
     @cached_property
     def readme_line(self):
+        self.build_wordcloud()
         return f'* [{self.readme_line_label}]({self.pdf_url}) - [Original Source]({self.source})'
 
     # Loaders
