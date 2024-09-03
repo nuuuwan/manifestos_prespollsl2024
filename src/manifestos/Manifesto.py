@@ -2,7 +2,9 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile
+from utils import JSONFile, File, Log
+
+log = Log('Manifesto')
 
 
 @dataclass
@@ -64,8 +66,10 @@ class Manifesto:
             pdf = PdfFileReader(f)
             return pdf.getNumPages()
 
+    # PDF-Text
+
     @cached_property
-    def content(self):
+    def content_nocache(self):
         from PyPDF2 import PdfFileReader
 
         with open(self.file_path, 'rb') as f:
@@ -74,6 +78,20 @@ class Manifesto:
             for i in range(pdf.getNumPages()):
                 text += pdf.getPage(i).extract_text()
             return text
+
+    @cached_property
+    def txt_path(self):
+        return os.path.join('data', 'txt', f'{self.id}.txt')
+
+    @cached_property
+    def content(self):
+        txt_file = File(self.txt_path)
+        if txt_file.exists():
+            return txt_file.read()
+        content = self.content_nocache
+        txt_file.write(content)
+        log.info(f'Wrote {self.txt_path}')
+        return content
 
     @cached_property
     def n_words(self):
