@@ -95,8 +95,12 @@ class Manifesto:
         return content
 
     @cached_property
+    def words(self):
+        return self.content.split()
+
+    @cached_property
     def n_words(self):
-        return len(self.content.split())
+        return len(self.words)
 
     # metadata.json
     @staticmethod
@@ -122,7 +126,7 @@ class Manifesto:
             width=2000,
             height=3000,
         )
-        wc.generate(self.content)
+        wc.generate(self.words)
         plt.figure()
         plt.imshow(wc, interpolation="bilinear")
         plt.axis("off")
