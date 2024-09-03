@@ -20,7 +20,7 @@ class ReadMe:
                 '',
                 'For manifestos with English text, '
                 + 'I\'ve also generated wordclouds'
-                +' and AI summaries (chatgpt-4o)'
+                + ' and AI summaries (chatgpt-4o)'
                 + ' that include:',
                 '* Most important promises',
                 '* Most unrealistic promises',
