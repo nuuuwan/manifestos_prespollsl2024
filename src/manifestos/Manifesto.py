@@ -111,7 +111,7 @@ class Manifesto:
     def n_words_str(self):
         if self.n_words == 0:
             return 'Images Only'
-        return f'{self.n_words / 1000:.0f} Words'
+        return f'{self.n_words / 1000:.1f}K Words'
 
     @cached_property
     def readme_line_label(self):
