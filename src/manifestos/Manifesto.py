@@ -5,6 +5,7 @@ from functools import cached_property
 import matplotlib.pyplot as plt
 from utils import File, JSONFile, Log
 from wordcloud import WordCloud
+from utils_future import Color
 
 log = Log('Manifesto')
 
