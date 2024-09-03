@@ -108,10 +108,11 @@ class Manifesto:
 
     # README
     @cached_property
-    def n_words_str(self) :
+    def n_words_str(self):
         if self.n_words == 0:
             return 'Images Only'
         return f'{self.n_words / 1000:.0f} Words'
+
     @cached_property
     def readme_line_label(self):
         return f'{self.lang} ({self.n_pages} Pages, {self.n_words_str}, {self.file_size / 1_000_000:.1f}MB)'
