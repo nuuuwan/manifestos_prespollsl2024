@@ -1,6 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of **2024-09-03 11:47:23**. 
+This repository contains the manifestos I could find as of **2024-09-03 11:48:19**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -31,7 +31,7 @@ This repository contains the manifestos I could find as of **2024-09-03 11:47:23
 
 Note: The English Version of Namal Rajapakse's Manifesto is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).
 
-...
+---
 
 📦 Where possible, images in the original source PDFs have been compressed.
 
