@@ -19,8 +19,8 @@ class ReadMe:
                 + f'I could find as of **{time_str}**.',
                 '',
                 'For manifestos with English text, '
-                +'I\'ve also generated summaries'
-                +' that include:',
+                + 'I\'ve also generated summaries'
+                + ' that include:',
                 '* Most important promises',
                 '* Most unrealistic promises',
                 '* Top 5 reasons to vote for party',

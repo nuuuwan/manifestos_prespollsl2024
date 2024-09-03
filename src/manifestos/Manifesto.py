@@ -223,9 +223,7 @@ class Manifesto:
     def summary_link(self):
         if not os.path.exists(self.summary_path):
             return None
-        return (
-            f'[Summary]({self.summary_path_unix})'
-        )
+        return f'[Summary]({self.summary_path_unix})'
 
     @cached_property
     def readme_line(self):
@@ -246,10 +244,6 @@ class Manifesto:
         if not os.path.exists(self.wordcloud_path):
             return None
         return [
-            '',
-            '### Wordcloud',
-            '',
-            '*Based on English version text*',
             '',
             f'![{self.id} Wordcloud]({self.wordcloud_path_unix})',
             '',
