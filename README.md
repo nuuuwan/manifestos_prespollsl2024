@@ -1,6 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of **2024-09-03 14:31:02**. 
+This repository contains the manifestos I could find as of **2024-09-03 14:36:46**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -14,7 +14,7 @@ This repository contains the manifestos I could find as of **2024-09-03 14:31:02
 
 ## Anura Kumara Dissanayake (National People's Power)
 
-* [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf) · [Raw Text](data/txt/npp-en.txt) · [Wordcloud](data/wordclouds/npp-en.png)
+* [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf) · [Raw Text](data/txt/npp-en.txt) · [Wordcloud](data/wordclouds/npp-en.png) · [Summary](data/summary/npp-en.md)
 * [සිංහල (233 Pages, 38.3K Words, 26.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-si.pdf) · [Original Source](https://www.npp.lk/up/policies/si/npppolicystatement.pdf) · [Raw Text](data/txt/npp-si.txt)
 * [தமிழ் (233 Pages, 16.0K Words, 8.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-ta.pdf) · [Original Source](https://www.npp.lk/up/policies/ta/npppolicystatement.pdf) · [Raw Text](data/txt/npp-ta.txt)
 
