@@ -13,15 +13,14 @@ class ReadMe:
         lines = (
             [
                 '# Manifestos ',
-                '## 2024 Sri Lankan Presidential Election',
                 '',
-                'This repository contains the manifestos '
-                + f'I could find as of **{time_str}**.',
+                'This repository contains the manifestos for the '
+                +'2024 Sri Lankan Presidential Election ',
+                + f'I could find online, as of **{time_str}**.',
                 '',
-                'For manifestos with English text, '
-                + 'I\'ve also generated wordclouds'
-                + ' and AI summaries (chatgpt-4o)'
-                + ' that include:',
+                'I\'ve **AI summaries** with chatgpt-4o '
+                +'for manifestos with English Text'
+                + ' including:',
                 '* Most important promises',
                 '* Most unrealistic promises',
                 '* Top 5 reasons to vote for party',
