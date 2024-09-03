@@ -18,20 +18,20 @@ class ReadMe:
                 + '2024 Sri Lankan Presidential Election '
                 + f'I could find online, as of **{time_str}**.',
                 '',
-                'I\'ve **AI summaries** with chatgpt-4o '
+                'I\'ve generated **AI summaries** with chatgpt-4o '
                 + 'for manifestos with English Text'
                 + ' including:',
                 '',
-                '* Most important promises',
-                '* Most unrealistic promises',
-                '* Top 5 reasons to vote for party',
-                '* Top 5 reasons not to vote for party',
+                '* ⭐ Most important promises',
+                '* ❓ Most unrealistic promises',
+                '* 👍 Top 5 reasons to vote for party',
+                '* 👎 Top 5 reasons not to vote for party',
                 '',
                 '📦 Where possible, images in the original source PDFs have been '
-                + 'compressed.',
+                + 'compressed for more efficient storage.',
                 '',
                 '⚠️ Word counts are approximate and may not be accurate, especially for '
-                + 'non-English text.',
+                + 'සිංහල and தமிழ்.',
                 '',
                 '## Candidates & Manifestos',
             ]
