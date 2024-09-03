@@ -19,7 +19,8 @@ class ReadMe:
                 + f'I could find as of **{time_str}**.',
                 '',
                 'For manifestos with English text, '
-                + 'I\'ve also generated summaries'
+                + 'I\'ve also generated wordclouds'
+                +' and AI summaries (chatgpt-4o)'
                 + ' that include:',
                 '* Most important promises',
                 '* Most unrealistic promises',
