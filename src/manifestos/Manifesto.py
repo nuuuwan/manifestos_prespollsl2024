@@ -276,7 +276,7 @@ class Manifesto:
         lines = []
         for manifesto_list in Manifesto.list_by_party().values():
             first_manifesto = manifesto_list[0]
-            lines.extend(['', f'### {first_manifesto.party}', ''])
+            lines.extend([f'### {first_manifesto.party}', ''])
 
             if first_manifesto.summary_link:
                 lines.extend(['', first_manifesto.summary_link, ''])
