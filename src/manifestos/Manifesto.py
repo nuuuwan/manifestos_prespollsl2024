@@ -208,7 +208,7 @@ class Manifesto:
         self.build_wordcloud()
         return f'* ' + ' · '.join(
             [
-                x
+                f'`{x}`'
                 for x in [
                     self.pdf_link,
                     self.source_link,
