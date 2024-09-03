@@ -1,6 +1,6 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:38:16**.
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:39:27**.
 
 I've **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
@@ -16,9 +16,11 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 * [English (62 Pages, Images Only, 30.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-en.pdf) · [Original Source](https://www.ranil2024.lk/manifesto)
 * [සිංහල (62 Pages, 11.1K Words, 11.7MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-si.pdf) · [Original Source](https://www.ranil2024.lk/si/manifesto)
 * [தமிழ் (62 Pages, 10.3K Words, 5.1MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-ta.pdf) · [Original Source](https://www.ranil2024.lk/ta/manifesto)
+
 ### Dilith Jayaweera (Sarvajana Balaya)
 
 * [සිංහල (66 Pages, 21.0K Words, 8.7MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/mjp-si.pdf) · [Original Source](https://www.scribd.com/document/764382431/Presidential-Candidate-Dilith-Jayaweera-unveils-national-strategic-plan)
+
 ### Anura Kumara Dissanayake (National People's Power)
 
 
@@ -30,6 +32,7 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 ![npp-en Wordcloud](data/wordclouds/npp-en.png)
 
+
 ### Sajith Premadasa (Samagi Jana Balawegaya)
 
 
@@ -40,6 +43,7 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 * [தமிழ் (60 Pages, 16.5K Words, 4.3MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-ta.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e462d19d928e43d0d0b_SajithPremadasa_policy-manifesto-tamil-compressed.pdf)
 
 ![sjb-en Wordcloud](data/wordclouds/sjb-en.png)
+
 
 ### Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
