@@ -1,10 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of 2024-09-03. 
-
-📦 Where possible, images in the original source PDFs have been compressed.
-
-⚠️ Word counts are approximate and may not be accurate, especially for non-English text.
+This repository contains the manifestos I could find as of **2024-09-03 11:47:23**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -34,3 +30,9 @@ This repository contains the manifestos I could find as of 2024-09-03.
 * [தமிழ் (12 Pages, Images Only, 26.1MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/slpp-ta.pdf) - [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_TAMIL_PRESSQ.pdf)
 
 Note: The English Version of Namal Rajapakse's Manifesto is available as HTML at [www.nr.lk](https://www.nr.lk/manifesto).
+
+...
+
+📦 Where possible, images in the original source PDFs have been compressed.
+
+⚠️ Word counts are approximate and may not be accurate, especially for non-English text.
