@@ -1,6 +1,6 @@
 # Manifestos ## 2024 Sri Lankan Presidential Election
 
-This repository contains the manifestos I could find as of **2024-09-03 16:30:20**.
+This repository contains the manifestos I could find as of **2024-09-03 16:31:30**.
 
 For manifestos with English text, I've also generated wordclouds and AI summaries (chatgpt-4o) that include:
 * Most important promises
@@ -8,18 +8,20 @@ For manifestos with English text, I've also generated wordclouds and AI summarie
 * Top 5 reasons to vote for party
 * Top 5 reasons not to vote for party
 
+## Candidates & Manifestos
 
-## Ranil Wickremesinghe (Independent)
+
+### Ranil Wickremesinghe (Independent)
 
 * [English (62 Pages, Images Only, 30.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-en.pdf) · [Original Source](https://www.ranil2024.lk/manifesto)
 * [සිංහල (62 Pages, 11.1K Words, 11.7MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-si.pdf) · [Original Source](https://www.ranil2024.lk/si/manifesto)
 * [தமிழ் (62 Pages, 10.3K Words, 5.1MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-ta.pdf) · [Original Source](https://www.ranil2024.lk/ta/manifesto)
 
-## Dilith Jayaweera (Sarvajana Balaya)
+### Dilith Jayaweera (Sarvajana Balaya)
 
 * [සිංහල (66 Pages, 21.0K Words, 8.7MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/mjp-si.pdf) · [Original Source](https://www.scribd.com/document/764382431/Presidential-Candidate-Dilith-Jayaweera-unveils-national-strategic-plan)
 
-## Anura Kumara Dissanayake (National People's Power)
+### Anura Kumara Dissanayake (National People's Power)
 
 
 [Summary](data/summary/npp-en.md)
@@ -31,7 +33,7 @@ For manifestos with English text, I've also generated wordclouds and AI summarie
 ![npp-en Wordcloud](data/wordclouds/npp-en.png)
 
 
-## Sajith Premadasa (Samagi Jana Balawegaya)
+### Sajith Premadasa (Samagi Jana Balawegaya)
 
 
 [Summary](data/summary/sjb-en.md)
@@ -43,7 +45,7 @@ For manifestos with English text, I've also generated wordclouds and AI summarie
 ![sjb-en Wordcloud](data/wordclouds/sjb-en.png)
 
 
-## Namal Rajapakse (Sri Lanka Podujana Peramuna)
+### Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
 
 [Summary](data/summary/slpp-en.md)
