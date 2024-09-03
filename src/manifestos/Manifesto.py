@@ -202,11 +202,11 @@ class Manifesto:
         if not os.path.exists(self.wordcloud_path):
             return None
         return f'[Wordcloud]({self.wordcloud_path})'
-    
+
     @cached_property
     def summary_path(self):
         return os.path.join('data', 'summary', f'{self.id}.md')
-    
+
     @cached_property
     def summary_link(self):
         if not os.path.exists(self.summary_path):
