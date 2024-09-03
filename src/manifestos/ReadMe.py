@@ -15,11 +15,11 @@ class ReadMe:
                 '# Manifestos ',
                 '',
                 'This repository contains the manifestos for the '
-                +'2024 Sri Lankan Presidential Election ',
-                + f'I could find online, as of **{time_str}**.',
+                + '2024 Sri Lankan Presidential Election ',
+                +f'I could find online, as of **{time_str}**.',
                 '',
                 'I\'ve **AI summaries** with chatgpt-4o '
-                +'for manifestos with English Text'
+                + 'for manifestos with English Text'
                 + ' including:',
                 '* Most important promises',
                 '* Most unrealistic promises',
