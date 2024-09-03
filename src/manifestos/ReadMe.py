@@ -28,8 +28,6 @@ class ReadMe:
             ]
             + self.get_manifesto_lines()
             + [
-                
-
                 '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed.',
