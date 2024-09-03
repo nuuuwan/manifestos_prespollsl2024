@@ -8,8 +8,6 @@ log = Log('ReadMe')
 class ReadMe:
     PATH = 'README.md'
 
-
-
     def build(self):
         time_str = TimeFormat.TIME.format(Time.now())
         lines = (
