@@ -13,11 +13,10 @@ class Manifesto:
     def readme_line(self):
         return f'* [{self.lang}]({self.DIR_PDF_UNIX}/{self.file_name})'
 
-
-    @property 
+    @property
     def lang_code(self):
         return self.file_name.split('.')[0].split('-')[-1]
-    
+
     @property
     def lang(self):
         return {
@@ -25,12 +24,12 @@ class Manifesto:
             'si': 'සිංහල',
             'ta': 'தமிழ்',
         }.get(self.lang_code, self.lang_code)
-    
+
     @property
     def party_code(self):
-        return '-'.join(self.file_name.split('.')[0].split('-')[:-1])  
-    
-    @property 
+        return '-'.join(self.file_name.split('.')[0].split('-')[:-1])
+
+    @property
     def party(self):
         return {
             'ind-rw': 'Ranil Wickremesinghe (Independent)',
@@ -39,7 +38,7 @@ class Manifesto:
             'sjb': 'Sajith Premadasa (Samagi Jana Balawegaya)',
             'mjp': 'Dilith Jayaweera (Sarvajana Balaya)',
         }.get(self.party_code, self.party_code)
-    
+
     @classmethod
     def list_all(cls) -> list['Manifesto']:
         manifesto_list = []
