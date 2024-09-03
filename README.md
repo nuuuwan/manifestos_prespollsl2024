@@ -1,6 +1,6 @@
 # 2024 Sri Lankan Presidential Election Manifestos (manifestos_prespollsl2024)
 
-This repository contains the manifestos I could find as of **2024-09-03 15:49:47**. 
+This repository contains the manifestos I could find as of **2024-09-03 15:51:26**. 
 
 ## Ranil Wickremesinghe (Independent)
 
@@ -14,7 +14,6 @@ This repository contains the manifestos I could find as of **2024-09-03 15:49:47
 
 ## Anura Kumara Dissanayake (National People's Power)
 
-![Anura Kumara Dissanayake (National People's Power) Wordcloud](data/wordclouds/npp-en.png)
 [Summary](data/summary/npp-en.md)
 * [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf)
 * [සිංහල (233 Pages, 38.3K Words, 26.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-si.pdf) · [Original Source](https://www.npp.lk/up/policies/si/npppolicystatement.pdf)
@@ -22,7 +21,6 @@ This repository contains the manifestos I could find as of **2024-09-03 15:49:47
 
 ## Sajith Premadasa (Samagi Jana Balawegaya)
 
-![Sajith Premadasa (Samagi Jana Balawegaya) Wordcloud](data/wordclouds/sjb-en.png)
 [Summary](data/summary/sjb-en.md)
 * [English (44 Pages, 10.9K Words, 21.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-en.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e4698e32d285739c6ac_SajithPremadasa_policy-manifesto-english-compressed.pdf)
 * [සිංහල (38 Pages, 12.5K Words, 20.4MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-si.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32ef6a457cbb2fd19ac73_SajithPremadasa_policy-manifesto-sinhala-compressed.pdf)
@@ -30,7 +28,6 @@ This repository contains the manifestos I could find as of **2024-09-03 15:49:47
 
 ## Namal Rajapakse (Sri Lanka Podujana Peramuna)
 
-![Namal Rajapakse (Sri Lanka Podujana Peramuna) Wordcloud](data/wordclouds/slpp-en.png)
 [Summary](data/summary/slpp-en.md)
 * [English (49 Pages, 6.9K Words, 5.4MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/slpp-en.pdf) · [Original Source](https://www.nr.lk/pdf/NAMAL_VISION%202025-2035%20%20(En)%20.pdf)
 * [සිංහල (50 Pages, 10.0K Words, 5.6MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/slpp-si.pdf) · [Original Source](https://www.nr.lk/pdf/NR2024_MANIFESTO_SINHALA_PRESSQ.pdf)
