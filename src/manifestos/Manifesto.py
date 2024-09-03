@@ -96,6 +96,11 @@ class Manifesto:
     @cached_property
     def txt_path(self):
         return os.path.join('data', 'txt', f'{self.id}.txt')
+    
+
+    @cached_property
+    def txt_path_unix(self):
+        return self.txt_path.replace('\\', '/')
 
     @cached_property
     def content(self):
@@ -199,7 +204,7 @@ class Manifesto:
     def raw_text_link(self):
         if not os.path.exists(self.txt_path):
             return None
-        return f'[Raw Text]({self.txt_path})'
+        return f'[Raw Text]({self.txt_path_unix})'
 
     @cached_property
     def wordcloud_link(self):
