@@ -132,7 +132,7 @@ class Manifesto:
     @cached_property
     def wordcloud_path(self):
         return os.path.join('data', 'wordclouds', f'{self.id}.png')
-    
+
     @cached_property
     def wordcloud_path_unix(self):
         return self.wordcloud_path.replace('\\', '/')
