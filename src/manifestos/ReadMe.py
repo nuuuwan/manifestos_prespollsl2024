@@ -25,9 +25,11 @@ class ReadMe:
                 'This repository contains the manifestos of the candidates '
                 + 'who contested the 2024 Sri Lankan Presidential Election.',
                 '',
-                '📦 Where possible, images in the original source PDFs have been ' + 'compressed.',
+                '📦 Where possible, images in the original source PDFs have been '
+                + 'compressed.',
                 '',
-                '⚠️ Word counts are approximate and may not be accurate, especially for ' + 'non-English text.',
+                '⚠️ Word counts are approximate and may not be accurate, especially for '
+                + 'non-English text.',
             ]
             + self.get_manifesto_lines()
             + [
