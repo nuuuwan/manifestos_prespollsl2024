@@ -2,7 +2,7 @@
 
 This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:42:23**.
 
-I've **AI summaries** with chatgpt-4o for manifestos with English Text including:
+I've generated **AI summaries** with chatgpt-4o for manifestos with English Text, including:
 
 * Most important promises
 * Most unrealistic promises
