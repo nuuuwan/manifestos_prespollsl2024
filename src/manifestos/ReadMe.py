@@ -12,8 +12,7 @@ class ReadMe:
         time_str = TimeFormat.TIME.format(Time.now())
         lines = (
             [
-                '# Manifestos '
-                '## 2024 Sri Lankan Presidential Election',
+                '# Manifestos ' '## 2024 Sri Lankan Presidential Election',
                 '',
                 'This repository contains the manifestos '
                 + f'I could find as of **{time_str}**.',
