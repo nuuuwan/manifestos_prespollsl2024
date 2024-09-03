@@ -17,13 +17,21 @@ class ReadMe:
         return lines
 
     def build(self):
-        lines = [
-            '# 2024 Sri Lankan Presidential Election Manifestos '
-            + '(manifestos_prespollsl2024)',
-            '',
-            'This repository contains the manifestos of the candidates '
-            + 'who contested the 2024 Sri Lankan Presidential Election.',
-        ] + self.get_manifesto_lines()
+        lines = (
+            [
+                '# 2024 Sri Lankan Presidential Election Manifestos '
+                + '(manifestos_prespollsl2024)',
+                '',
+                'This repository contains the manifestos of the candidates '
+                + 'who contested the 2024 Sri Lankan Presidential Election.',
+            ]
+            + self.get_manifesto_lines()
+            + [
+                '',
+                'Note: The English Version of Namal Rajapakse\'s Manifesto '
+                + 'is available as HTML at [this link](https://www.nr.lk/manifesto).',
+            ]
+        )
 
         File(self.PATH).write_lines(lines)
         log.info(f'Wrote {self.PATH}')
