@@ -246,7 +246,7 @@ class Manifesto:
         return [
             '',
             f'![{self.id} Wordcloud]({self.wordcloud_path_unix})',
-            '',
+           
         ]
 
     # Loaders
@@ -276,10 +276,10 @@ class Manifesto:
         lines = []
         for manifesto_list in Manifesto.list_by_party().values():
             first_manifesto = manifesto_list[0]
-            lines.extend([f'### {first_manifesto.party}', ''])
+            lines.extend(['', f'### {first_manifesto.party}', ''])
 
             if first_manifesto.summary_link:
-                lines.extend(['', first_manifesto.summary_link, ''])
+                lines.extend([first_manifesto.summary_link, ''])
             for manifesto in manifesto_list:
                 lines.append(manifesto.readme_line)
 

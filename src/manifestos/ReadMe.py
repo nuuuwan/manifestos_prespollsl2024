@@ -28,7 +28,7 @@ class ReadMe:
                 '* Top 5 reasons not to vote for party',
                 '',
                 '## Candidates & Manifestos',
-                '',
+
             ]
             + Manifesto.get_readme_lines()
             + [
@@ -38,6 +38,7 @@ class ReadMe:
                 '',
                 '⚠️ Word counts are approximate and may not be accurate, especially for '
                 + 'non-English text.',
+                '',
             ]
         )
 
