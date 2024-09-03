@@ -9,7 +9,7 @@ from utils import JSONFile
 class Manifesto:
     file_name: str
 
-    DIR_PDF = os.path.join('data', 'pdf-original')
+    DIR_PDF = os.path.join('data', 'pdf')
     DIR_PDF_UNIX = DIR_PDF.replace('\\', '/')
     METADATA_PATH = os.path.join('data', 'metadata.json')
 
