@@ -119,7 +119,9 @@ class Manifesto:
 
     def build_wordcloud(self):
         if self.n_words == 0 or self.lang_code != 'en':
-            return
+            return None
+        if os.path.exists(self.wordcloud_path):
+            return self.wordcloud_path
 
         plt.close()
         wc = WordCloud(
