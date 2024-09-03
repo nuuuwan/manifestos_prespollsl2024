@@ -16,7 +16,7 @@ class ReadMe:
                 '',
                 'This repository contains the manifestos for the '
                 + '2024 Sri Lankan Presidential Election '
-                +f'I could find online, as of **{time_str}**.',
+                + f'I could find online, as of **{time_str}**.',
                 '',
                 'I\'ve **AI summaries** with chatgpt-4o '
                 + 'for manifestos with English Text'
@@ -28,7 +28,6 @@ class ReadMe:
                 '* Top 5 reasons not to vote for party',
                 '',
                 '## Candidates & Manifestos',
-
             ]
             + Manifesto.get_readme_lines()
             + [

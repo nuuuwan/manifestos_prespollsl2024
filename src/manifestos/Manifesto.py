@@ -246,7 +246,6 @@ class Manifesto:
         return [
             '',
             f'![{self.id} Wordcloud]({self.wordcloud_path_unix})',
-           
         ]
 
     # Loaders
