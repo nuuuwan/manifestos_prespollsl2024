@@ -2,12 +2,12 @@
 
 This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:42:23**.
 
-I've generated **AI summaries** with chatgpt-4o for manifestos with English Text, including:
+🤖 I've generated **AI summaries** with chatgpt-4o for manifestos with English Text, including:
 
-* Most important promises
-* Most unrealistic promises
-* Top 5 reasons to vote for party
-* Top 5 reasons not to vote for party
+* ⭐ Most important promises
+* 💩 Most unrealistic promises
+* 👍 Top 5 reasons to vote for party
+* 👎 Top 5 reasons not to vote for party
 
 📦 Where possible, images in the original source PDFs have been compressed.
 
