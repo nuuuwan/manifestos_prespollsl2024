@@ -18,7 +18,7 @@ class ReadMe:
                 + '(manifestos_prespollsl2024)',
                 '',
                 'This repository contains the manifestos '
-                + f'I could find as of **{time_str}**. ',
+                + f'I could find as of **{time_str}**.',
             ]
             + Manifesto.get_readme_lines()
             + [
