@@ -1,0 +1,41 @@
+{
+    "ind-rw-si":{
+       "source": "https://www.ranil2024.lk/si/manifesto"
+    },
+    "ind-rw-ta":{
+       "source": "https://www.ranil2024.lk/ta/manifesto"
+    },
+    "ind-rw-en":{
+        "source": "https://www.ranil2024.lk/manifesto"
+     },
+    "mjp-si":{
+       "source": "https://www.scribd.com/document/764382431/Presidential-Candidate-Dilith-Jayaweera-unveils-national-strategic-plan"
+    },
+    "npp-en":{
+       "source": "https://www.npp.lk/up/policies/en/npppolicystatement.pdf"
+    },
+    "npp-si":{
+       "source": "https://www.npp.lk/up/policies/si/npppolicystatement.pdf"
+    },
+    "npp-ta":{
+       "source": "https://www.npp.lk/up/policies/ta/npppolicystatement.pdf"
+    },
+    "sjb-en":{
+       "source": "https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e4698e32d285739c6ac_SajithPremadasa_policy-manifesto-english-compressed.pdf"
+    },
+    "sjb-si":{
+       "source": "https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32ef6a457cbb2fd19ac73_SajithPremadasa_policy-manifesto-sinhala-compressed.pdf"
+    },
+    "sjb-ta":{
+       "source": "https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e462d19d928e43d0d0b_SajithPremadasa_policy-manifesto-tamil-compressed.pdf"
+    },
+    "slpp-si":{
+       "source": "https://www.nr.lk/pdf/NR2024_MANIFESTO_SINHALA_PRESSQ.pdf"
+    },
+    "slpp-ta":{
+        "source": "https://www.nr.lk/pdf/NR2024_MANIFESTO_TAMIL_PRESSQ.pdf"
+     },
+    "slpp-en": {
+        "source": "https://www.nr.lk/manifesto"
+    }
+ }

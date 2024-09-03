@@ -2,10 +2,27 @@
 
 This repository contains the manifestos of the candidates who contested the 2024 Sri Lankan Presidential Election.
 
-* NPP - Sinhala, English & Tamil
-* SJB - Sinhala, English & Tamil
-* Ind (RW) - Sinhala & Tamil. <https://www.ranil2024.lk/manifesto> contains the English version, but the file is entirely made up of images, and is 175MB. Even a compressed version was too big to host.
-* SLPP - Sinhala Only
-* MJP - Sinhala Only
+## Ranil Wickremesinghe (Independent)
 
-Let me know if you know sources for the missing manifestos.
+* [සිංහල](data/pdf-original/ind-rw-si.pdf)
+* [தமிழ்](data/pdf-original/ind-rw-ta.pdf)
+
+## Dilith Jayaweera (Sarvajana Balaya)
+
+* [සිංහල](data/pdf-original/mjp-si.pdf)
+
+## Anura Kumara Dissanayake (National People's Power)
+
+* [English](data/pdf-original/npp-en.pdf)
+* [සිංහල](data/pdf-original/npp-si.pdf)
+* [தமிழ்](data/pdf-original/npp-ta.pdf)
+
+## Sajith Premadasa (Samagi Jana Balawegaya)
+
+* [English](data/pdf-original/sjb-en.pdf)
+* [සිංහල](data/pdf-original/sjb-si.pdf)
+* [தமிழ்](data/pdf-original/sjb-ta.pdf)
+
+## Namal Rajapakse (Sri Lanka Podujana Peramuna)
+
+* [සිංහල](data/pdf-original/slpp-si.pdf)
