@@ -94,6 +94,10 @@ class Manifesto:
         txt_file.write(content)
         log.info(f'Wrote {self.txt_path}')
         return content
+    
+    @cached_property
+    def content_ascii(self):
+        return ''.join([c if ord(c) < 128 else ' ' for c in self.content])
 
     @cached_property
     def words(self):
@@ -130,7 +134,7 @@ class Manifesto:
             width=2000,
             height=3000,
         )
-        wc.generate(self.content)
+        wc.generate(self.content_ascii)
         plt.figure()
         plt.imshow(wc, interpolation="bilinear")
         plt.axis("off")
