@@ -1,6 +1,6 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:40:01**.
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-03 16:40:20**.
 
 I've **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
@@ -23,7 +23,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 ### Anura Kumara Dissanayake (National People's Power)
 
-
 [Summary](data/summary/npp-en.md)
 
 * [English (129 Pages, 36.3K Words, 17.5MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/npp-en.pdf) · [Original Source](https://www.npp.lk/up/policies/en/npppolicystatement.pdf)
@@ -35,7 +34,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 ### Sajith Premadasa (Samagi Jana Balawegaya)
 
-
 [Summary](data/summary/sjb-en.md)
 
 * [English (44 Pages, 10.9K Words, 21.0MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/sjb-en.pdf) · [Original Source](https://cdn.prod.website-files.com/667c056ef89cca890b53adad/66d32e4698e32d285739c6ac_SajithPremadasa_policy-manifesto-english-compressed.pdf)
@@ -46,7 +44,6 @@ I've **AI summaries** with chatgpt-4o for manifestos with English Text including
 
 
 ### Namal Rajapakse (Sri Lanka Podujana Peramuna)
-
 
 [Summary](data/summary/slpp-en.md)
 
