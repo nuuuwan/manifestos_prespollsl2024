@@ -1,7 +1,6 @@
 import os
 from dataclasses import dataclass
 from functools import cached_property
-import re
 
 import matplotlib.pyplot as plt
 from utils import File, JSONFile, Log
@@ -10,6 +9,7 @@ from wordcloud import WordCloud
 from utils_future import Color
 
 log = Log('Manifesto')
+
 
 def clean(x):
     x = '\n'.join([line.strip() for line in x.split('\n')])
