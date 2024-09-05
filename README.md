@@ -1,6 +1,6 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 10:34:13**.
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 10:37:02**.
 
 I've generated **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
@@ -9,7 +9,7 @@ I've generated **AI summaries** with chatgpt-4o for manifestos with English Text
 * 👍 Top 5 reasons to vote for party
 * 👎 Top 5 reasons not to vote for party
 
-You can read a Comparison of the SP, AKD, RW and NR manifestos [here](data/md/comparative.md)
+You can read a Comparison of the SP, AKD, RW and NR manifestos [here](data/summary/comparative.md)
 
 You can also ask the 2024 Sri Lankan Presidential Manifestos [Custom ChatGPT](https://chatgpt.com/g/g-ZLkBo9b1v-2024-sri-lankan-presidential-manifestos) your own questions.
 

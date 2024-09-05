@@ -27,7 +27,7 @@ class ReadMe:
                 '* 👍 Top 5 reasons to vote for party',
                 '* 👎 Top 5 reasons not to vote for party',
                 '',
-                'You can read a Comparison of the SP, AKD, RW and NR manifestos [here](data/md/comparative.md)',
+                'You can read a Comparison of the SP, AKD, RW and NR manifestos [here](data/summary/comparative.md)',
                 '',
                 'You can also ask the 2024 Sri Lankan '
                 + 'Presidential Manifestos '
