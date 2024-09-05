@@ -98,4 +98,4 @@ Here’s a list of unique promises, themes, or ideas that are found in each cand
 
 You can also ask the 2024 Sri Lankan Presidential Manifestos [Custom ChatGPT](https://chatgpt.com/g/g-ZLkBo9b1v-2024-sri-lankan-presidential-manifestos) your own questions.
 
-![Custom ChatGPT](../data/misc_images/custom-chatgpt.png)
+![Custom ChatGPT](../../data/misc_images/custom-chatgpt.png)
