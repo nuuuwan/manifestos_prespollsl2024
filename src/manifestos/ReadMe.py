@@ -34,6 +34,8 @@ class ReadMe:
                 + '[Custom ChatGPT](https://chatgpt.com/g/g-ZLkBo9b1v-2024-sri-lankan-presidential-manifestos)'
                 + ' your own questions.',
                 '',
+                '![Custom ChatGPT](data/misc_images/custom-chatgpt.png)',
+                '',
                 '📦 Where possible, images in the original source PDFs have been '
                 + 'compressed for more efficient storage.',
                 '',
