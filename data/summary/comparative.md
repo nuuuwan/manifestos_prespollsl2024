@@ -56,24 +56,6 @@ These themes show a shared focus on addressing the critical challenges faced by 
 
 Here’s a list of unique promises, themes, or ideas that are found in each candidate's manifesto but not in the others:
 
-### RW
-
-- **Theravada Trade Economy:** A unique economic model based on the ancient Theravada market economy, drawing inspiration from the Rajarata Kingdom's trade history and focusing on turning Sri Lanka into a modern trade hub.
-- **Rebuilding national image and reputation:** A specific focus on recovering Sri Lanka's international image and reputation, especially after the economic collapse, through international partnerships and adherence to IMF agreements.
-- **Creating a 'Peoples' Sector':** Focus on the establishment of a "Peoples' Sector" where all citizens have a stake in the economy, with plans for a National Wealth Fund and restructuring the cooperative movement to align with Scandinavian models.
-- **Focus on the Granary of the East concept:** Historical references to ancient Sri Lanka’s agricultural strength, aiming to revive the country as a regional center for grain distribution.
-- **Sustainable Ocean Economy:** Detailed plans to maximize the underutilized maritime resources, especially by modernizing the fishing industry and fishery harbors across the island.
-- **Climate Change Leadership:** Leading global initiatives like the Climate Justice Forum and Climate Prosperity Plan and establishing an International Climate Change University.
-
-### SLPP (NR)
-
-- **"Namal Vision":** A strong emphasis on carrying forward the Rajapaksa family legacy, specifically aligning the future development of Sri Lanka with Mahinda Rajapaksa’s achievements, especially in post-war reconstruction.
-- **State-led Public Sector Optimization:** Focus on modernizing and optimizing the public sector through e-governance, high-performance standards, and avoiding privatization of state assets, unlike other candidates.
-- **Protecting and Nurturing the Buddha Sasana:** A heavy focus on protecting Buddhism and its historical heritage, with plans to enrich Buddhist temples and launch welfare programs for monks, such as a medical insurance scheme for elderly monks.
-- **Focus on High-Precision Manufacturing:** Sri Lankan workers are seen as uniquely skilled in high-precision manufacturing, and this manifesto focuses on promoting Sri Lanka as a global hub for manufacturing technological products.
-- **Forensic Audit of Loans:** A specific proposal to conduct forensic audits on all foreign loans, infrastructure projects, and international sovereign bonds to ensure transparency and accountability.
-- **Rural-to-Urban Transformation with Mega Projects:** A specific focus on turning the coastal area from Kalutara to Negombo into a megapolis and developing Galle, Kandy, and Trincomalee into modern cities with high-end infrastructure.
-
 ### SJB (SP)
 
 - **"Social Market Economy":** A unique vision combining free markets with social justice, focusing on creating an inclusive, equitable economy through targeted social safety nets and empowering the marginalized, with a distinctive focus on Gross National Happiness (GNH).
@@ -93,6 +75,24 @@ Here’s a list of unique promises, themes, or ideas that are found in each cand
 - **Women’s Movement ("Gahenu Api Eka Mitata"):** One of the strongest feminist approaches, promising to support women’s rights and create systems for gender equality, including a law to ensure 50% female representation in decision-making bodies.
 - **Zero-Waste, Circular Economy:** The manifesto’s deep commitment to an eco-friendly economy includes a circular economy based on zero-waste principles and a shift away from anthropocentric environmental practices.
 - **Focus on Intellectual Property Laws and Cultural Heritage:** A significant promise to reform intellectual property laws to protect Sri Lanka’s artistic and cultural works while promoting international exchanges in arts and cinema.
+
+### RW
+
+- **Theravada Trade Economy:** A unique economic model based on the ancient Theravada market economy, drawing inspiration from the Rajarata Kingdom's trade history and focusing on turning Sri Lanka into a modern trade hub.
+- **Rebuilding national image and reputation:** A specific focus on recovering Sri Lanka's international image and reputation, especially after the economic collapse, through international partnerships and adherence to IMF agreements.
+- **Creating a 'Peoples' Sector':** Focus on the establishment of a "Peoples' Sector" where all citizens have a stake in the economy, with plans for a National Wealth Fund and restructuring the cooperative movement to align with Scandinavian models.
+- **Focus on the Granary of the East concept:** Historical references to ancient Sri Lanka’s agricultural strength, aiming to revive the country as a regional center for grain distribution.
+- **Sustainable Ocean Economy:** Detailed plans to maximize the underutilized maritime resources, especially by modernizing the fishing industry and fishery harbors across the island.
+- **Climate Change Leadership:** Leading global initiatives like the Climate Justice Forum and Climate Prosperity Plan and establishing an International Climate Change University.
+
+### SLPP (NR)
+
+- **"Namal Vision":** A strong emphasis on carrying forward the Rajapaksa family legacy, specifically aligning the future development of Sri Lanka with Mahinda Rajapaksa’s achievements, especially in post-war reconstruction.
+- **State-led Public Sector Optimization:** Focus on modernizing and optimizing the public sector through e-governance, high-performance standards, and avoiding privatization of state assets, unlike other candidates.
+- **Protecting and Nurturing the Buddha Sasana:** A heavy focus on protecting Buddhism and its historical heritage, with plans to enrich Buddhist temples and launch welfare programs for monks, such as a medical insurance scheme for elderly monks.
+- **Focus on High-Precision Manufacturing:** Sri Lankan workers are seen as uniquely skilled in high-precision manufacturing, and this manifesto focuses on promoting Sri Lanka as a global hub for manufacturing technological products.
+- **Forensic Audit of Loans:** A specific proposal to conduct forensic audits on all foreign loans, infrastructure projects, and international sovereign bonds to ensure transparency and accountability.
+- **Rural-to-Urban Transformation with Mega Projects:** A specific focus on turning the coastal area from Kalutara to Negombo into a megapolis and developing Galle, Kandy, and Trincomalee into modern cities with high-end infrastructure.
 
 ---
 
