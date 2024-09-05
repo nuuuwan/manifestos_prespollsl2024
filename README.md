@@ -1,6 +1,8 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 10:59:53**.
+![All][data/misc_images/all.png]
+
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 11:10:35**.
 
 I've generated **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
