@@ -14,7 +14,7 @@ class ReadMe:
             [
                 '# #PresPollSL2024 Manifestos',
                 '',
-                '![All][data/misc_images/all.png]',
+                '![All](data/misc_images/all.png)',
                 '',
                 'This repository contains the manifestos for the '
                 + '2024 Sri Lankan Presidential Election '
