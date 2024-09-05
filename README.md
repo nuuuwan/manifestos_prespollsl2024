@@ -1,6 +1,6 @@
 # #PresPollSL2024 Manifestos
 
-This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 09:29:58**.
+This repository contains the manifestos for the 2024 Sri Lankan Presidential Election I could find online, as of **2024-09-05 10:34:13**.
 
 I've generated **AI summaries** with chatgpt-4o for manifestos with English Text including:
 
@@ -9,6 +9,10 @@ I've generated **AI summaries** with chatgpt-4o for manifestos with English Text
 * 👍 Top 5 reasons to vote for party
 * 👎 Top 5 reasons not to vote for party
 
+You can read a Comparison of the SP, AKD, RW and NR manifestos [here](data/md/comparative.md)
+
+You can also ask the 2024 Sri Lankan Presidential Manifestos [Custom ChatGPT](https://chatgpt.com/g/g-ZLkBo9b1v-2024-sri-lankan-presidential-manifestos) your own questions.
+
 📦 Where possible, images in the original source PDFs have been compressed for more efficient storage.
 
 ⚠️ Word counts are approximate and may not be accurate, especially for සිංහල and தமிழ்.
@@ -16,6 +20,8 @@ I've generated **AI summaries** with chatgpt-4o for manifestos with English Text
 ## Candidates & Manifestos
 
 ### Ranil Wickremesinghe (Independent)
+
+[Summary](data/summary/ind-rw-en.md)
 
 * [English (62 Pages, 7.6K Words, 30.9MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-en.pdf) · [Original Source](https://www.ranil2024.lk/manifesto)
 * [සිංහල (62 Pages, 11.1K Words, 11.7MB)](https://raw.githubusercontent.com/nuuuwan/manifestos_prespollsl2024/main/data/pdf/ind-rw-si.pdf) · [Original Source](https://www.ranil2024.lk/si/manifesto)
